@@ -1,0 +1,1777 @@
+===== bracket-track
+2026-11-04T16:08:21+07:00 A250 systemd[1]: Started bracket-track.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u track.py.
+2026-11-04T16:08:22+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (554,447) off (0.0,0.0) 0.0 fps
+2026-11-04T16:08:22+07:00 A250 python[1555]: bracket cam (732,47) dot (739,42) proj (567,433) off (13.3,-14.0) 24.1 fps
+2026-11-04T16:08:22+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 27.0 fps
+2026-11-04T16:08:23+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 27.7 fps
+2026-11-04T16:08:23+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 28.4 fps
+2026-11-04T16:08:23+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 28.5 fps
+2026-11-04T16:08:24+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 28.8 fps
+2026-11-04T16:08:24+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 28.9 fps
+2026-11-04T16:08:24+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.1 fps
+2026-11-04T16:08:25+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.1 fps
+2026-11-04T16:08:25+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.2 fps
+2026-11-04T16:08:25+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.2 fps
+2026-11-04T16:08:26+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.4 fps
+2026-11-04T16:08:26+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.4 fps
+2026-11-04T16:08:26+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.5 fps
+2026-11-04T16:08:27+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.5 fps
+2026-11-04T16:08:27+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.6 fps
+2026-11-04T16:08:27+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.6 fps
+2026-11-04T16:08:28+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.7 fps
+2026-11-04T16:08:28+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.7 fps
+2026-11-04T16:08:28+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.8 fps
+2026-11-04T16:08:29+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.8 fps
+2026-11-04T16:08:29+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.8 fps
+2026-11-04T16:08:29+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.8 fps
+2026-11-04T16:08:30+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.9 fps
+2026-11-04T16:08:30+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.9 fps
+2026-11-04T16:08:30+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.9 fps
+2026-11-04T16:08:31+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.9 fps
+2026-11-04T16:08:31+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.9 fps
+2026-11-04T16:08:31+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.9 fps
+2026-11-04T16:08:32+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:32+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:32+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:33+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:33+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:33+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:33+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:34+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:34+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.1 fps
+2026-11-04T16:08:34+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:35+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.1 fps
+2026-11-04T16:08:35+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.1 fps
+2026-11-04T16:08:35+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.1 fps
+2026-11-04T16:08:36+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.1 fps
+2026-11-04T16:08:36+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.1 fps
+2026-11-04T16:08:36+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:37+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:37+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:37+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:38+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:38+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:38+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:39+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:39+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:39+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:40+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:40+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:40+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:41+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:41+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:41+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:42+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:42+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:43+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:43+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:43+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:44+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:44+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:44+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:45+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:45+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:45+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:46+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:46+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:46+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:47+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:47+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:47+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:48+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:48+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:48+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:49+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:49+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:49+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 30.0 fps
+2026-11-04T16:08:50+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.9 fps
+2026-11-04T16:08:50+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.9 fps
+2026-11-04T16:08:50+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.9 fps
+2026-11-04T16:08:51+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.9 fps
+2026-11-04T16:08:51+07:00 A250 python[1555]: bracket cam (731,47) dot none proj (572,431) off (17.0,-15.9) 29.9 fps
+2026-11-04T16:08:51+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.9 fps
+2026-11-04T16:08:52+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.9 fps
+2026-11-04T16:08:52+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.9 fps
+2026-11-04T16:08:52+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.9 fps
+2026-11-04T16:08:53+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.9 fps
+2026-11-04T16:08:53+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.9 fps
+2026-11-04T16:08:53+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.9 fps
+2026-11-04T16:08:54+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.9 fps
+2026-11-04T16:08:54+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.9 fps
+2026-11-04T16:08:54+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.9 fps
+2026-11-04T16:08:55+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.9 fps
+2026-11-04T16:08:55+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.9 fps
+2026-11-04T16:08:55+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.9 fps
+2026-11-04T16:08:56+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.9 fps
+2026-11-04T16:08:56+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.9 fps
+2026-11-04T16:08:56+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.9 fps
+2026-11-04T16:08:57+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.9 fps
+2026-11-04T16:08:57+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.9 fps
+2026-11-04T16:08:57+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.9 fps
+2026-11-04T16:08:58+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.9 fps
+2026-11-04T16:08:58+07:00 A250 systemd[1]: Stopping bracket-track.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u track.py...
+2026-11-04T16:08:58+07:00 A250 python[1555]: stopped
+2026-11-04T16:08:58+07:00 A250 systemd[1]: bracket-track.service: Deactivated successfully.
+2026-11-04T16:08:58+07:00 A250 systemd[1]: Stopped bracket-track.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u track.py.
+2026-11-04T16:08:58+07:00 A250 systemd[1]: bracket-track.service: Consumed 51.972s CPU time.
+2026-11-04T16:08:58+07:00 A250 systemd[1]: Started bracket-track.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u track.py.
+2026-11-04T16:08:58+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (554,447) off (0.0,0.0) 0.0 fps
+2026-11-04T16:08:58+07:00 A250 python[1617]: bracket cam (732,47) dot (740,41) proj (567,437) off (13.2,-10.4) 25.6 fps
+2026-11-04T16:08:59+07:00 A250 python[1617]: bracket cam (732,47) dot (715,61) proj (554,456) off (-0.6,9.1) 28.0 fps
+2026-11-04T16:08:59+07:00 A250 python[1617]: bracket cam (732,47) dot (758,25) proj (551,422) off (-3.2,-25.1) 28.5 fps
+2026-11-04T16:08:59+07:00 A250 python[1617]: bracket cam (732,47) dot (690,90) proj (596,468) off (41.9,20.7) 29.0 fps
+2026-11-04T16:09:00+07:00 A250 python[1617]: bracket cam (732,47) dot (791,1) proj (488,423) off (-66.3,-24.1) 29.1 fps
+2026-11-04T16:09:00+07:00 A250 python[1617]: bracket cam (732,47) dot (685,115) proj (633,467) off (78.8,19.4) 29.4 fps
+2026-11-04T16:09:00+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 29.4 fps
+2026-11-04T16:09:01+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 29.6 fps
+2026-11-04T16:09:01+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 29.6 fps
+2026-11-04T16:09:01+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 29.7 fps
+2026-11-04T16:09:02+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 29.7 fps
+2026-11-04T16:09:02+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 29.8 fps
+2026-11-04T16:09:02+07:00 A250 python[1617]: bracket cam (732,46) dot none proj (434,539) off (-120.0,91.2) 29.8 fps
+2026-11-04T16:09:03+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 29.9 fps
+2026-11-04T16:09:03+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 29.9 fps
+2026-11-04T16:09:03+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.0 fps
+2026-11-04T16:09:04+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.0 fps
+2026-11-04T16:09:04+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.0 fps
+2026-11-04T16:09:04+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.0 fps
+2026-11-04T16:09:05+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.1 fps
+2026-11-04T16:09:05+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.0 fps
+2026-11-04T16:09:05+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.1 fps
+2026-11-04T16:09:06+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.1 fps
+2026-11-04T16:09:06+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.1 fps
+2026-11-04T16:09:06+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.1 fps
+2026-11-04T16:09:07+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.1 fps
+2026-11-04T16:09:07+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.1 fps
+2026-11-04T16:09:07+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.2 fps
+2026-11-04T16:09:08+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.2 fps
+2026-11-04T16:09:08+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.2 fps
+2026-11-04T16:09:08+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.2 fps
+2026-11-04T16:09:09+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.2 fps
+2026-11-04T16:09:09+07:00 A250 python[1617]: bracket cam (731,47) dot none proj (435,538) off (-120.0,91.2) 30.2 fps
+2026-11-04T16:09:09+07:00 A250 python[1617]: bracket cam (731,47) dot none proj (435,538) off (-120.0,91.2) 30.2 fps
+2026-11-04T16:09:10+07:00 A250 python[1617]: bracket cam (731,47) dot none proj (435,538) off (-120.0,91.2) 30.2 fps
+2026-11-04T16:09:10+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.3 fps
+2026-11-04T16:09:10+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.2 fps
+2026-11-04T16:09:11+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.3 fps
+2026-11-04T16:09:11+07:00 A250 python[1617]: bracket cam (731,47) dot none proj (435,538) off (-120.0,91.2) 30.3 fps
+2026-11-04T16:09:11+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.3 fps
+2026-11-04T16:09:12+07:00 A250 python[1617]: bracket cam (731,47) dot none proj (435,538) off (-120.0,91.2) 30.3 fps
+2026-11-04T16:09:12+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.3 fps
+2026-11-04T16:09:12+07:00 A250 python[1617]: bracket cam (731,47) dot none proj (435,538) off (-120.0,91.2) 30.3 fps
+2026-11-04T16:09:13+07:00 A250 python[1617]: bracket cam (731,47) dot none proj (435,538) off (-120.0,91.2) 30.3 fps
+2026-11-04T16:09:13+07:00 A250 python[1617]: bracket cam (731,47) dot none proj (435,538) off (-120.0,91.2) 30.3 fps
+2026-11-04T16:09:13+07:00 A250 python[1617]: bracket cam (731,47) dot none proj (435,538) off (-120.0,91.2) 30.3 fps
+2026-11-04T16:09:14+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.3 fps
+2026-11-04T16:09:14+07:00 A250 python[1617]: bracket cam (731,47) dot none proj (435,538) off (-120.0,91.2) 30.3 fps
+2026-11-04T16:09:14+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.3 fps
+2026-11-04T16:09:14+07:00 A250 python[1617]: bracket cam (731,47) dot none proj (435,538) off (-120.0,91.2) 30.3 fps
+2026-11-04T16:09:15+07:00 A250 python[1617]: bracket cam (731,47) dot none proj (435,538) off (-120.0,91.2) 30.3 fps
+2026-11-04T16:09:15+07:00 A250 python[1617]: bracket cam (731,47) dot none proj (435,538) off (-120.0,91.2) 30.3 fps
+2026-11-04T16:09:15+07:00 A250 python[1617]: bracket cam (731,47) dot none proj (435,538) off (-120.0,91.2) 30.3 fps
+2026-11-04T16:09:16+07:00 A250 python[1617]: bracket cam (731,47) dot none proj (435,538) off (-120.0,91.2) 30.3 fps
+2026-11-04T16:09:16+07:00 A250 python[1617]: bracket cam (731,47) dot none proj (435,538) off (-120.0,91.2) 30.3 fps
+2026-11-04T16:09:16+07:00 A250 python[1617]: bracket cam (731,47) dot none proj (435,538) off (-120.0,91.2) 30.3 fps
+2026-11-04T16:09:17+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.3 fps
+2026-11-04T16:09:17+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.3 fps
+2026-11-04T16:09:17+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.3 fps
+2026-11-04T16:09:18+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.3 fps
+2026-11-04T16:09:18+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.3 fps
+2026-11-04T16:09:18+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.4 fps
+2026-11-04T16:09:19+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.3 fps
+2026-11-04T16:09:19+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.4 fps
+2026-11-04T16:09:19+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.4 fps
+2026-11-04T16:09:20+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.4 fps
+2026-11-04T16:09:20+07:00 A250 python[1617]: bracket cam (731,47) dot none proj (435,538) off (-120.0,91.2) 30.4 fps
+2026-11-04T16:09:20+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.4 fps
+2026-11-04T16:09:21+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.4 fps
+2026-11-04T16:09:21+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.4 fps
+2026-11-04T16:09:21+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.4 fps
+2026-11-04T16:09:22+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.4 fps
+2026-11-04T16:09:22+07:00 A250 python[1617]: bracket cam (731,47) dot none proj (435,538) off (-120.0,91.2) 30.4 fps
+2026-11-04T16:09:22+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.4 fps
+2026-11-04T16:09:23+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.4 fps
+2026-11-04T16:09:23+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.4 fps
+2026-11-04T16:09:23+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.4 fps
+2026-11-04T16:09:24+07:00 A250 python[1617]: bracket cam (731,47) dot none proj (435,538) off (-120.0,91.2) 30.4 fps
+2026-11-04T16:09:24+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.4 fps
+2026-11-04T16:09:24+07:00 A250 python[1617]: bracket cam (731,47) dot none proj (435,538) off (-120.0,91.2) 30.4 fps
+2026-11-04T16:09:25+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.4 fps
+2026-11-04T16:09:25+07:00 A250 python[1617]: bracket cam (731,47) dot none proj (435,538) off (-120.0,91.2) 30.4 fps
+2026-11-04T16:09:25+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.4 fps
+2026-11-04T16:09:26+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.4 fps
+2026-11-04T16:09:26+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.4 fps
+2026-11-04T16:09:26+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.4 fps
+2026-11-04T16:09:27+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.4 fps
+2026-11-04T16:09:27+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.4 fps
+2026-11-04T16:09:27+07:00 A250 python[1617]: bracket cam (731,47) dot none proj (435,538) off (-120.0,91.2) 30.4 fps
+2026-11-04T16:09:28+07:00 A250 python[1617]: bracket cam (731,47) dot none proj (435,538) off (-120.0,91.2) 30.4 fps
+2026-11-04T16:09:28+07:00 A250 python[1617]: bracket cam (731,47) dot none proj (435,538) off (-120.0,91.2) 30.4 fps
+2026-11-04T16:09:28+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.4 fps
+2026-11-04T16:09:29+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.4 fps
+2026-11-04T16:09:29+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:29+07:00 A250 python[1617]: bracket cam (731,47) dot none proj (435,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:30+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:30+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:30+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:30+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:31+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:31+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:31+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:32+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:32+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:32+07:00 A250 python[1617]: bracket cam (731,47) dot none proj (435,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:33+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:33+07:00 A250 python[1617]: bracket cam (731,47) dot none proj (435,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:33+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:34+07:00 A250 python[1617]: bracket cam (731,47) dot none proj (435,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:34+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:34+07:00 A250 python[1617]: bracket cam (731,47) dot none proj (435,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:35+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:35+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:35+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:36+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:36+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:36+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:37+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:37+07:00 A250 python[1617]: bracket cam (731,47) dot none proj (435,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:37+07:00 A250 python[1617]: bracket cam (731,47) dot none proj (435,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:38+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:38+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:38+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:39+07:00 A250 python[1617]: bracket cam (731,47) dot none proj (435,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:39+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:39+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:40+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:40+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:40+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:41+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:41+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:41+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:42+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:42+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:42+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:43+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:43+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:43+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
+2026-11-04T16:09:43+07:00 A250 systemd[1]: Stopping bracket-track.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u track.py...
+2026-11-04T16:09:43+07:00 A250 python[1617]: stopped
+2026-11-04T16:09:43+07:00 A250 systemd[1]: bracket-track.service: Deactivated successfully.
+2026-11-04T16:09:43+07:00 A250 systemd[1]: Stopped bracket-track.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u track.py.
+2026-11-04T16:09:43+07:00 A250 systemd[1]: bracket-track.service: Consumed 1min 5.355s CPU time.
+2026-11-04T16:09:43+07:00 A250 systemd[1]: Started bracket-track.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u track.py.
+2026-11-04T16:09:44+07:00 A250 python[1671]: bracket cam (732,47) dot (737,39) err 9.3px proj (556,444) off (2.2,-3.3)
+2026-11-04T16:09:47+07:00 A250 python[1671]: bracket cam (732,47) dot (731,48) err 0.8px proj (556,444) off (2.1,-3.0)
+2026-11-04T16:09:50+07:00 A250 python[1671]: bracket cam (731,47) dot (733,41) err 6.3px proj (558,442) off (3.1,-5.5)
+2026-11-04T16:09:53+07:00 A250 python[1671]: bracket cam (731,47) dot (735,43) err 5.7px proj (559,440) off (4.7,-7.4)
+2026-11-04T16:09:56+07:00 A250 python[1671]: bracket cam (732,47) dot (730,52) err 5.2px proj (558,442) off (4.0,-5.2)
+2026-11-04T16:09:59+07:00 A250 python[1671]: bracket cam (732,47) dot (732,42) err 5.3px proj (558,440) off (4.3,-7.5)
+2026-11-04T16:10:01+07:00 A250 python[1671]: bracket cam (732,47) dot (729,46) err 2.8px proj (557,439) off (3.2,-7.9)
+2026-11-04T16:10:04+07:00 A250 python[1671]: bracket cam (731,47) dot (731,52) err 4.8px proj (558,441) off (3.1,-5.9)
+2026-11-04T16:10:07+07:00 A250 python[1671]: bracket cam (732,47) dot (736,43) err 5.8px proj (559,440) off (4.9,-7.6)
+2026-11-04T16:10:10+07:00 A250 python[1671]: bracket cam (732,47) dot (730,52) err 5.8px proj (558,442) off (4.0,-5.3)
+2026-11-04T16:10:13+07:00 A250 python[1671]: bracket cam (732,47) dot (730,49) err 2.7px proj (558,443) off (3.5,-4.3)
+2026-11-04T16:10:15+07:00 A250 python[1671]: bracket cam (732,47) dot (731,48) err 1.4px proj (558,444) off (3.4,-3.7)
+2026-11-04T16:10:18+07:00 A250 python[1671]: bracket cam (732,47) dot (731,49) err 1.8px proj (557,444) off (3.1,-3.0)
+2026-11-04T16:10:21+07:00 A250 python[1671]: bracket cam (732,47) dot (731,47) err 0.7px proj (557,444) off (2.8,-2.8)
+2026-11-04T16:10:24+07:00 A250 python[1671]: bracket cam (732,47) dot (731,48) err 1.3px proj (557,445) off (2.5,-2.4)
+2026-11-04T16:10:27+07:00 A250 python[1671]: bracket cam (732,47) dot (731,48) err 0.7px proj (557,445) off (2.3,-2.1)
+2026-11-04T16:10:30+07:00 A250 python[1671]: bracket cam (732,47) dot (732,46) err 0.9px proj (557,445) off (2.5,-2.5)
+2026-11-04T16:10:32+07:00 A250 python[1671]: bracket cam (732,47) dot (732,48) err 0.8px proj (557,445) off (2.6,-2.2)
+2026-11-04T16:10:35+07:00 A250 python[1671]: bracket cam (732,47) dot (731,46) err 0.7px proj (557,445) off (2.6,-2.4)
+2026-11-04T16:10:38+07:00 A250 python[1671]: bracket cam (732,47) dot (732,47) err 0.5px proj (557,445) off (2.6,-2.3)
+2026-11-04T16:10:41+07:00 A250 python[1671]: bracket cam (732,46) dot (731,46) err 0.4px proj (557,446) off (2.5,-2.3)
+2026-11-04T16:10:44+07:00 A250 python[1671]: bracket cam (732,47) dot (732,47) err 0.2px proj (557,445) off (2.5,-2.2)
+2026-11-04T16:10:47+07:00 A250 python[1671]: bracket cam (732,47) dot (731,46) err 0.7px proj (557,445) off (2.5,-2.5)
+2026-11-04T16:10:49+07:00 A250 python[1671]: bracket cam (731,47) dot (737,42) err 8.3px proj (560,442) off (5.2,-4.8)
+2026-11-04T16:10:52+07:00 A250 python[1671]: bracket cam (731,47) dot (736,43) err 6.9px proj (562,441) off (7.5,-6.7)
+2026-11-04T16:10:55+07:00 A250 python[1671]: bracket cam (732,47) dot (727,51) err 5.7px proj (560,442) off (5.8,-4.9)
+2026-11-04T16:10:58+07:00 A250 python[1671]: bracket cam (731,46) dot (728,49) err 4.1px proj (559,444) off (4.6,-3.6)
+2026-11-04T16:11:01+07:00 A250 python[1671]: bracket cam (731,47) dot (730,48) err 1.7px proj (559,444) off (4.1,-3.1)
+2026-11-04T16:11:03+07:00 A250 python[1671]: bracket cam (731,47) dot (734,40) err 7.4px proj (560,441) off (5.4,-6.0)
+2026-11-04T16:11:06+07:00 A250 python[1671]: bracket cam (731,47) dot (732,42) err 5.6px proj (561,439) off (6.1,-8.3)
+2026-11-04T16:11:09+07:00 A250 python[1671]: bracket cam (731,47) dot (728,52) err 6.4px proj (559,441) off (4.6,-6.0)
+2026-11-04T16:11:12+07:00 A250 python[1671]: bracket cam (731,47) dot (731,42) err 4.8px proj (559,439) off (4.5,-8.0)
+2026-11-04T16:11:15+07:00 A250 python[1671]: bracket cam (731,47) dot (722,51) err 9.9px proj (555,441) off (0.8,-6.2)
+2026-11-04T16:11:18+07:00 A250 python[1671]: bracket cam (731,47) dot (738,43) err 8.1px proj (558,439) off (3.8,-7.8)
+2026-11-04T16:11:20+07:00 A250 python[1671]: bracket cam (732,47) dot (731,53) err 5.5px proj (558,442) off (3.6,-5.5)
+2026-11-04T16:11:23+07:00 A250 python[1671]: bracket cam (697,55) dot (695,56) err 1.8px proj (593,433) off (2.9,-5.1)
+2026-11-04T16:11:26+07:00 A250 python[1671]: bracket cam (700,216) dot (701,220) err 3.5px proj (590,264) off (2.9,-3.6)
+2026-11-04T16:11:29+07:00 A250 python[1671]: bracket cam (694,222) dot (575,220) err 118.4px proj (548,258) off (-46.3,-3.8)
+2026-11-04T16:11:32+07:00 A250 python[1671]: bracket cam (798,222) dot (909,308) err 140.4px proj (486,293) off (0.1,31.7)
+2026-11-04T16:11:35+07:00 A250 python[1671]: bracket cam (797,222) dot (800,192) err 30.1px proj (488,282) off (1.6,19.1)
+2026-11-04T16:11:37+07:00 A250 python[1671]: bracket cam (797,222) dot (800,204) err 17.9px proj (489,274) off (2.7,11.7)
+2026-11-04T16:11:40+07:00 A250 python[1671]: bracket cam (478,267) dot (413,350) err 104.6px proj (795,259) off (-23.1,46.0)
+2026-11-04T16:11:43+07:00 A250 python[1671]: bracket cam (490,296) dot (496,228) err 68.7px proj (784,200) off (-20.9,17.5)
+2026-11-04T16:11:46+07:00 A250 python[1671]: bracket cam (594,50) dot (708,40) err 114.1px proj (725,456) off (26.8,13.0)
+2026-11-04T16:11:49+07:00 A250 python[1671]: bracket cam (836,60) dot (930,59) err 94.4px proj (511,448) off (66.9,12.6)
+2026-11-04T16:11:51+07:00 A250 python[1671]: bracket cam (680,173) dot (676,112) err 61.4px proj (673,300) off (64.8,-13.3)
+2026-11-04T16:11:54+07:00 A250 python[1671]: bracket cam (709,168) dot (648,179) err 61.8px proj (617,309) off (39.3,-8.7)
+2026-11-04T16:11:57+07:00 A250 python[1671]: bracket cam (710,169) dot (677,176) err 33.9px proj (602,312) off (25.4,-5.8)
+2026-11-04T16:12:00+07:00 A250 python[1671]: bracket cam (710,169) dot (670,47) err 128.5px proj (586,260) off (8.7,-57.5)
+2026-11-04T16:12:03+07:00 A250 python[1671]: bracket cam (818,144) dot (858,117) err 48.2px proj (490,277) off (25.8,-68.9)
+2026-11-04T16:12:06+07:00 A250 python[1671]: bracket cam (624,38) dot (599,98) err 64.6px proj (683,412) off (15.4,-43.4)
+2026-11-04T16:12:08+07:00 A250 python[1671]: bracket cam (686,154) dot (674,68) err 86.2px proj (612,254) off (10.2,-79.5)
+2026-11-04T16:12:11+07:00 A250 python[1671]: bracket cam (598,202) dot (673,108) err 120.3px proj (736,162) off (41.5,-119.4)
+2026-11-04T16:12:14+07:00 A250 python[1671]: bracket not found
+2026-11-04T16:12:16+07:00 A250 python[1671]: bracket cam (780,72) dot (690,59) err 90.1px proj (508,301) off (4.0,-120.0)
+2026-11-04T16:12:19+07:00 A250 python[1671]: bracket cam (761,288) dot (759,404) err 116.2px proj (527,121) off (3.1,-71.8)
+2026-11-04T16:12:22+07:00 A250 python[1671]: bracket cam (761,288) dot (760,358) err 69.6px proj (526,150) off (2.4,-42.8)
+2026-11-04T16:12:25+07:00 A250 python[1671]: bracket cam (761,288) dot (762,334) err 46.1px proj (527,170) off (2.9,-23.6)
+2026-11-04T16:12:28+07:00 A250 python[1671]: bracket cam (761,288) dot (762,312) err 24.1px proj (527,179) off (3.4,-13.6)
+2026-11-04T16:12:31+07:00 A250 python[1671]: bracket cam (761,288) dot (761,303) err 14.5px proj (527,185) off (3.3,-7.5)
+2026-11-04T16:12:33+07:00 A250 python[1671]: bracket cam (761,288) dot (768,290) err 6.9px proj (530,186) off (6.1,-6.8)
+2026-11-04T16:12:36+07:00 A250 python[1671]: bracket cam (734,186) dot (696,44) err 147.6px proj (542,232) off (-9.9,-67.2)
+2026-11-04T16:12:39+07:00 A250 python[1671]: bracket cam (692,28) dot (703,86) err 59.9px proj (591,426) off (-5.2,-42.1)
+2026-11-04T16:12:42+07:00 A250 python[1671]: bracket cam (692,28) dot (698,63) err 35.8px proj (594,441) off (-2.6,-27.0)
+2026-11-04T16:12:45+07:00 A250 python[1671]: bracket cam (692,28) dot (696,55) err 27.9px proj (596,452) off (-0.8,-15.2)
+2026-11-04T16:12:47+07:00 A250 python[1671]: bracket cam (692,28) dot (695,41) err 14.0px proj (597,458) off (0.6,-9.4)
+2026-11-04T16:12:50+07:00 A250 python[1671]: bracket cam (724,344) dot (731,347) err 8.0px proj (566,126) off (3.6,-8.2)
+2026-11-04T16:12:53+07:00 A250 python[1671]: bracket cam (724,344) dot (725,352) err 8.0px proj (567,129) off (4.1,-4.9)
+2026-11-04T16:12:56+07:00 A250 python[1671]: bracket cam (724,345) dot (730,346) err 6.2px proj (570,129) off (6.6,-4.3)
+2026-11-04T16:12:59+07:00 A250 python[1671]: bracket cam (724,345) dot (721,351) err 6.2px proj (569,131) off (5.5,-2.0)
+2026-11-04T16:13:01+07:00 A250 python[1671]: bracket cam (724,345) dot (724,345) err 0.5px proj (569,131) off (5.7,-1.9)
+2026-11-04T16:13:04+07:00 A250 python[1671]: bracket cam (724,345) dot (723,343) err 1.8px proj (569,131) off (5.7,-2.7)
+2026-11-04T16:13:07+07:00 A250 python[1671]: bracket cam (724,345) dot (725,344) err 2.1px proj (570,130) off (6.4,-3.1)
+2026-11-04T16:13:10+07:00 A250 python[1671]: bracket cam (724,345) dot (721,349) err 4.8px proj (568,132) off (5.3,-1.5)
+2026-11-04T16:13:13+07:00 A250 python[1671]: bracket cam (702,274) dot (701,276) err 2.2px proj (590,206) off (4.8,-0.7)
+2026-11-04T16:13:16+07:00 A250 python[1671]: bracket cam (491,240) dot (550,217) err 63.0px proj (833,231) off (29.1,-10.0)
+2026-11-04T16:13:18+07:00 A250 python[1671]: bracket cam (466,226) dot (437,238) err 30.9px proj (848,250) off (17.4,-5.1)
+2026-11-04T16:13:21+07:00 A250 python[1671]: bracket cam (864,165) dot (845,281) err 117.5px proj (424,367) off (9.2,43.9)
+2026-11-04T16:13:24+07:00 A250 python[1671]: bracket cam (598,106) dot (501,161) err 112.2px proj (662,451) off (-31.1,67.9)
+2026-11-04T16:13:27+07:00 A250 python[1671]: bracket cam (602,252) dot (527,357) err 128.9px proj (628,341) off (-61.7,111.7)
+2026-11-04T16:13:30+07:00 A250 python[1671]: bracket cam (520,274) dot (579,165) err 124.1px proj (736,271) off (-37.5,65.8)
+2026-11-04T16:13:33+07:00 A250 python[1671]: bracket cam (520,274) dot (555,203) err 79.3px proj (750,241) off (-23.4,35.9)
+2026-11-04T16:13:35+07:00 A250 python[1671]: bracket cam (520,274) dot (543,242) err 40.1px proj (760,227) off (-14.1,22.1)
+2026-11-04T16:13:38+07:00 A250 python[1671]: bracket cam (520,274) dot (534,255) err 23.8px proj (765,219) off (-8.4,14.0)
+2026-11-04T16:13:41+07:00 A250 python[1671]: bracket cam (520,274) dot (526,263) err 13.0px proj (768,214) off (-6.2,9.1)
+2026-11-04T16:13:44+07:00 A250 python[1671]: bracket cam (520,274) dot (524,266) err 10.0px proj (769,211) off (-4.4,5.4)
+2026-11-04T16:13:47+07:00 A250 python[1671]: bracket cam (520,274) dot (520,266) err 8.4px proj (769,207) off (-4.5,1.9)
+2026-11-04T16:13:49+07:00 A250 python[1671]: bracket cam (520,274) dot (523,270) err 5.2px proj (771,205) off (-3.4,0.1)
+2026-11-04T16:13:52+07:00 A250 python[1671]: bracket cam (520,274) dot (518,271) err 4.1px proj (770,204) off (-4.2,-1.5)
+2026-11-04T16:13:55+07:00 A250 python[1671]: bracket cam (520,274) dot (514,274) err 5.6px proj (767,203) off (-6.5,-1.8)
+2026-11-04T16:13:58+07:00 A250 python[1671]: bracket cam (520,274) dot (525,274) err 5.5px proj (770,203) off (-4.2,-1.9)
+2026-11-04T16:14:01+07:00 A250 python[1671]: bracket cam (520,274) dot (519,272) err 2.2px proj (769,202) off (-4.5,-2.8)
+2026-11-04T16:14:04+07:00 A250 python[1671]: bracket cam (520,274) dot (523,275) err 3.1px proj (771,202) off (-3.2,-2.8)
+2026-11-04T16:14:06+07:00 A250 python[1671]: bracket cam (520,274) dot (513,275) err 6.8px proj (768,203) off (-6.0,-2.5)
+2026-11-04T16:14:09+07:00 A250 python[1671]: bracket cam (520,274) dot (525,276) err 5.7px proj (770,203) off (-3.7,-1.9)
+2026-11-04T16:14:12+07:00 A250 python[1671]: bracket cam (520,274) dot (513,275) err 6.8px proj (767,203) off (-6.5,-1.8)
+2026-11-04T16:14:15+07:00 A250 python[1671]: bracket cam (520,274) dot (525,275) err 5.3px proj (770,203) off (-4.4,-1.8)
+2026-11-04T16:14:18+07:00 A250 python[1671]: bracket cam (520,274) dot (523,274) err 2.8px proj (771,203) off (-3.2,-2.1)
+2026-11-04T16:14:21+07:00 A250 python[1671]: bracket cam (520,274) dot (513,275) err 6.8px proj (768,203) off (-6.0,-2.0)
+2026-11-04T16:14:23+07:00 A250 python[1671]: bracket cam (520,274) dot (526,275) err 5.8px proj (770,203) off (-3.6,-1.9)
+2026-11-04T16:14:26+07:00 A250 python[1671]: bracket cam (520,274) dot (521,273) err 1.4px proj (771,203) off (-3.2,-2.3)
+2026-11-04T16:14:29+07:00 A250 python[1671]: bracket cam (520,274) dot (513,276) err 6.9px proj (768,203) off (-6.0,-1.8)
+2026-11-04T16:14:32+07:00 A250 python[1671]: bracket cam (520,274) dot (526,275) err 5.9px proj (770,204) off (-3.6,-1.7)
+2026-11-04T16:14:35+07:00 A250 python[1671]: bracket cam (520,274) dot (514,274) err 6.1px proj (768,203) off (-6.1,-1.8)
+2026-11-04T16:14:37+07:00 A250 python[1671]: bracket cam (520,274) dot (525,274) err 5.3px proj (770,203) off (-3.9,-1.9)
+2026-11-04T16:14:40+07:00 A250 python[1671]: bracket cam (520,274) dot (518,272) err 3.8px proj (768,202) off (-5.0,-3.0)
+2026-11-04T16:14:43+07:00 A250 python[1671]: bracket cam (520,274) dot (524,275) err 3.9px proj (770,202) off (-3.5,-2.9)
+2026-11-04T16:14:46+07:00 A250 python[1671]: bracket cam (520,274) dot (513,276) err 7.0px proj (768,203) off (-6.3,-2.3)
+2026-11-04T16:14:49+07:00 A250 python[1671]: bracket cam (520,274) dot (526,276) err 6.4px proj (770,204) off (-3.8,-1.5)
+2026-11-04T16:14:51+07:00 A250 systemd[1]: Stopping bracket-track.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u track.py...
+2026-11-04T16:14:51+07:00 A250 python[1671]: stopped
+2026-11-04T16:14:51+07:00 A250 systemd[1]: bracket-track.service: Deactivated successfully.
+2026-11-04T16:14:51+07:00 A250 systemd[1]: Stopped bracket-track.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u track.py.
+2026-11-04T16:14:51+07:00 A250 systemd[1]: bracket-track.service: Consumed 5min 46.328s CPU time.
+2026-11-04T16:14:51+07:00 A250 systemd[1]: Started bracket-track.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u track.py.
+2026-11-04T16:14:52+07:00 A250 python[1794]: hole0 (508,277) err 1.1px | hole1 (578,262) err 0.7px
+2026-11-04T16:14:54+07:00 A250 python[1794]: hole0 (508,277) err 0.6px | hole1 (578,262) err 0.5px
+2026-11-04T16:14:56+07:00 A250 python[1794]: hole0 (508,277) err 0.8px | hole1 (579,262) err 0.6px
+2026-11-04T16:14:58+07:00 A250 python[1794]: hole0 (508,277) err 0.9px | hole1 (579,262) err 0.6px
+2026-11-04T16:15:00+07:00 A250 python[1794]: hole0 (508,277) err 0.8px | hole1 (578,262) err 0.7px
+2026-11-04T16:15:02+07:00 A250 python[1794]: hole0 (508,277) err 0.7px | hole1 (579,262) err 0.6px
+2026-11-04T16:15:04+07:00 A250 python[1794]: hole0 (508,277) err 0.8px | hole1 (578,262) err 0.7px
+2026-11-04T16:15:06+07:00 A250 python[1794]: hole0 (508,277) err 0.9px | hole1 (578,262) err 0.5px
+2026-11-04T16:15:08+07:00 A250 python[1794]: hole0 (508,277) err 0.6px | hole1 (579,262) err 0.6px
+2026-11-04T16:15:10+07:00 A250 python[1794]: hole0 (508,277) err 0.8px | hole1 (578,262) err 0.6px
+2026-11-04T16:15:12+07:00 A250 python[1794]: hole0 (508,277) err 0.4px | hole1 (578,262) err 0.4px
+2026-11-04T16:15:14+07:00 A250 python[1794]: hole0 (508,277) err 0.4px | hole1 (579,262) err 0.7px
+2026-11-04T16:15:16+07:00 A250 python[1794]: hole0 (508,277) err 0.6px | hole1 (578,262) err 0.5px
+2026-11-04T16:15:18+07:00 A250 python[1794]: hole0 (508,277) err 0.3px | hole1 (578,262) err 0.5px
+2026-11-04T16:15:20+07:00 A250 python[1794]: hole0 (508,277) err 0.5px | hole1 (578,262) err 0.5px
+2026-11-04T16:15:22+07:00 A250 python[1794]: hole0 (508,277) err 0.5px | hole1 (578,262) err 0.6px
+2026-11-04T16:15:24+07:00 A250 python[1794]: hole0 (508,277) err 0.3px | hole1 (578,262) err 0.5px
+2026-11-04T16:15:26+07:00 A250 python[1794]: hole0 (508,277) err 0.2px | hole1 (578,262) err 0.6px
+2026-11-04T16:15:28+07:00 A250 python[1794]: hole0 (508,277) err 0.2px | hole1 (578,262) err 0.1px
+2026-11-04T16:15:30+07:00 A250 python[1794]: hole0 (508,277) err 0.4px | hole1 (578,262) err 0.2px
+2026-11-04T16:15:32+07:00 A250 python[1794]: hole0 (504,283) err 0.1px | hole1 (575,268) err 0.2px
+2026-11-04T16:15:34+07:00 A250 python[1794]: hole0 (437,259) err 4.0px | hole1 (506,241) err 0.7px
+2026-11-04T16:15:36+07:00 A250 python[1794]: hole0 (438,267) err 0.6px | hole1 (507,249) err 0.3px
+2026-11-04T16:15:38+07:00 A250 python[1794]: hole0 (577,303) err 0.2px | hole1 (648,294) err 1.5px
+2026-11-04T16:15:40+07:00 A250 python[1794]: hole0 (781,205) err 0.2px | hole1 (852,205) err 0.5px
+2026-11-04T16:15:42+07:00 A250 python[1794]: hole0 (772,91) err 2.1px | hole1 (842,91) err 1.5px
+2026-11-04T16:15:44+07:00 A250 python[1794]: hole0 (761,93) err 0.5px | hole1 (831,95) err 0.5px
+2026-11-04T16:15:46+07:00 A250 python[1794]: hole0 (674,90) err 0.2px | hole1 (745,90) err 5.5px
+2026-11-04T16:15:48+07:00 A250 python[1794]: hole0 (542,84) err 2.9px | hole1 (613,85) err 3.1px
+2026-11-04T16:15:50+07:00 A250 python[1794]: hole0 (842,60) err 0.2px | hole1 (910,58) err 0.4px
+2026-11-04T16:15:52+07:00 A250 python[1794]: hole0 (588,12) err 0.7px | hole1 (659,12) err 1.2px
+2026-11-04T16:15:54+07:00 A250 python[1794]: hole0 (588,12) err 1.4px | hole1 (659,12) err 2.7px
+2026-11-04T16:15:56+07:00 A250 python[1794]: hole0 (588,12) err 0.1px | hole1 (659,12) err 2.6px
+2026-11-04T16:15:58+07:00 A250 python[1794]: hole0 (594,19) err 0.4px | hole1 (665,18) err 0.2px
+2026-11-04T16:16:00+07:00 A250 python[1794]: hole0 (855,163) err 4.0px | hole1 (924,169) err 5.6px
+2026-11-04T16:16:02+07:00 A250 python[1794]: hole0 (643,27) err 1.5px | hole1 (712,42) err 0.7px
+2026-11-04T16:16:04+07:00 A250 python[1794]: hole0 (838,63) err 2.2px | hole1 (906,63) err 3.9px
+2026-11-04T16:16:06+07:00 A250 python[1794]: bracket/holes not found
+2026-11-04T16:16:08+07:00 A250 python[1794]: hole0 (469,146) err 2.0px | hole1 (541,146) err 2.8px
+2026-11-04T16:16:10+07:00 A250 python[1794]: hole0 (924,332) err 3.5px | hole1 (991,333) err 4.8px
+2026-11-04T16:16:12+07:00 A250 python[1794]: hole0 (579,73) err 0.4px | hole1 (650,73) err 4.9px
+2026-11-04T16:16:15+07:00 A250 python[1794]: hole0 (875,223) err 3.4px | hole1 (941,240) err 2.0px
+2026-11-04T16:16:16+07:00 A250 python[1794]: bracket/holes not found
+2026-11-04T16:16:19+07:00 A250 python[1794]: hole0 (691,186) err 2.6px | hole1 (763,189) err 5.6px
+2026-11-04T16:16:21+07:00 A250 python[1794]: hole0 (691,186) err 0.8px | hole1 (763,188) err 1.0px
+2026-11-04T16:16:23+07:00 A250 python[1794]: hole0 (691,186) err 0.3px | hole1 (763,188) err 0.3px
+2026-11-04T16:16:25+07:00 A250 python[1794]: hole0 (691,186) err 1.2px | hole1 (763,188) err 1.9px
+2026-11-04T16:16:27+07:00 A250 python[1794]: hole0 (691,186) err 0.8px | hole1 (763,188) err 0.9px
+2026-11-04T16:16:29+07:00 A250 python[1794]: hole0 (691,186) err 1.2px | hole1 (763,188) err 0.7px
+2026-11-04T16:16:31+07:00 A250 python[1794]: hole0 (691,186) err 0.5px | hole1 (763,188) err 3.6px
+2026-11-04T16:16:33+07:00 A250 python[1794]: hole0 (691,186) err 0.6px | hole1 (763,189) err 1.5px
+2026-11-04T16:16:35+07:00 A250 python[1794]: hole0 (691,186) err 0.7px | hole1 (763,189) err 1.5px
+2026-11-04T16:16:37+07:00 A250 python[1794]: hole0 (691,186) err 0.6px | hole1 (763,189) err 0.5px
+2026-11-04T16:16:39+07:00 A250 python[1794]: hole0 (691,186) err 0.4px | hole1 (763,189) err 0.9px
+2026-11-04T16:16:40+07:00 A250 python[1794]: bracket/holes not found
+2026-11-04T16:16:42+07:00 A250 python[1794]: bracket/holes not found
+2026-11-04T16:16:45+07:00 A250 python[1794]: bracket/holes not found
+2026-11-04T16:16:47+07:00 A250 python[1794]: bracket/holes not found
+2026-11-04T16:16:49+07:00 A250 python[1794]: bracket/holes not found
+2026-11-04T16:16:51+07:00 A250 python[1794]: bracket/holes not found
+2026-11-04T16:16:53+07:00 A250 python[1794]: bracket/holes not found
+2026-11-04T16:16:55+07:00 A250 python[1794]: bracket/holes not found
+2026-11-04T16:16:57+07:00 A250 python[1794]: bracket/holes not found
+2026-11-04T16:16:59+07:00 A250 python[1794]: bracket/holes not found
+2026-11-04T16:17:01+07:00 A250 python[1794]: bracket/holes not found
+2026-11-04T16:17:03+07:00 A250 python[1794]: bracket/holes not found
+2026-11-04T16:17:05+07:00 A250 python[1794]: bracket/holes not found
+2026-11-04T16:17:07+07:00 A250 python[1794]: hole0 (740,118) err 0.0px | hole1 (810,122) err 0.2px
+2026-11-04T16:17:09+07:00 A250 python[1794]: hole0 (739,118) err 0.4px | hole1 (810,122) err 1.1px
+2026-11-04T16:17:11+07:00 A250 python[1794]: bracket/holes not found
+2026-11-04T16:17:13+07:00 A250 python[1794]: hole0 (740,118) err 0.2px | hole1 (811,122) err 0.0px
+2026-11-04T16:17:15+07:00 A250 python[1794]: hole0 (740,118) err 0.8px | hole1 (811,122) err 0.7px
+2026-11-04T16:17:17+07:00 A250 python[1794]: hole0 (740,118) err 0.5px | hole1 (811,123) err 0.5px
+2026-11-04T16:17:19+07:00 A250 python[1794]: hole0 (748,27) err 0.5px | hole1 (818,32) err 0.8px
+2026-11-04T16:17:21+07:00 A250 python[1794]: hole0 (757,171) err 0.5px | hole1 (828,171) err 0.5px
+2026-11-04T16:17:23+07:00 A250 python[1794]: hole0 (757,171) err 0.7px | hole1 (828,171) err 0.6px
+2026-11-04T16:17:25+07:00 A250 python[1794]: hole0 (757,171) err 1.1px | hole1 (828,171) err 1.0px
+2026-11-04T16:17:27+07:00 A250 python[1794]: hole0 (757,171) err 0.7px | hole1 (828,171) err 0.9px
+2026-11-04T16:17:29+07:00 A250 python[1794]: hole0 (757,171) err 1.0px | hole1 (828,171) err 0.7px
+2026-11-04T16:17:31+07:00 A250 python[1794]: hole0 (757,171) err 1.0px | hole1 (828,171) err 0.7px
+2026-11-04T16:17:33+07:00 A250 python[1794]: hole0 (757,171) err 0.8px | hole1 (828,171) err 0.8px
+2026-11-04T16:17:35+07:00 A250 python[1794]: hole0 (757,171) err 0.4px | hole1 (828,171) err 0.7px
+2026-11-04T16:17:37+07:00 A250 python[1794]: hole0 (757,171) err 0.5px | hole1 (828,171) err 0.7px
+2026-11-04T16:17:39+07:00 A250 python[1794]: hole0 (757,171) err 0.6px | hole1 (828,171) err 0.6px
+2026-11-04T16:17:41+07:00 A250 python[1794]: hole0 (757,171) err 0.4px | hole1 (828,171) err 0.4px
+2026-11-04T16:17:43+07:00 A250 python[1794]: hole0 (757,171) err 0.6px | hole1 (828,171) err 0.6px
+2026-11-04T16:17:45+07:00 A250 python[1794]: hole0 (757,171) err 0.5px | hole1 (828,171) err 0.3px
+2026-11-04T16:17:47+07:00 A250 python[1794]: hole0 (757,171) err 0.6px | hole1 (828,171) err 0.3px
+2026-11-04T16:17:49+07:00 A250 python[1794]: hole0 (757,171) err 0.4px | hole1 (828,171) err 0.3px
+2026-11-04T16:17:51+07:00 A250 python[1794]: hole0 (757,171) err 0.2px | hole1 (828,171) err 0.4px
+2026-11-04T16:17:53+07:00 A250 python[1794]: hole0 (757,171) err 0.3px | hole1 (828,171) err 0.3px
+2026-11-04T16:17:55+07:00 A250 python[1794]: hole0 (757,171) err 0.1px | hole1 (828,171) err 0.6px
+2026-11-04T16:17:57+07:00 A250 python[1794]: hole0 (757,171) err 0.5px | hole1 (828,171) err 0.2px
+2026-11-04T16:17:59+07:00 A250 python[1794]: hole0 (757,171) err 0.6px | hole1 (828,171) err 0.2px
+2026-11-04T16:18:01+07:00 A250 python[1794]: hole0 (757,171) err 0.3px | hole1 (828,171) err 0.5px
+2026-11-04T16:18:04+07:00 A250 python[1794]: hole0 (757,171) err 0.5px | hole1 (828,171) err 0.4px
+2026-11-04T16:18:06+07:00 A250 python[1794]: hole0 (757,171) err 0.3px | hole1 (828,171) err 0.6px
+2026-11-04T16:18:08+07:00 A250 python[1794]: hole0 (757,171) err 0.4px | hole1 (828,171) err 0.3px
+2026-11-04T16:18:10+07:00 A250 python[1794]: hole0 (757,171) err 0.7px | hole1 (828,171) err 0.5px
+2026-11-04T16:18:12+07:00 A250 python[1794]: hole0 (757,171) err 0.4px | hole1 (828,171) err 0.3px
+2026-11-04T16:18:14+07:00 A250 python[1794]: hole0 (757,171) err 0.6px | hole1 (828,171) err 0.3px
+2026-11-04T16:18:16+07:00 A250 python[1794]: hole0 (757,171) err 0.2px | hole1 (828,171) err 0.4px
+2026-11-04T16:18:18+07:00 A250 python[1794]: hole0 (757,171) err 0.3px | hole1 (828,171) err 0.4px
+2026-11-04T16:18:20+07:00 A250 python[1794]: hole0 (757,171) err 0.6px | hole1 (828,171) err 0.5px
+2026-11-04T16:18:22+07:00 A250 python[1794]: hole0 (757,171) err 0.3px | hole1 (828,171) err 0.4px
+2026-11-04T16:18:24+07:00 A250 python[1794]: hole0 (757,171) err 0.1px | hole1 (828,171) err 0.5px
+2026-11-04T16:18:26+07:00 A250 python[1794]: hole0 (757,171) err 0.9px | hole1 (828,171) err 1.5px
+2026-11-04T16:18:28+07:00 A250 python[1794]: hole0 (757,171) err 0.7px | hole1 (828,171) err 1.2px
+2026-11-04T16:18:30+07:00 A250 python[1794]: hole0 (757,165) err 1.6px | hole1 (828,165) err 1.7px
+2026-11-04T16:18:32+07:00 A250 python[1794]: hole0 (757,164) err 3.4px | hole1 (828,164) err 3.5px
+2026-11-04T16:18:34+07:00 A250 python[1794]: hole0 (758,174) err 0.4px | hole1 (829,174) err 0.3px
+2026-11-04T16:18:35+07:00 A250 python[1794]: bracket/holes not found
+2026-11-04T16:18:38+07:00 A250 python[1794]: hole0 (759,328) err 0.3px | hole1 (830,327) err 0.1px
+2026-11-04T16:18:40+07:00 A250 python[1794]: hole0 (759,371) err 2.5px | hole1 (830,370) err 2.6px
+2026-11-04T16:18:42+07:00 A250 python[1794]: hole0 (759,371) err 1.9px | hole1 (830,370) err 1.8px
+2026-11-04T16:18:44+07:00 A250 python[1794]: hole0 (759,371) err 1.9px | hole1 (830,370) err 1.5px
+2026-11-04T16:18:46+07:00 A250 python[1794]: hole0 (759,371) err 1.8px | hole1 (830,370) err 1.7px
+2026-11-04T16:18:48+07:00 A250 python[1794]: hole0 (759,393) err 0.2px | hole1 (830,392) err 0.3px
+2026-11-04T16:18:50+07:00 A250 python[1794]: hole0 (758,515) dot none | hole1 (829,513) dot none
+2026-11-04T16:18:52+07:00 A250 python[1794]: hole0 (758,515) dot none | hole1 (829,513) dot none
+2026-11-04T16:18:54+07:00 A250 python[1794]: hole0 (758,515) dot none | hole1 (829,513) dot none
+2026-11-04T16:18:56+07:00 A250 python[1794]: hole0 (758,515) dot none | hole1 (829,513) dot none
+2026-11-04T16:18:58+07:00 A250 python[1794]: hole0 (759,335) err 6.2px | hole1 (830,334) err 5.6px
+2026-11-04T16:19:00+07:00 A250 python[1794]: hole0 (759,321) err 0.3px | hole1 (830,320) err 0.2px
+2026-11-04T16:19:02+07:00 A250 python[1794]: hole0 (758,174) err 0.1px | hole1 (829,173) err 0.1px
+2026-11-04T16:19:04+07:00 A250 python[1794]: hole0 (756,50) err 0.4px | hole1 (826,50) err 0.2px
+2026-11-04T16:19:06+07:00 A250 python[1794]: hole0 (756,50) err 0.3px | hole1 (826,50) err 0.2px
+2026-11-04T16:19:08+07:00 A250 python[1794]: hole0 (756,50) err 1.1px | hole1 (826,50) err 0.3px
+2026-11-04T16:19:10+07:00 A250 python[1794]: hole0 (756,49) err 0.6px | hole1 (826,50) err 1.1px
+2026-11-04T16:19:12+07:00 A250 python[1794]: hole0 (756,49) err 0.2px | hole1 (826,50) err 0.4px
+2026-11-04T16:19:14+07:00 A250 python[1794]: hole0 (756,50) err 0.6px | hole1 (826,50) err 0.2px
+2026-11-04T16:19:16+07:00 A250 python[1794]: hole0 (756,50) err 0.4px | hole1 (826,50) err 0.1px
+2026-11-04T16:19:18+07:00 A250 python[1794]: hole0 (757,112) err 0.0px | hole1 (828,113) err 0.1px
+2026-11-04T16:19:20+07:00 A250 python[1794]: hole0 (758,190) err 0.4px | hole1 (829,190) err 0.1px
+2026-11-04T16:19:22+07:00 A250 python[1794]: hole0 (758,190) err 0.3px | hole1 (829,190) err 0.2px
+2026-11-04T16:19:24+07:00 A250 python[1794]: hole0 (737,433) err 0.8px | hole1 (808,439) err 0.5px
+2026-11-04T16:19:26+07:00 A250 python[1794]: hole0 (737,431) err 0.4px | hole1 (808,435) err 0.3px
+2026-11-04T16:19:28+07:00 A250 python[1794]: hole0 (527,173) err 0.9px | hole1 (599,177) err 0.3px
+2026-11-04T16:19:30+07:00 A250 python[1794]: hole0 (899,157) err 5.3px | hole1 (965,154) err 0.4px
+2026-11-04T16:19:32+07:00 A250 python[1794]: hole0 (958,142) err 5.9px | hole1 (1024,145) err 8.6px
+2026-11-04T16:19:34+07:00 A250 python[1794]: hole0 (958,142) err 0.8px | hole1 (1024,146) err 3.4px
+2026-11-04T16:19:36+07:00 A250 python[1794]: hole0 (958,142) err 0.8px | hole1 (1024,146) err 2.6px
+2026-11-04T16:19:38+07:00 A250 python[1794]: hole0 (958,142) err 0.7px | hole1 (1024,145) err 0.9px
+2026-11-04T16:19:40+07:00 A250 python[1794]: hole0 (958,142) err 0.7px | hole1 (1024,145) err 0.7px
+2026-11-04T16:19:42+07:00 A250 python[1794]: hole0 (958,142) err 0.6px | hole1 (1024,145) err 0.9px
+2026-11-04T16:19:44+07:00 A250 python[1794]: hole0 (958,142) err 0.7px | hole1 (1024,145) err 0.7px
+2026-11-04T16:19:46+07:00 A250 python[1794]: hole0 (958,142) err 0.6px | hole1 (1024,145) err 0.7px
+2026-11-04T16:19:48+07:00 A250 python[1794]: hole0 (958,142) err 0.4px | hole1 (1024,145) err 0.2px
+2026-11-04T16:19:50+07:00 A250 python[1794]: hole0 (958,142) err 0.6px | hole1 (1024,145) err 0.4px
+2026-11-04T16:19:52+07:00 A250 python[1794]: hole0 (958,142) err 0.5px | hole1 (1024,145) err 0.4px
+2026-11-04T16:19:54+07:00 A250 python[1794]: hole0 (958,142) err 0.3px | hole1 (1024,145) err 0.4px
+2026-11-04T16:19:56+07:00 A250 python[1794]: hole0 (958,142) err 0.5px | hole1 (1024,145) err 0.6px
+2026-11-04T16:19:58+07:00 A250 python[1794]: hole0 (958,142) err 0.3px | hole1 (1024,145) err 0.6px
+2026-11-04T16:20:00+07:00 A250 python[1794]: hole0 (958,142) err 0.4px | hole1 (1024,145) err 0.5px
+2026-11-04T16:20:03+07:00 A250 python[1794]: hole0 (958,142) err 0.7px | hole1 (1024,146) err 4.1px
+2026-11-04T16:20:05+07:00 A250 python[1794]: hole0 (958,142) err 0.8px | hole1 (1024,146) err 8.2px
+2026-11-04T16:20:07+07:00 A250 python[1794]: hole0 (747,405) err 0.2px | hole1 (818,395) err 1.8px
+2026-11-04T16:20:09+07:00 A250 python[1794]: hole0 (784,244) err 0.2px | hole1 (845,281) err 0.3px
+2026-11-04T16:20:11+07:00 A250 python[1794]: hole0 (675,363) err 2.0px | hole1 (760,285) err 0.5px
+2026-11-04T16:20:13+07:00 A250 python[1794]: hole0 (714,285) err 0.4px | hole1 (785,284) err 1.2px
+2026-11-04T16:20:15+07:00 A250 python[1794]: hole0 (752,316) err 0.8px | hole1 (802,263) err 1.3px
+2026-11-04T16:20:17+07:00 A250 python[1794]: hole0 (733,306) err 0.3px | hole1 (801,330) err 0.6px
+2026-11-04T16:20:19+07:00 A250 python[1794]: hole0 (728,252) err 0.4px | hole1 (796,279) err 1.5px
+2026-11-04T16:20:21+07:00 A250 python[1794]: hole0 (886,277) err 0.4px | hole1 (955,282) err 0.5px
+2026-11-04T16:20:22+07:00 A250 python[1794]: bracket/holes not found
+2026-11-04T16:20:25+07:00 A250 python[1794]: hole0 (741,442) err 0.9px | hole1 (812,455) err 0.1px
+2026-11-04T16:20:26+07:00 A250 python[1794]: bracket/holes not found
+2026-11-04T16:20:29+07:00 A250 python[1794]: hole0 (639,321) err 0.2px | hole1 (711,331) err 0.2px
+2026-11-04T16:20:31+07:00 A250 python[1794]: hole0 (666,276) err 0.5px | hole1 (737,289) err 0.2px
+2026-11-04T16:20:32+07:00 A250 python[1794]: bracket/holes not found
+2026-11-04T16:20:35+07:00 A250 python[1794]: bracket/holes not found
+2026-11-04T16:20:37+07:00 A250 python[1794]: hole0 (729,374) err 2.1px | hole1 (820,374) err 0.9px
+2026-11-04T16:20:39+07:00 A250 python[1794]: hole0 (778,487) err 5.3px | hole1 (876,488) err 5.4px
+2026-11-04T16:20:41+07:00 A250 python[1794]: hole0 (770,486) err 7.8px | hole1 (871,486) err 8.0px
+2026-11-04T16:20:43+07:00 A250 python[1794]: hole0 (756,484) err 7.6px | hole1 (858,483) err 7.3px
+2026-11-04T16:20:45+07:00 A250 python[1794]: hole0 (730,423) err 2.5px | hole1 (811,423) err 3.1px
+2026-11-04T16:20:47+07:00 A250 python[1794]: bracket/holes not found
+2026-11-04T16:20:49+07:00 A250 python[1794]: hole0 (724,271) err 1.9px | hole1 (803,270) err 2.1px
+2026-11-04T16:20:51+07:00 A250 python[1794]: hole0 (739,279) err 2.6px | hole1 (820,279) err 2.6px
+2026-11-04T16:20:53+07:00 A250 python[1794]: hole0 (756,299) err 2.9px | hole1 (843,297) err 2.9px
+2026-11-04T16:20:55+07:00 A250 python[1794]: hole0 (753,313) err 3.3px | hole1 (833,314) err 3.4px
+2026-11-04T16:20:57+07:00 A250 python[1794]: hole0 (746,315) err 26.4px | hole1 (825,316) err 26.0px
+2026-11-04T16:20:59+07:00 A250 python[1794]: hole0 (746,315) err 4.0px | hole1 (826,316) err 3.8px
+2026-11-04T16:21:01+07:00 A250 python[1794]: hole0 (746,315) err 3.4px | hole1 (825,316) err 2.7px
+2026-11-04T16:21:03+07:00 A250 python[1794]: hole0 (746,315) err 2.7px | hole1 (826,316) err 2.1px
+2026-11-04T16:21:05+07:00 A250 python[1794]: hole0 (746,315) err 2.2px | hole1 (826,316) err 1.8px
+2026-11-04T16:21:07+07:00 A250 python[1794]: hole0 (746,315) err 1.7px | hole1 (826,316) err 1.8px
+2026-11-04T16:21:09+07:00 A250 python[1794]: hole0 (746,315) err 1.3px | hole1 (826,316) err 1.3px
+2026-11-04T16:21:11+07:00 A250 python[1794]: hole0 (746,315) err 1.2px | hole1 (826,316) err 1.1px
+2026-11-04T16:21:13+07:00 A250 python[1794]: hole0 (746,315) err 0.8px | hole1 (826,316) err 1.0px
+2026-11-04T16:21:15+07:00 A250 python[1794]: hole0 (746,315) err 0.8px | hole1 (826,316) err 1.0px
+2026-11-04T16:21:17+07:00 A250 python[1794]: hole0 (746,315) err 0.5px | hole1 (826,316) err 0.7px
+2026-11-04T16:21:19+07:00 A250 python[1794]: hole0 (746,315) err 0.6px | hole1 (826,316) err 0.9px
+2026-11-04T16:21:21+07:00 A250 python[1794]: hole0 (746,315) err 0.3px | hole1 (826,316) err 0.4px
+2026-11-04T16:21:23+07:00 A250 python[1794]: hole0 (746,315) err 0.4px | hole1 (826,316) err 0.6px
+2026-11-04T16:21:25+07:00 A250 python[1794]: hole0 (746,315) err 0.5px | hole1 (826,316) err 0.5px
+2026-11-04T16:21:28+07:00 A250 python[1794]: hole0 (746,315) err 0.5px | hole1 (826,316) err 0.7px
+2026-11-04T16:21:30+07:00 A250 python[1794]: hole0 (746,315) err 0.6px | hole1 (826,316) err 0.7px
+2026-11-04T16:21:32+07:00 A250 python[1794]: hole0 (746,315) err 0.4px | hole1 (826,316) err 0.5px
+2026-11-04T16:21:34+07:00 A250 python[1794]: hole0 (746,315) err 0.4px | hole1 (826,316) err 0.5px
+2026-11-04T16:21:36+07:00 A250 python[1794]: hole0 (746,315) err 0.4px | hole1 (826,316) err 0.3px
+2026-11-04T16:21:38+07:00 A250 python[1794]: hole0 (746,315) err 0.4px | hole1 (826,316) err 0.5px
+2026-11-04T16:21:40+07:00 A250 python[1794]: hole0 (746,315) err 0.3px | hole1 (826,316) err 0.3px
+2026-11-04T16:21:42+07:00 A250 python[1794]: hole0 (746,315) err 0.3px | hole1 (826,316) err 0.3px
+2026-11-04T16:21:44+07:00 A250 python[1794]: hole0 (746,315) err 0.3px | hole1 (826,316) err 0.3px
+2026-11-04T16:21:46+07:00 A250 python[1794]: hole0 (746,315) err 0.2px | hole1 (826,316) err 0.2px
+2026-11-04T16:21:48+07:00 A250 python[1794]: hole0 (746,315) err 0.1px | hole1 (826,316) err 0.3px
+2026-11-04T16:21:50+07:00 A250 python[1794]: hole0 (746,315) err 0.3px | hole1 (826,316) err 0.3px
+2026-11-04T16:21:52+07:00 A250 python[1794]: hole0 (746,315) err 0.2px | hole1 (826,316) err 0.1px
+2026-11-04T16:21:54+07:00 A250 python[1794]: hole0 (751,315) err 4.7px | hole1 (835,316) err 3.9px
+2026-11-04T16:21:56+07:00 A250 python[1794]: hole0 (760,314) dot none | hole1 (850,316) err 7.5px
+2026-11-04T16:21:58+07:00 A250 python[1794]: hole0 (760,314) dot none | hole1 (851,316) dot none
+2026-11-04T16:22:00+07:00 A250 python[1794]: hole0 (760,314) dot none | hole1 (851,316) dot none
+2026-11-04T16:22:02+07:00 A250 python[1794]: hole0 (760,314) dot none | hole1 (851,316) dot none
+2026-11-04T16:22:04+07:00 A250 python[1794]: hole0 (760,314) dot none | hole1 (851,316) dot none
+2026-11-04T16:22:06+07:00 A250 python[1794]: hole0 (760,314) dot none | hole1 (851,316) dot none
+2026-11-04T16:22:08+07:00 A250 python[1794]: hole0 (760,314) dot none | hole1 (851,316) dot none
+2026-11-04T16:22:10+07:00 A250 python[1794]: hole0 (760,314) dot none | hole1 (851,316) dot none
+2026-11-04T16:22:12+07:00 A250 python[1794]: hole0 (760,314) dot none | hole1 (851,316) dot none
+2026-11-04T16:22:14+07:00 A250 python[1794]: hole0 (760,314) dot none | hole1 (851,316) dot none
+2026-11-04T16:22:16+07:00 A250 python[1794]: hole0 (760,314) dot none | hole1 (851,316) dot none
+2026-11-04T16:22:18+07:00 A250 python[1794]: hole0 (760,314) dot none | hole1 (851,316) dot none
+2026-11-04T16:22:20+07:00 A250 python[1794]: hole0 (760,314) dot none | hole1 (851,316) dot none
+2026-11-04T16:22:22+07:00 A250 python[1794]: hole0 (760,314) dot none | hole1 (851,316) dot none
+2026-11-04T16:22:24+07:00 A250 python[1794]: hole0 (760,314) dot none | hole1 (851,316) dot none
+2026-11-04T16:22:26+07:00 A250 python[1794]: hole0 (760,314) dot none | hole1 (851,316) dot none
+2026-11-04T16:22:28+07:00 A250 python[1794]: hole0 (760,314) dot none | hole1 (851,316) dot none
+2026-11-04T16:22:30+07:00 A250 python[1794]: hole0 (760,314) dot none | hole1 (851,316) dot none
+2026-11-04T16:22:32+07:00 A250 python[1794]: hole0 (760,314) dot none | hole1 (851,316) dot none
+2026-11-04T16:22:34+07:00 A250 python[1794]: hole0 (760,314) dot none | hole1 (851,316) dot none
+2026-11-04T16:22:36+07:00 A250 systemd[1]: Stopping bracket-track.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u track.py...
+2026-11-04T16:22:36+07:00 A250 python[1794]: hole0 (760,314) dot none | hole1 (851,316) dot none
+2026-11-04T16:22:36+07:00 A250 python[1794]: stopped
+2026-11-04T16:22:36+07:00 A250 systemd[1]: bracket-track.service: Deactivated successfully.
+2026-11-04T16:22:36+07:00 A250 systemd[1]: Stopped bracket-track.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u track.py.
+2026-11-04T16:22:36+07:00 A250 systemd[1]: bracket-track.service: Consumed 6min 44.079s CPU time.
+2026-11-04T16:22:36+07:00 A250 systemd[1]: Started bracket-track.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u track.py.
+2026-11-04T16:22:37+07:00 A250 python[2028]: hole0 (760,314) err 138.2px | hole1 (851,316) err 66.7px
+2026-11-04T16:22:39+07:00 A250 python[2028]: hole0 (760,314) err 30.0px | hole1 (851,316) err 8.9px
+2026-11-04T16:22:41+07:00 A250 python[2028]: hole0 (760,314) dot none | hole1 (851,316) dot none
+2026-11-04T16:22:43+07:00 A250 python[2028]: hole0 (760,314) dot none | hole1 (851,316) dot none
+2026-11-04T16:22:45+07:00 A250 python[2028]: hole0 (760,314) dot none | hole1 (851,316) dot none
+2026-11-04T16:22:47+07:00 A250 python[2028]: hole0 (760,314) dot none | hole1 (851,316) dot none
+2026-11-04T16:22:49+07:00 A250 python[2028]: hole0 (760,314) err 93.0px | hole1 (851,316) err 7.3px
+2026-11-04T16:22:51+07:00 A250 python[2028]: hole0 (760,314) err 58.1px | hole1 (851,316) err 5.7px
+2026-11-04T16:22:53+07:00 A250 python[2028]: hole0 (760,314) err 29.3px | hole1 (851,316) err 4.5px
+2026-11-04T16:22:55+07:00 A250 python[2028]: hole0 (760,314) err 28.8px | hole1 (851,316) err 3.7px
+2026-11-04T16:22:57+07:00 A250 python[2028]: hole0 (760,314) err 4.9px | hole1 (851,316) err 2.7px
+2026-11-04T16:22:59+07:00 A250 python[2028]: hole0 (760,314) err 4.1px | hole1 (851,316) err 2.4px
+2026-11-04T16:23:01+07:00 A250 python[2028]: hole0 (760,314) err 3.2px | hole1 (851,316) err 1.7px
+2026-11-04T16:23:03+07:00 A250 python[2028]: hole0 (760,314) err 2.5px | hole1 (851,316) err 1.5px
+2026-11-04T16:23:05+07:00 A250 python[2028]: hole0 (760,314) err 1.8px | hole1 (851,316) err 1.4px
+2026-11-04T16:23:07+07:00 A250 python[2028]: hole0 (760,314) err 1.6px | hole1 (850,316) err 1.2px
+2026-11-04T16:23:09+07:00 A250 python[2028]: hole0 (760,314) err 1.2px | hole1 (851,316) err 1.0px
+2026-11-04T16:23:11+07:00 A250 python[2028]: hole0 (760,314) err 0.9px | hole1 (851,316) err 0.8px
+2026-11-04T16:23:13+07:00 A250 python[2028]: hole0 (760,314) err 0.9px | hole1 (851,316) err 0.9px
+2026-11-04T16:23:15+07:00 A250 python[2028]: hole0 (760,314) err 0.8px | hole1 (851,316) err 1.0px
+2026-11-04T16:23:17+07:00 A250 python[2028]: hole0 (760,314) err 0.9px | hole1 (851,316) err 0.7px
+2026-11-04T16:23:19+07:00 A250 python[2028]: hole0 (760,314) err 0.8px | hole1 (851,316) err 0.6px
+2026-11-04T16:23:21+07:00 A250 python[2028]: hole0 (760,314) err 0.9px | hole1 (851,316) err 0.6px
+2026-11-04T16:23:23+07:00 A250 python[2028]: hole0 (760,314) err 0.4px | hole1 (851,316) err 0.6px
+2026-11-04T16:23:25+07:00 A250 python[2028]: hole0 (760,314) err 0.5px | hole1 (851,316) err 0.5px
+2026-11-04T16:23:27+07:00 A250 python[2028]: hole0 (760,314) err 0.4px | hole1 (851,316) err 0.6px
+2026-11-04T16:23:30+07:00 A250 python[2028]: hole0 (760,314) err 0.5px | hole1 (851,316) err 0.5px
+2026-11-04T16:23:32+07:00 A250 python[2028]: hole0 (760,314) err 0.4px | hole1 (851,316) err 0.5px
+2026-11-04T16:23:34+07:00 A250 python[2028]: hole0 (760,314) err 0.4px | hole1 (851,316) err 0.4px
+2026-11-04T16:23:36+07:00 A250 python[2028]: hole0 (760,314) err 0.2px | hole1 (851,316) err 0.4px
+2026-11-04T16:23:38+07:00 A250 python[2028]: hole0 (760,314) err 0.1px | hole1 (851,316) err 0.2px
+2026-11-04T16:23:40+07:00 A250 python[2028]: hole0 (760,314) err 0.2px | hole1 (851,316) err 0.3px
+2026-11-04T16:23:42+07:00 A250 python[2028]: hole0 (760,314) err 0.4px | hole1 (851,316) err 0.1px
+2026-11-04T16:23:44+07:00 A250 python[2028]: hole0 (760,314) err 0.2px | hole1 (851,316) err 0.2px
+2026-11-04T16:23:46+07:00 A250 python[2028]: hole0 (760,314) err 0.6px | hole1 (851,316) err 1.0px
+2026-11-04T16:23:48+07:00 A250 python[2028]: hole0 (767,228) err 0.5px | hole1 (863,230) err 0.4px
+2026-11-04T16:23:50+07:00 A250 python[2028]: hole0 (775,126) err 0.2px | hole1 (877,130) err 0.1px
+2026-11-04T16:23:52+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:23:54+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:23:56+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:23:58+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:24:00+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:24:02+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:24:04+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:24:06+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:24:08+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:24:10+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:24:12+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:24:14+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:24:16+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:24:18+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:24:20+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:24:22+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:24:24+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:24:26+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:24:28+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:24:30+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:24:32+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:24:34+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:24:36+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:24:38+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:24:40+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:24:42+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:24:44+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:24:46+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:24:48+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:24:50+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:24:52+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (880,108) dot none
+2026-11-04T16:24:54+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:24:56+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:24:58+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:25:00+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,109) dot none
+2026-11-04T16:25:02+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,109) dot none
+2026-11-04T16:25:04+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:25:06+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:25:08+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:25:10+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:25:12+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:25:14+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:25:16+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:25:18+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:25:20+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:25:22+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:25:24+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:25:26+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:25:28+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:25:30+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:25:33+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:25:35+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:25:37+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:25:39+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:25:41+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:25:43+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:25:45+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:25:47+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,109) dot none
+2026-11-04T16:25:49+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:25:51+07:00 A250 python[2028]: hole0 (777,105) dot none | hole1 (879,108) dot none
+2026-11-04T16:25:53+07:00 A250 python[2028]: hole0 (773,111) err 5.6px | hole1 (873,114) err 4.7px
+2026-11-04T16:25:55+07:00 A250 python[2028]: hole0 (758,133) err 5.4px | hole1 (848,135) err 4.8px
+2026-11-04T16:25:57+07:00 A250 python[2028]: hole0 (747,151) err 5.5px | hole1 (828,153) err 4.9px
+2026-11-04T16:25:59+07:00 A250 python[2028]: hole0 (737,165) err 5.4px | hole1 (811,167) err 4.9px
+2026-11-04T16:26:01+07:00 A250 python[2028]: hole0 (733,171) dot none | hole1 (805,173) dot none
+2026-11-04T16:26:03+07:00 A250 python[2028]: hole0 (734,315) err 31.9px | hole1 (806,316) err 100.5px
+2026-11-04T16:26:05+07:00 A250 python[2028]: hole0 (734,315) err 20.5px | hole1 (806,316) err 21.0px
+2026-11-04T16:26:07+07:00 A250 python[2028]: hole0 (734,315) err 19.7px | hole1 (806,316) err 20.4px
+2026-11-04T16:26:09+07:00 A250 python[2028]: hole0 (734,315) err 4.8px | hole1 (806,316) err 3.6px
+2026-11-04T16:26:11+07:00 A250 python[2028]: hole0 (734,315) err 3.5px | hole1 (806,316) err 3.5px
+2026-11-04T16:26:13+07:00 A250 python[2028]: hole0 (734,315) err 2.7px | hole1 (806,316) err 2.5px
+2026-11-04T16:26:15+07:00 A250 python[2028]: hole0 (734,315) err 2.6px | hole1 (806,316) err 2.3px
+2026-11-04T16:26:17+07:00 A250 python[2028]: hole0 (734,315) err 2.1px | hole1 (806,316) err 1.6px
+2026-11-04T16:26:19+07:00 A250 python[2028]: hole0 (734,315) err 1.9px | hole1 (806,316) err 1.5px
+2026-11-04T16:26:21+07:00 A250 python[2028]: hole0 (734,315) err 1.5px | hole1 (806,316) err 1.2px
+2026-11-04T16:26:23+07:00 A250 python[2028]: hole0 (734,315) err 1.3px | hole1 (806,316) err 0.9px
+2026-11-04T16:26:25+07:00 A250 python[2028]: hole0 (734,315) err 1.0px | hole1 (806,316) err 0.6px
+2026-11-04T16:26:27+07:00 A250 python[2028]: hole0 (734,315) err 0.7px | hole1 (806,316) err 0.5px
+2026-11-04T16:26:29+07:00 A250 python[2028]: hole0 (734,315) err 0.9px | hole1 (806,316) err 0.5px
+2026-11-04T16:26:31+07:00 A250 python[2028]: hole0 (734,314) err 0.6px | hole1 (806,316) err 0.5px
+2026-11-04T16:26:33+07:00 A250 python[2028]: hole0 (734,315) err 0.6px | hole1 (806,316) err 0.7px
+2026-11-04T16:26:35+07:00 A250 python[2028]: hole0 (734,315) err 0.5px | hole1 (806,316) err 0.5px
+2026-11-04T16:26:37+07:00 A250 python[2028]: hole0 (734,314) err 0.4px | hole1 (806,315) err 0.4px
+2026-11-04T16:26:39+07:00 A250 python[2028]: hole0 (734,315) err 0.6px | hole1 (806,315) err 0.4px
+2026-11-04T16:26:41+07:00 A250 python[2028]: hole0 (734,314) err 0.4px | hole1 (806,316) err 0.5px
+2026-11-04T16:26:43+07:00 A250 python[2028]: hole0 (734,314) err 0.6px | hole1 (806,315) err 0.3px
+2026-11-04T16:26:45+07:00 A250 python[2028]: hole0 (734,314) err 0.5px | hole1 (806,316) err 0.5px
+2026-11-04T16:26:47+07:00 A250 python[2028]: hole0 (734,315) err 0.3px | hole1 (806,316) err 0.3px
+2026-11-04T16:26:49+07:00 A250 python[2028]: hole0 (734,315) err 0.5px | hole1 (806,315) err 0.3px
+2026-11-04T16:26:51+07:00 A250 python[2028]: hole0 (734,315) err 0.4px | hole1 (806,316) err 0.3px
+2026-11-04T16:26:53+07:00 A250 python[2028]: hole0 (734,315) err 0.5px | hole1 (806,316) err 0.3px
+2026-11-04T16:26:55+07:00 A250 python[2028]: hole0 (734,315) err 0.5px | hole1 (806,316) err 0.5px
+2026-11-04T16:26:57+07:00 A250 python[2028]: hole0 (734,314) err 0.5px | hole1 (806,316) err 0.2px
+2026-11-04T16:26:59+07:00 A250 python[2028]: hole0 (734,314) err 0.3px | hole1 (806,316) err 0.2px
+2026-11-04T16:27:01+07:00 A250 python[2028]: hole0 (734,315) err 0.3px | hole1 (806,316) err 0.3px
+2026-11-04T16:27:03+07:00 A250 python[2028]: hole0 (734,315) err 0.4px | hole1 (806,315) err 0.4px
+2026-11-04T16:27:05+07:00 A250 python[2028]: hole0 (734,314) err 0.4px | hole1 (806,316) err 0.3px
+2026-11-04T16:27:07+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,316) err 0.3px
+2026-11-04T16:27:09+07:00 A250 python[2028]: hole0 (734,315) err 0.4px | hole1 (806,316) err 0.1px
+2026-11-04T16:27:11+07:00 A250 python[2028]: hole0 (734,315) err 0.5px | hole1 (806,316) err 0.1px
+2026-11-04T16:27:13+07:00 A250 python[2028]: hole0 (734,315) err 0.4px | hole1 (806,316) err 0.4px
+2026-11-04T16:27:15+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,316) err 0.1px
+2026-11-04T16:27:17+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,316) err 0.3px
+2026-11-04T16:27:19+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,315) err 0.2px
+2026-11-04T16:27:21+07:00 A250 python[2028]: hole0 (734,314) err 0.5px | hole1 (806,315) err 0.7px
+2026-11-04T16:27:23+07:00 A250 python[2028]: hole0 (734,314) err 1.3px | hole1 (806,315) err 1.5px
+2026-11-04T16:27:25+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,315) err 0.2px
+2026-11-04T16:27:27+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,316) err 0.1px
+2026-11-04T16:27:29+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,315) err 0.2px
+2026-11-04T16:27:31+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,315) err 0.1px
+2026-11-04T16:27:33+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,316) err 0.1px
+2026-11-04T16:27:35+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,316) err 0.1px
+2026-11-04T16:27:37+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,316) err 0.1px
+2026-11-04T16:27:39+07:00 A250 python[2028]: hole0 (734,314) err 0.0px | hole1 (806,316) err 0.1px
+2026-11-04T16:27:41+07:00 A250 python[2028]: hole0 (734,315) err 0.2px | hole1 (806,316) err 0.1px
+2026-11-04T16:27:43+07:00 A250 python[2028]: hole0 (734,315) err 0.1px | hole1 (806,316) err 0.0px
+2026-11-04T16:27:45+07:00 A250 python[2028]: hole0 (734,315) err 0.4px | hole1 (806,316) err 0.1px
+2026-11-04T16:27:47+07:00 A250 python[2028]: hole0 (734,315) err 0.2px | hole1 (806,316) err 0.0px
+2026-11-04T16:27:49+07:00 A250 python[2028]: hole0 (734,315) err 0.3px | hole1 (806,316) err 0.1px
+2026-11-04T16:27:51+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,316) err 0.1px
+2026-11-04T16:27:53+07:00 A250 python[2028]: hole0 (734,315) err 0.1px | hole1 (806,316) err 0.1px
+2026-11-04T16:27:55+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,315) err 0.0px
+2026-11-04T16:27:57+07:00 A250 python[2028]: hole0 (734,314) err 0.3px | hole1 (806,316) err 0.2px
+2026-11-04T16:28:00+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,316) err 0.1px
+2026-11-04T16:28:02+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,316) err 0.2px
+2026-11-04T16:28:04+07:00 A250 python[2028]: hole0 (734,314) err 0.4px | hole1 (806,315) err 0.3px
+2026-11-04T16:28:06+07:00 A250 python[2028]: hole0 (734,314) err 0.0px | hole1 (806,316) err 0.1px
+2026-11-04T16:28:08+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,316) err 0.2px
+2026-11-04T16:28:10+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,315) err 0.1px
+2026-11-04T16:28:12+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,316) err 0.1px
+2026-11-04T16:28:14+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,316) err 0.1px
+2026-11-04T16:28:16+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,315) err 0.2px
+2026-11-04T16:28:18+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,316) err 0.0px
+2026-11-04T16:28:20+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,316) err 0.1px
+2026-11-04T16:28:22+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,316) err 0.0px
+2026-11-04T16:28:24+07:00 A250 python[2028]: hole0 (734,314) err 0.3px | hole1 (806,316) err 0.1px
+2026-11-04T16:28:26+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,316) err 0.0px
+2026-11-04T16:28:28+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,315) err 0.1px
+2026-11-04T16:28:30+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,316) err 0.1px
+2026-11-04T16:28:32+07:00 A250 python[2028]: hole0 (734,314) err 0.0px | hole1 (806,316) err 0.2px
+2026-11-04T16:28:34+07:00 A250 python[2028]: hole0 (734,314) err 0.4px | hole1 (806,316) err 0.1px
+2026-11-04T16:28:36+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,316) err 0.1px
+2026-11-04T16:28:38+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,316) err 0.1px
+2026-11-04T16:28:40+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,315) err 0.2px
+2026-11-04T16:28:42+07:00 A250 python[2028]: hole0 (734,314) err 0.0px | hole1 (806,316) err 0.1px
+2026-11-04T16:28:44+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,315) err 0.1px
+2026-11-04T16:28:46+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,315) err 0.1px
+2026-11-04T16:28:48+07:00 A250 python[2028]: hole0 (734,320) err 3.1px | hole1 (806,321) err 3.4px
+2026-11-04T16:28:50+07:00 A250 python[2028]: hole0 (733,610) err 27.2px | hole1 (803,610) err 3.5px
+2026-11-04T16:28:51+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:28:54+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:28:56+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:28:58+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:29:00+07:00 A250 python[2028]: hole0 (733,644) err 0.9px | hole1 (802,643) err 1.0px
+2026-11-04T16:29:02+07:00 A250 python[2028]: hole0 (734,365) err 2.6px | hole1 (806,366) err 2.3px
+2026-11-04T16:29:04+07:00 A250 python[2028]: hole0 (732,113) err 3.8px | hole1 (803,115) err 2.7px
+2026-11-04T16:29:06+07:00 A250 python[2028]: hole0 (732,113) err 2.4px | hole1 (803,115) err 0.9px
+2026-11-04T16:29:08+07:00 A250 python[2028]: hole0 (732,113) err 3.1px | hole1 (803,115) err 1.7px
+2026-11-04T16:29:10+07:00 A250 python[2028]: hole0 (734,258) err 0.8px | hole1 (805,260) err 0.8px
+2026-11-04T16:29:12+07:00 A250 python[2028]: hole0 (734,314) err 1.4px | hole1 (806,315) err 0.5px
+2026-11-04T16:29:14+07:00 A250 python[2028]: hole0 (734,314) err 1.6px | hole1 (806,315) err 0.6px
+2026-11-04T16:29:16+07:00 A250 python[2028]: hole0 (734,314) err 1.1px | hole1 (806,315) err 0.2px
+2026-11-04T16:29:18+07:00 A250 python[2028]: hole0 (734,314) err 1.2px | hole1 (806,315) err 0.2px
+2026-11-04T16:29:20+07:00 A250 python[2028]: hole0 (734,314) err 0.6px | hole1 (806,315) err 0.3px
+2026-11-04T16:29:22+07:00 A250 python[2028]: hole0 (734,314) err 0.7px | hole1 (806,315) err 0.3px
+2026-11-04T16:29:24+07:00 A250 python[2028]: hole0 (734,314) err 0.7px | hole1 (806,315) err 0.3px
+2026-11-04T16:29:26+07:00 A250 python[2028]: hole0 (734,314) err 0.6px | hole1 (806,315) err 0.2px
+2026-11-04T16:29:28+07:00 A250 python[2028]: hole0 (734,314) err 0.6px | hole1 (806,315) err 0.3px
+2026-11-04T16:29:30+07:00 A250 python[2028]: hole0 (734,314) err 0.5px | hole1 (806,315) err 0.3px
+2026-11-04T16:29:32+07:00 A250 python[2028]: hole0 (734,314) err 0.6px | hole1 (806,315) err 0.1px
+2026-11-04T16:29:34+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,315) err 0.3px
+2026-11-04T16:29:36+07:00 A250 python[2028]: hole0 (734,314) err 0.3px | hole1 (806,315) err 0.1px
+2026-11-04T16:29:38+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,315) err 0.3px
+2026-11-04T16:29:40+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,315) err 0.4px
+2026-11-04T16:29:42+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,315) err 0.4px
+2026-11-04T16:29:44+07:00 A250 python[2028]: hole0 (734,314) err 0.4px | hole1 (806,315) err 0.3px
+2026-11-04T16:29:46+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,315) err 0.3px
+2026-11-04T16:29:49+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,315) err 0.2px
+2026-11-04T16:29:51+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,315) err 0.2px
+2026-11-04T16:29:53+07:00 A250 python[2028]: hole0 (734,314) err 0.9px | hole1 (806,315) err 0.5px
+2026-11-04T16:29:55+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,315) err 0.2px
+2026-11-04T16:29:57+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,315) err 0.1px
+2026-11-04T16:29:59+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,315) err 0.3px
+2026-11-04T16:30:01+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,315) err 0.1px
+2026-11-04T16:30:03+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,315) err 0.2px
+2026-11-04T16:30:05+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,315) err 0.2px
+2026-11-04T16:30:07+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,315) err 0.5px
+2026-11-04T16:30:09+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,315) err 0.4px
+2026-11-04T16:30:11+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,315) err 0.1px
+2026-11-04T16:30:13+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,315) err 0.1px
+2026-11-04T16:30:15+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,315) err 0.1px
+2026-11-04T16:30:17+07:00 A250 python[2028]: hole0 (734,314) err 0.3px | hole1 (806,315) err 0.3px
+2026-11-04T16:30:19+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,315) err 0.1px
+2026-11-04T16:30:21+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,315) err 0.1px
+2026-11-04T16:30:23+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,315) err 0.2px
+2026-11-04T16:30:25+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,315) err 0.4px
+2026-11-04T16:30:27+07:00 A250 python[2028]: hole0 (734,314) err 0.5px | hole1 (806,315) err 0.4px
+2026-11-04T16:30:29+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,315) err 0.3px
+2026-11-04T16:30:31+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,315) err 0.4px
+2026-11-04T16:30:33+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,315) err 0.4px
+2026-11-04T16:30:35+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,315) err 0.1px
+2026-11-04T16:30:37+07:00 A250 python[2028]: hole0 (734,314) err 0.3px | hole1 (806,315) err 0.1px
+2026-11-04T16:30:39+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,315) err 0.2px
+2026-11-04T16:30:41+07:00 A250 python[2028]: hole0 (734,314) err 0.4px | hole1 (806,315) err 0.2px
+2026-11-04T16:30:43+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,315) err 0.1px
+2026-11-04T16:30:45+07:00 A250 python[2028]: hole0 (734,314) err 0.3px | hole1 (806,315) err 0.3px
+2026-11-04T16:30:47+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,315) err 0.2px
+2026-11-04T16:30:49+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,315) err 0.3px
+2026-11-04T16:30:51+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,315) err 0.1px
+2026-11-04T16:30:53+07:00 A250 python[2028]: hole0 (734,314) err 0.0px | hole1 (806,315) err 0.1px
+2026-11-04T16:30:55+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,315) err 0.3px
+2026-11-04T16:30:57+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,315) err 0.4px
+2026-11-04T16:30:59+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,315) err 0.1px
+2026-11-04T16:31:01+07:00 A250 python[2028]: hole0 (734,314) err 0.4px | hole1 (806,315) err 0.1px
+2026-11-04T16:31:03+07:00 A250 python[2028]: hole0 (734,314) err 0.3px | hole1 (806,315) err 0.2px
+2026-11-04T16:31:05+07:00 A250 python[2028]: hole0 (734,314) err 0.3px | hole1 (806,315) err 0.2px
+2026-11-04T16:31:07+07:00 A250 python[2028]: hole0 (734,314) err 0.4px | hole1 (806,315) err 0.1px
+2026-11-04T16:31:09+07:00 A250 python[2028]: hole0 (734,314) err 0.3px | hole1 (806,315) err 0.1px
+2026-11-04T16:31:11+07:00 A250 python[2028]: hole0 (734,314) err 0.4px | hole1 (806,315) err 0.4px
+2026-11-04T16:31:13+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,315) err 0.2px
+2026-11-04T16:31:15+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,315) err 0.2px
+2026-11-04T16:31:17+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,315) err 0.1px
+2026-11-04T16:31:19+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,315) err 0.2px
+2026-11-04T16:31:21+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,315) err 0.2px
+2026-11-04T16:31:23+07:00 A250 python[2028]: hole0 (734,314) err 0.3px | hole1 (806,315) err 0.1px
+2026-11-04T16:31:25+07:00 A250 python[2028]: hole0 (734,314) err 0.3px | hole1 (806,315) err 0.2px
+2026-11-04T16:31:27+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,315) err 0.1px
+2026-11-04T16:31:29+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,315) err 0.1px
+2026-11-04T16:31:31+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,315) err 0.1px
+2026-11-04T16:31:33+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,315) err 0.1px
+2026-11-04T16:31:35+07:00 A250 python[2028]: hole0 (734,314) err 0.4px | hole1 (806,315) err 0.0px
+2026-11-04T16:31:37+07:00 A250 python[2028]: hole0 (734,314) err 0.0px | hole1 (806,315) err 0.3px
+2026-11-04T16:31:39+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,315) err 0.3px
+2026-11-04T16:31:41+07:00 A250 python[2028]: hole0 (734,314) err 0.3px | hole1 (806,315) err 0.1px
+2026-11-04T16:31:43+07:00 A250 python[2028]: hole0 (734,314) err 0.5px | hole1 (806,315) err 0.2px
+2026-11-04T16:31:45+07:00 A250 python[2028]: hole0 (734,314) err 0.3px | hole1 (806,315) err 0.2px
+2026-11-04T16:31:47+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,315) err 0.1px
+2026-11-04T16:31:50+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,315) err 0.2px
+2026-11-04T16:31:52+07:00 A250 python[2028]: hole0 (734,314) err 0.3px | hole1 (806,315) err 0.1px
+2026-11-04T16:31:54+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,315) err 0.2px
+2026-11-04T16:31:56+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,315) err 0.2px
+2026-11-04T16:31:58+07:00 A250 python[2028]: hole0 (734,314) err 0.3px | hole1 (806,315) err 0.1px
+2026-11-04T16:32:00+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,315) err 0.1px
+2026-11-04T16:32:02+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,315) err 0.1px
+2026-11-04T16:32:04+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,315) err 0.3px
+2026-11-04T16:32:06+07:00 A250 python[2028]: hole0 (734,314) err 0.5px | hole1 (806,315) err 0.1px
+2026-11-04T16:32:08+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,315) err 0.2px
+2026-11-04T16:32:10+07:00 A250 python[2028]: hole0 (734,314) err 0.3px | hole1 (806,315) err 0.1px
+2026-11-04T16:32:12+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,315) err 0.1px
+2026-11-04T16:32:14+07:00 A250 python[2028]: hole0 (734,314) err 0.4px | hole1 (806,315) err 0.2px
+2026-11-04T16:32:16+07:00 A250 python[2028]: hole0 (734,314) err 0.3px | hole1 (806,315) err 0.1px
+2026-11-04T16:32:18+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,315) err 0.3px
+2026-11-04T16:32:20+07:00 A250 python[2028]: hole0 (734,314) err 0.5px | hole1 (806,315) err 0.3px
+2026-11-04T16:32:22+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,315) err 0.0px
+2026-11-04T16:32:24+07:00 A250 python[2028]: hole0 (734,314) err 0.3px | hole1 (806,315) err 0.1px
+2026-11-04T16:32:26+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,315) err 0.1px
+2026-11-04T16:32:28+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,315) err 0.2px
+2026-11-04T16:32:30+07:00 A250 python[2028]: hole0 (734,314) err 0.1px | hole1 (806,315) err 0.1px
+2026-11-04T16:32:32+07:00 A250 python[2028]: hole0 (734,314) err 0.3px | hole1 (806,315) err 0.1px
+2026-11-04T16:32:34+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,315) err 0.3px
+2026-11-04T16:32:36+07:00 A250 python[2028]: hole0 (734,314) err 0.2px | hole1 (806,315) err 0.1px
+2026-11-04T16:32:38+07:00 A250 python[2028]: hole0 (734,314) err 0.0px | hole1 (806,315) err 0.1px
+2026-11-04T16:32:40+07:00 A250 python[2028]: hole0 (734,308) err 0.2px | hole1 (806,309) err 0.0px
+2026-11-04T16:32:42+07:00 A250 python[2028]: hole0 (735,284) err 1.9px | hole1 (807,286) err 2.3px
+2026-11-04T16:32:44+07:00 A250 python[2028]: hole0 (741,283) err 5.4px | hole1 (818,284) err 5.3px
+2026-11-04T16:32:46+07:00 A250 python[2028]: hole0 (749,280) err 7.2px | hole1 (831,282) err 6.4px
+2026-11-04T16:32:48+07:00 A250 python[2028]: hole0 (758,277) err 7.2px | hole1 (847,279) err 6.4px
+2026-11-04T16:32:50+07:00 A250 python[2028]: hole0 (768,274) err 7.8px | hole1 (864,275) err 6.5px
+2026-11-04T16:32:52+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:32:54+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:32:56+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:32:58+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:33:00+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:33:02+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:33:04+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:33:06+07:00 A250 python[2028]: hole0 (1031,443) err 9.1px | hole1 (1156,442) err 7.9px
+2026-11-04T16:33:08+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:33:10+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:33:12+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:33:14+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:33:16+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:33:18+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:33:20+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:33:22+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:33:24+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:33:26+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:33:28+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:33:30+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:33:32+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:33:34+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:33:36+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:33:38+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:33:40+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:33:42+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:33:44+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:33:46+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:33:48+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:33:50+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:33:52+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:33:54+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:33:56+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:33:58+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:34:00+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:34:02+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:34:04+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:34:06+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:34:08+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:34:10+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:34:12+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:34:14+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:34:16+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:34:18+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:34:20+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:34:22+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:34:24+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:34:26+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:34:28+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:34:30+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:34:32+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:34:34+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:34:36+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:34:38+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:34:41+07:00 A250 python[2028]: hole0 (852,334) err 5.4px | hole1 (944,331) err 4.2px
+2026-11-04T16:34:43+07:00 A250 python[2028]: hole0 (830,332) err 5.6px | hole1 (914,329) err 4.5px
+2026-11-04T16:34:45+07:00 A250 python[2028]: hole0 (812,331) err 5.2px | hole1 (888,329) err 4.5px
+2026-11-04T16:34:47+07:00 A250 python[2028]: hole0 (798,330) err 1.7px | hole1 (868,328) err 1.7px
+2026-11-04T16:34:49+07:00 A250 python[2028]: hole0 (798,358) err 1.2px | hole1 (868,355) err 1.2px
+2026-11-04T16:34:51+07:00 A250 python[2028]: hole0 (798,358) err 0.8px | hole1 (868,356) err 1.3px
+2026-11-04T16:34:53+07:00 A250 python[2028]: hole0 (798,358) err 1.0px | hole1 (868,355) err 0.9px
+2026-11-04T16:34:55+07:00 A250 python[2028]: hole0 (798,358) err 0.9px | hole1 (868,356) err 0.9px
+2026-11-04T16:34:57+07:00 A250 python[2028]: hole0 (798,358) err 0.4px | hole1 (868,355) err 0.9px
+2026-11-04T16:34:59+07:00 A250 python[2028]: hole0 (798,358) err 0.6px | hole1 (868,355) err 0.5px
+2026-11-04T16:35:01+07:00 A250 python[2028]: hole0 (798,358) err 0.6px | hole1 (868,355) err 0.6px
+2026-11-04T16:35:03+07:00 A250 python[2028]: hole0 (798,358) err 0.5px | hole1 (868,355) err 0.5px
+2026-11-04T16:35:05+07:00 A250 python[2028]: hole0 (798,358) err 0.3px | hole1 (868,356) err 0.7px
+2026-11-04T16:35:07+07:00 A250 python[2028]: hole0 (798,358) err 0.2px | hole1 (868,356) err 0.3px
+2026-11-04T16:35:09+07:00 A250 python[2028]: hole0 (798,358) err 0.3px | hole1 (868,355) err 0.5px
+2026-11-04T16:35:11+07:00 A250 python[2028]: hole0 (798,358) err 0.4px | hole1 (868,355) err 0.2px
+2026-11-04T16:35:13+07:00 A250 python[2028]: hole0 (798,358) err 0.3px | hole1 (868,355) err 0.4px
+2026-11-04T16:35:15+07:00 A250 python[2028]: hole0 (798,358) err 0.3px | hole1 (868,355) err 0.1px
+2026-11-04T16:35:17+07:00 A250 python[2028]: hole0 (798,358) err 0.2px | hole1 (868,355) err 0.2px
+2026-11-04T16:35:19+07:00 A250 python[2028]: hole0 (798,358) err 0.4px | hole1 (868,355) err 0.2px
+2026-11-04T16:35:21+07:00 A250 python[2028]: hole0 (798,358) err 0.3px | hole1 (868,355) err 0.1px
+2026-11-04T16:35:23+07:00 A250 python[2028]: hole0 (798,358) err 0.4px | hole1 (868,355) err 0.2px
+2026-11-04T16:35:25+07:00 A250 python[2028]: hole0 (798,358) err 0.3px | hole1 (868,355) err 0.2px
+2026-11-04T16:35:27+07:00 A250 python[2028]: hole0 (798,358) err 0.2px | hole1 (868,355) err 0.1px
+2026-11-04T16:35:29+07:00 A250 python[2028]: hole0 (798,358) err 0.3px | hole1 (868,355) err 0.1px
+2026-11-04T16:35:31+07:00 A250 python[2028]: hole0 (798,358) err 0.3px | hole1 (868,355) err 0.2px
+2026-11-04T16:35:33+07:00 A250 python[2028]: hole0 (798,358) err 0.3px | hole1 (868,355) err 0.2px
+2026-11-04T16:35:35+07:00 A250 python[2028]: hole0 (798,358) err 0.3px | hole1 (868,355) err 0.1px
+2026-11-04T16:35:37+07:00 A250 python[2028]: hole0 (798,358) err 0.2px | hole1 (868,355) err 0.1px
+2026-11-04T16:35:39+07:00 A250 python[2028]: hole0 (798,358) err 0.2px | hole1 (868,355) err 0.2px
+2026-11-04T16:35:41+07:00 A250 python[2028]: hole0 (798,358) err 0.2px | hole1 (868,355) err 0.1px
+2026-11-04T16:35:43+07:00 A250 python[2028]: hole0 (798,358) err 0.2px | hole1 (868,355) err 0.2px
+2026-11-04T16:35:45+07:00 A250 python[2028]: hole0 (798,358) err 0.4px | hole1 (868,355) err 0.1px
+2026-11-04T16:35:47+07:00 A250 python[2028]: hole0 (798,358) err 0.1px | hole1 (868,355) err 0.2px
+2026-11-04T16:35:49+07:00 A250 python[2028]: hole0 (798,358) err 0.3px | hole1 (868,355) err 0.2px
+2026-11-04T16:35:51+07:00 A250 python[2028]: hole0 (798,358) err 0.2px | hole1 (868,355) err 0.3px
+2026-11-04T16:35:53+07:00 A250 python[2028]: hole0 (798,358) err 0.3px | hole1 (868,355) err 0.2px
+2026-11-04T16:35:55+07:00 A250 python[2028]: hole0 (798,358) err 0.2px | hole1 (868,355) err 0.0px
+2026-11-04T16:35:57+07:00 A250 python[2028]: hole0 (798,358) err 0.3px | hole1 (868,355) err 0.1px
+2026-11-04T16:35:59+07:00 A250 python[2028]: hole0 (798,358) err 0.2px | hole1 (868,355) err 0.1px
+2026-11-04T16:36:01+07:00 A250 python[2028]: hole0 (798,358) err 0.1px | hole1 (868,356) err 0.2px
+2026-11-04T16:36:03+07:00 A250 python[2028]: hole0 (798,358) err 0.4px | hole1 (868,355) err 0.2px
+2026-11-04T16:36:05+07:00 A250 python[2028]: hole0 (798,358) err 0.3px | hole1 (868,355) err 0.1px
+2026-11-04T16:36:07+07:00 A250 python[2028]: hole0 (798,358) err 0.4px | hole1 (868,355) err 0.2px
+2026-11-04T16:36:09+07:00 A250 python[2028]: hole0 (798,358) err 0.3px | hole1 (868,356) err 0.2px
+2026-11-04T16:36:11+07:00 A250 python[2028]: hole0 (798,358) err 0.3px | hole1 (868,355) err 0.1px
+2026-11-04T16:36:13+07:00 A250 python[2028]: hole0 (798,358) err 0.2px | hole1 (868,355) err 0.2px
+2026-11-04T16:36:15+07:00 A250 python[2028]: hole0 (798,358) err 0.2px | hole1 (868,355) err 0.1px
+2026-11-04T16:36:17+07:00 A250 python[2028]: hole0 (797,358) err 0.5px | hole1 (868,355) err 0.2px
+2026-11-04T16:36:19+07:00 A250 python[2028]: hole0 (798,358) err 0.2px | hole1 (868,355) err 0.3px
+2026-11-04T16:36:22+07:00 A250 python[2028]: hole0 (797,358) err 0.3px | hole1 (868,355) err 0.1px
+2026-11-04T16:36:24+07:00 A250 python[2028]: hole0 (798,358) err 0.1px | hole1 (868,355) err 0.1px
+2026-11-04T16:36:26+07:00 A250 python[2028]: hole0 (798,358) err 0.1px | hole1 (868,355) err 0.2px
+2026-11-04T16:36:28+07:00 A250 python[2028]: hole0 (797,358) err 0.1px | hole1 (868,355) err 0.2px
+2026-11-04T16:36:30+07:00 A250 python[2028]: hole0 (797,358) err 0.1px | hole1 (868,355) err 0.2px
+2026-11-04T16:36:32+07:00 A250 python[2028]: hole0 (798,358) err 0.1px | hole1 (868,355) err 0.1px
+2026-11-04T16:36:34+07:00 A250 python[2028]: hole0 (797,358) err 0.0px | hole1 (868,356) err 0.2px
+2026-11-04T16:36:36+07:00 A250 python[2028]: hole0 (797,358) err 0.1px | hole1 (868,355) err 0.1px
+2026-11-04T16:36:38+07:00 A250 python[2028]: hole0 (797,358) err 0.2px | hole1 (868,355) err 0.0px
+2026-11-04T16:36:40+07:00 A250 python[2028]: hole0 (798,358) err 0.2px | hole1 (868,355) err 0.1px
+2026-11-04T16:36:42+07:00 A250 python[2028]: hole0 (797,358) err 0.3px | hole1 (868,356) err 0.3px
+2026-11-04T16:36:44+07:00 A250 python[2028]: hole0 (797,358) err 0.3px | hole1 (868,355) err 0.1px
+2026-11-04T16:36:46+07:00 A250 python[2028]: hole0 (797,358) err 0.3px | hole1 (868,355) err 0.2px
+2026-11-04T16:36:48+07:00 A250 python[2028]: hole0 (797,358) err 0.2px | hole1 (868,355) err 0.2px
+2026-11-04T16:36:50+07:00 A250 python[2028]: hole0 (798,358) err 0.1px | hole1 (868,355) err 0.1px
+2026-11-04T16:36:52+07:00 A250 python[2028]: hole0 (797,358) err 0.3px | hole1 (868,355) err 0.2px
+2026-11-04T16:36:54+07:00 A250 python[2028]: hole0 (798,358) err 0.4px | hole1 (868,356) err 0.2px
+2026-11-04T16:36:56+07:00 A250 python[2028]: hole0 (797,358) err 0.2px | hole1 (868,356) err 0.1px
+2026-11-04T16:36:58+07:00 A250 python[2028]: hole0 (797,358) err 0.3px | hole1 (868,355) err 0.1px
+2026-11-04T16:37:00+07:00 A250 python[2028]: hole0 (797,441) err 0.3px | hole1 (867,438) err 0.3px
+2026-11-04T16:37:02+07:00 A250 python[2028]: hole0 (800,458) err 2.1px | hole1 (872,455) err 2.9px
+2026-11-04T16:37:04+07:00 A250 python[2028]: hole0 (812,468) err 5.4px | hole1 (888,464) err 4.6px
+2026-11-04T16:37:06+07:00 A250 python[2028]: hole0 (825,479) err 5.8px | hole1 (906,475) err 4.8px
+2026-11-04T16:37:08+07:00 A250 python[2028]: hole0 (840,492) err 6.0px | hole1 (927,487) err 5.1px
+2026-11-04T16:37:10+07:00 A250 python[2028]: hole0 (857,506) err 6.1px | hole1 (951,501) err 5.0px
+2026-11-04T16:37:12+07:00 A250 python[2028]: hole0 (878,524) err 6.1px | hole1 (980,518) err 5.0px
+2026-11-04T16:37:13+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:37:16+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:37:18+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:37:20+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:37:22+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:37:24+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:37:26+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:37:28+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:37:30+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:37:32+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:37:34+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:37:36+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:37:38+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:37:40+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:37:42+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:37:44+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:37:46+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:37:48+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:37:50+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:37:52+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:37:54+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:37:56+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:37:58+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:38:00+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:38:02+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:38:04+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:38:06+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:38:08+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:38:10+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:38:12+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:38:14+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:38:16+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:38:18+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:38:20+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:38:23+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:38:25+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:38:27+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:38:29+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:38:31+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:38:33+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:38:35+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:38:37+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:38:39+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:38:41+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:38:43+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:38:45+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:38:47+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:38:49+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:38:51+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:38:53+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:38:55+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:38:57+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:38:59+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:39:01+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:39:03+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:39:05+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:39:07+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:39:09+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:39:11+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:39:13+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:39:15+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:39:17+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:39:19+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:39:21+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:39:23+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:39:25+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:39:27+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:39:29+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:39:31+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:39:33+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:39:35+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:39:37+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:39:39+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:39:41+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:39:43+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:39:45+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:39:47+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:39:49+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:39:51+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:39:53+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:39:55+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:39:57+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:39:59+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:40:01+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:40:03+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:40:05+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:40:07+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:40:09+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:40:11+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:40:13+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:40:15+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:40:17+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:40:19+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:40:21+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:40:23+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:40:25+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:40:27+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:40:29+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:40:31+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:40:33+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:40:35+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:40:37+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:40:39+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:40:41+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:40:43+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:40:45+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:40:47+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:40:49+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:40:51+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:40:53+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:40:55+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:40:57+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:40:59+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:41:01+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:41:03+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:41:05+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:41:07+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:41:09+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:41:11+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:41:13+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:41:15+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:41:17+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:41:19+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:41:21+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:41:23+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:41:25+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:41:27+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:41:29+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:41:31+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:41:33+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:41:35+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:41:37+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:41:39+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:41:41+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:41:43+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:41:45+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:41:47+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:41:49+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:41:51+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:41:53+07:00 A250 python[2028]: hole0 (1015,654) dot none | hole1 (1116,576) dot none
+2026-11-04T16:41:55+07:00 A250 python[2028]: hole0 (1015,654) dot none | hole1 (1116,576) dot none
+2026-11-04T16:41:57+07:00 A250 python[2028]: hole0 (1015,654) dot none | hole1 (1116,576) dot none
+2026-11-04T16:41:59+07:00 A250 python[2028]: hole0 (1016,654) err 10.3px | hole1 (1116,576) err 201.1px
+2026-11-04T16:42:01+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:42:03+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:42:05+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:42:07+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:42:09+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:42:11+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:42:13+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:42:15+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:42:17+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:42:19+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:42:21+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:42:23+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:42:25+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:42:27+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:42:29+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:42:32+07:00 A250 python[2028]: hole0 (892,543) err 3.9px | hole1 (964,488) err 3.5px
+2026-11-04T16:42:34+07:00 A250 python[2028]: hole0 (867,521) err 3.8px | hole1 (933,472) err 3.7px
+2026-11-04T16:42:36+07:00 A250 python[2028]: hole0 (847,503) err 32.1px | hole1 (906,458) err 3.9px
+2026-11-04T16:42:38+07:00 A250 python[2028]: hole0 (835,493) err 31.2px | hole1 (891,450) err 1.8px
+2026-11-04T16:42:39+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:42:41+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:42:44+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:42:46+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:42:48+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:42:50+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:42:52+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:42:54+07:00 A250 python[2028]: hole0 (783,306) err 23.6px | hole1 (854,304) err 81.2px
+2026-11-04T16:42:56+07:00 A250 python[2028]: hole0 (783,306) err 22.0px | hole1 (854,304) err 219.6px
+2026-11-04T16:42:58+07:00 A250 python[2028]: bracket/holes not found
+2026-11-04T16:43:00+07:00 A250 python[2028]: hole0 (845,147) err 2.6px | hole1 (914,158) err 2.8px
+2026-11-04T16:43:02+07:00 A250 python[2028]: hole0 (742,297) err 1.7px | hole1 (814,298) err 3.2px
+2026-11-04T16:43:04+07:00 A250 python[2028]: hole0 (744,296) err 2.7px | hole1 (815,301) err 115.2px
+2026-11-04T16:43:06+07:00 A250 python[2028]: hole0 (750,302) err 3.2px | hole1 (821,311) err 6.1px
+2026-11-04T16:43:08+07:00 A250 python[2028]: hole0 (749,309) err 2.2px | hole1 (820,309) err 72.8px
+2026-11-04T16:43:10+07:00 A250 python[2028]: hole0 (749,310) err 1.7px | hole1 (820,309) err 44.7px
+2026-11-04T16:43:12+07:00 A250 python[2028]: hole0 (749,309) err 1.7px | hole1 (820,309) err 23.1px
+2026-11-04T16:43:14+07:00 A250 python[2028]: hole0 (749,309) err 1.4px | hole1 (821,309) err 22.6px
+2026-11-04T16:43:16+07:00 A250 python[2028]: hole0 (749,309) err 0.9px | hole1 (820,309) err 2.1px
+2026-11-04T16:43:18+07:00 A250 python[2028]: hole0 (749,309) err 1.2px | hole1 (820,309) err 1.7px
+2026-11-04T16:43:20+07:00 A250 python[2028]: hole0 (749,309) err 1.0px | hole1 (820,309) err 1.3px
+2026-11-04T16:43:22+07:00 A250 python[2028]: hole0 (749,309) err 0.6px | hole1 (820,309) err 1.5px
+2026-11-04T16:43:24+07:00 A250 python[2028]: hole0 (749,309) err 0.6px | hole1 (820,309) err 1.1px
+2026-11-04T16:43:26+07:00 A250 python[2028]: hole0 (749,309) err 0.7px | hole1 (820,309) err 1.4px
+2026-11-04T16:43:28+07:00 A250 python[2028]: hole0 (749,309) err 0.4px | hole1 (820,309) err 0.9px
+2026-11-04T16:43:30+07:00 A250 python[2028]: hole0 (749,309) err 0.4px | hole1 (820,309) err 1.1px
+2026-11-04T16:43:32+07:00 A250 python[2028]: hole0 (749,309) err 0.4px | hole1 (820,309) err 1.0px
+2026-11-04T16:43:34+07:00 A250 python[2028]: hole0 (749,309) err 0.3px | hole1 (820,309) err 0.4px
+2026-11-04T16:43:36+07:00 A250 python[2028]: hole0 (749,309) err 0.2px | hole1 (821,309) err 0.1px
+2026-11-04T16:43:38+07:00 A250 python[2028]: hole0 (749,309) err 0.4px | hole1 (820,309) err 0.3px
+2026-11-04T16:43:40+07:00 A250 python[2028]: hole0 (749,309) err 0.3px | hole1 (820,309) err 0.3px
+2026-11-04T16:43:42+07:00 A250 python[2028]: hole0 (749,309) err 0.3px | hole1 (820,309) err 0.3px
+2026-11-04T16:43:44+07:00 A250 python[2028]: hole0 (749,309) err 0.3px | hole1 (820,309) err 0.2px
+2026-11-04T16:43:47+07:00 A250 python[2028]: hole0 (749,309) err 0.2px | hole1 (821,309) err 0.2px
+2026-11-04T16:43:49+07:00 A250 python[2028]: hole0 (749,309) err 0.3px | hole1 (820,309) err 0.2px
+2026-11-04T16:43:51+07:00 A250 python[2028]: hole0 (749,309) err 0.2px | hole1 (821,309) err 0.2px
+2026-11-04T16:43:53+07:00 A250 python[2028]: hole0 (749,309) err 0.2px | hole1 (821,309) err 0.4px
+2026-11-04T16:43:55+07:00 A250 python[2028]: hole0 (749,310) err 0.2px | hole1 (820,309) err 0.5px
+2026-11-04T16:43:57+07:00 A250 python[2028]: hole0 (749,310) err 0.3px | hole1 (821,309) err 0.0px
+2026-11-04T16:43:59+07:00 A250 python[2028]: hole0 (749,310) err 0.3px | hole1 (820,309) err 0.3px
+2026-11-04T16:44:01+07:00 A250 python[2028]: hole0 (749,310) err 0.3px | hole1 (820,309) err 0.2px
+2026-11-04T16:44:03+07:00 A250 python[2028]: hole0 (749,310) err 0.2px | hole1 (821,309) err 0.2px
+2026-11-04T16:44:05+07:00 A250 python[2028]: hole0 (749,310) err 0.2px | hole1 (821,309) err 0.2px
+2026-11-04T16:44:07+07:00 A250 python[2028]: hole0 (749,309) err 0.3px | hole1 (821,309) err 0.2px
+2026-11-04T16:44:09+07:00 A250 python[2028]: hole0 (749,310) err 0.2px | hole1 (821,309) err 0.1px
+2026-11-04T16:44:11+07:00 A250 python[2028]: hole0 (749,309) err 0.2px | hole1 (821,309) err 0.1px
+2026-11-04T16:44:13+07:00 A250 python[2028]: hole0 (749,310) err 0.2px | hole1 (821,309) err 0.3px
+2026-11-04T16:44:15+07:00 A250 python[2028]: hole0 (749,309) err 0.3px | hole1 (821,309) err 0.2px
+2026-11-04T16:44:17+07:00 A250 python[2028]: hole0 (749,310) err 0.3px | hole1 (821,309) err 0.2px
+2026-11-04T16:44:19+07:00 A250 python[2028]: hole0 (749,310) err 0.2px | hole1 (820,309) err 0.5px
+2026-11-04T16:44:21+07:00 A250 python[2028]: hole0 (749,309) err 0.1px | hole1 (820,309) err 0.5px
+2026-11-04T16:44:23+07:00 A250 python[2028]: hole0 (749,309) err 0.2px | hole1 (820,309) err 0.5px
+2026-11-04T16:44:25+07:00 A250 python[2028]: hole0 (749,309) err 0.1px | hole1 (820,309) err 0.3px
+2026-11-04T16:44:27+07:00 A250 python[2028]: hole0 (749,310) err 0.2px | hole1 (820,309) err 0.2px
+2026-11-04T16:44:29+07:00 A250 python[2028]: hole0 (749,309) err 0.1px | hole1 (820,309) err 0.3px
+2026-11-04T16:44:31+07:00 A250 python[2028]: hole0 (749,309) err 0.2px | hole1 (820,309) err 0.1px
+2026-11-04T16:44:33+07:00 A250 python[2028]: hole0 (749,309) err 0.2px | hole1 (820,309) err 0.1px
+2026-11-04T16:44:35+07:00 A250 python[2028]: hole0 (749,309) err 0.1px | hole1 (820,309) err 0.3px
+2026-11-04T16:44:37+07:00 A250 python[2028]: hole0 (749,309) err 0.4px | hole1 (820,309) err 0.3px
+2026-11-04T16:44:39+07:00 A250 python[2028]: hole0 (749,310) err 0.1px | hole1 (820,309) err 0.1px
+2026-11-04T16:44:41+07:00 A250 python[2028]: hole0 (749,310) err 0.3px | hole1 (820,309) err 0.5px
+2026-11-04T16:44:43+07:00 A250 python[2028]: hole0 (749,310) err 0.3px | hole1 (820,309) err 0.3px
+2026-11-04T16:44:45+07:00 A250 python[2028]: hole0 (749,310) err 0.3px | hole1 (820,309) err 0.2px
+2026-11-04T16:44:47+07:00 A250 python[2028]: hole0 (749,309) err 0.2px | hole1 (820,309) err 0.3px
+2026-11-04T16:44:49+07:00 A250 python[2028]: hole0 (749,310) err 0.2px | hole1 (820,309) err 0.3px
+2026-11-04T16:44:51+07:00 A250 python[2028]: hole0 (749,309) err 0.2px | hole1 (820,309) err 0.2px
+2026-11-04T16:44:53+07:00 A250 python[2028]: hole0 (749,309) err 0.1px | hole1 (820,309) err 0.1px
+2026-11-04T16:44:55+07:00 A250 python[2028]: hole0 (749,310) err 0.1px | hole1 (820,309) err 0.1px
+2026-11-04T16:44:57+07:00 A250 python[2028]: hole0 (749,310) err 0.1px | hole1 (820,309) err 0.2px
+2026-11-04T16:44:59+07:00 A250 python[2028]: hole0 (749,310) err 0.2px | hole1 (820,309) err 0.3px
+2026-11-04T16:45:01+07:00 A250 python[2028]: hole0 (749,310) err 0.2px | hole1 (820,309) err 0.3px
+2026-11-04T16:45:03+07:00 A250 python[2028]: hole0 (749,310) err 0.1px | hole1 (820,309) err 0.1px
+2026-11-04T16:45:05+07:00 A250 python[2028]: hole0 (749,310) err 0.2px | hole1 (820,309) err 0.2px
+2026-11-04T16:45:07+07:00 A250 python[2028]: hole0 (749,310) err 0.2px | hole1 (820,309) err 0.0px
+2026-11-04T16:45:09+07:00 A250 python[2028]: hole0 (749,310) err 0.1px | hole1 (820,309) err 0.3px
+2026-11-04T16:45:11+07:00 A250 python[2028]: hole0 (749,310) err 0.2px | hole1 (820,309) err 0.3px
+2026-11-04T16:45:13+07:00 A250 python[2028]: hole0 (749,310) err 0.3px | hole1 (820,309) err 0.1px
+2026-11-04T16:45:15+07:00 A250 python[2028]: hole0 (749,310) err 0.2px | hole1 (820,309) err 0.2px
+2026-11-04T16:45:17+07:00 A250 python[2028]: hole0 (749,310) err 0.1px | hole1 (821,309) err 0.1px
+2026-11-04T16:45:19+07:00 A250 python[2028]: hole0 (749,310) err 0.2px | hole1 (821,309) err 0.3px
+2026-11-04T16:45:21+07:00 A250 python[2028]: hole0 (749,310) err 0.3px | hole1 (821,309) err 0.0px
+2026-11-04T16:45:23+07:00 A250 python[2028]: hole0 (749,310) err 0.4px | hole1 (821,309) err 0.1px
+2026-11-04T16:45:25+07:00 A250 python[2028]: hole0 (749,310) err 0.3px | hole1 (821,309) err 0.3px
+2026-11-04T16:45:27+07:00 A250 python[2028]: hole0 (749,310) err 0.6px | hole1 (821,310) err 0.4px
+2026-11-04T16:45:29+07:00 A250 python[2028]: hole0 (749,310) err 0.5px | hole1 (821,310) err 0.3px
+2026-11-04T16:45:31+07:00 A250 python[2028]: hole0 (749,310) err 0.9px | hole1 (820,309) err 0.7px
+2026-11-04T16:45:33+07:00 A250 python[2028]: hole0 (749,310) err 0.5px | hole1 (821,310) err 0.5px
+2026-11-04T16:45:34+07:00 A250 systemd[1]: Stopping bracket-track.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u track.py...
+2026-11-04T16:45:34+07:00 A250 python[2028]: stopped
+2026-11-04T16:45:34+07:00 A250 systemd[1]: bracket-track.service: Deactivated successfully.
+2026-11-04T16:45:34+07:00 A250 systemd[1]: Stopped bracket-track.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u track.py.
+2026-11-04T16:45:34+07:00 A250 systemd[1]: bracket-track.service: Consumed 15min 8.830s CPU time.
+===== tictactoe
+2026-11-04T16:45:34+07:00 A250 systemd[1]: Started tictactoe.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u tictactoe.py.
+2026-11-04T16:45:34+07:00 A250 python[2567]: new game: your turn (X) - put the bracket in a cell and hold still
+2026-11-04T16:49:05+07:00 A250 python[2567]: you: X in cell 3
+2026-11-04T16:49:05+07:00 A250 python[2567]: me: O in cell 5 - your turn
+2026-11-04T16:49:12+07:00 A250 python[2567]: you: X in cell 1
+2026-11-04T16:49:13+07:00 A250 python[2567]: me: O in cell 2 - your turn
+2026-11-04T16:50:13+07:00 A250 systemd[1]: Stopping tictactoe.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u tictactoe.py...
+2026-11-04T16:50:13+07:00 A250 python[2567]: stopped
+2026-11-04T16:50:13+07:00 A250 systemd[1]: tictactoe.service: Deactivated successfully.
+2026-11-04T16:50:13+07:00 A250 systemd[1]: Stopped tictactoe.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u tictactoe.py.
+2026-11-04T16:50:13+07:00 A250 systemd[1]: tictactoe.service: Consumed 7min 45.356s CPU time.
+2026-11-04T16:50:13+07:00 A250 systemd[1]: Started tictactoe.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u tictactoe.py.
+2026-11-04T16:50:13+07:00 A250 python[2749]: new game: X to move - point at a cell and hold ~1 s
+2026-11-04T16:50:19+07:00 A250 python[2749]: X in cell 7 - O to move
+2026-11-04T16:50:28+07:00 A250 python[2749]: O in cell 5 - X to move
+2026-11-04T16:50:33+07:00 A250 python[2749]: X in cell 1 - O to move
+2026-11-04T16:50:36+07:00 A250 python[2749]: O in cell 4 - X to move
+2026-11-04T16:50:40+07:00 A250 python[2749]: X in cell 6 - O to move
+2026-11-04T16:50:48+07:00 A250 python[2749]: O in cell 2 - X to move
+2026-11-04T16:50:53+07:00 A250 python[2749]: X in cell 8 - O to move
+2026-11-04T16:50:56+07:00 A250 python[2749]: O in cell 9 - X to move
+2026-11-04T16:50:58+07:00 A250 python[2749]: X in cell 3
+2026-11-04T16:50:58+07:00 A250 python[2749]: game over: draw - new game in 8 s
+2026-11-04T16:51:07+07:00 A250 python[2749]: new game: O to move - point at a cell and hold ~1 s
+2026-11-04T16:51:15+07:00 A250 python[2749]: O in cell 7 - X to move
+2026-11-04T16:51:21+07:00 A250 python[2749]: X in cell 5 - O to move
+2026-11-04T16:51:26+07:00 A250 python[2749]: O in cell 3 - X to move
+2026-11-04T16:51:30+07:00 A250 python[2749]: X in cell 2 - O to move
+2026-11-04T16:51:39+07:00 A250 python[2749]: O in cell 8 - X to move
+2026-11-04T16:51:54+07:00 A250 python[2749]: X in cell 9 - O to move
+2026-11-04T16:51:58+07:00 A250 python[2749]: O in cell 1 - X to move
+2026-11-04T16:52:16+07:00 A250 python[2749]: X in cell 4 - O to move
+2026-11-04T16:52:25+07:00 A250 python[2749]: O in cell 6
+2026-11-04T16:52:25+07:00 A250 python[2749]: game over: draw - new game in 8 s
+2026-11-04T16:52:33+07:00 A250 python[2749]: new game: X to move - point at a cell and hold ~1 s
+2026-11-04T16:52:38+07:00 A250 python[2749]: X in cell 3 - O to move
+2026-11-04T16:52:41+07:00 A250 python[2749]: O in cell 6 - X to move
+2026-11-04T16:52:45+07:00 A250 python[2749]: X in cell 1 - O to move
+2026-11-04T16:52:47+07:00 A250 python[2749]: O in cell 2 - X to move
+2026-11-04T16:52:50+07:00 A250 python[2749]: X in cell 7 - O to move
+2026-11-04T16:52:54+07:00 A250 python[2749]: O in cell 4 - X to move
+2026-11-04T16:53:20+07:00 A250 python[2749]: X in cell 5
+2026-11-04T16:53:20+07:00 A250 python[2749]: game over: X wins! - new game in 8 s
+2026-11-04T16:53:28+07:00 A250 python[2749]: new game: O to move - point at a cell and hold ~1 s
+2026-11-04T16:53:37+07:00 A250 python[2749]: O in cell 1 - X to move
+2026-11-04T16:53:40+07:00 A250 python[2749]: X in cell 9 - O to move
+2026-11-04T16:53:44+07:00 A250 python[2749]: O in cell 3 - X to move
+2026-11-04T16:53:46+07:00 A250 python[2749]: X in cell 2 - O to move
+2026-11-04T16:53:50+07:00 A250 python[2749]: O in cell 7 - X to move
+2026-11-04T16:53:53+07:00 A250 python[2749]: X in cell 5 - O to move
+2026-11-04T16:54:04+07:00 A250 python[2749]: O in cell 4
+2026-11-04T16:54:04+07:00 A250 python[2749]: game over: O wins! - new game in 8 s
+2026-11-04T16:54:12+07:00 A250 python[2749]: new game: X to move - point at a cell and hold ~1 s
+2026-11-04T16:55:08+07:00 A250 systemd[1]: Stopping tictactoe.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u tictactoe.py...
+2026-11-04T16:55:08+07:00 A250 python[2749]: stopped
+2026-11-04T16:55:08+07:00 A250 systemd[1]: tictactoe.service: Deactivated successfully.
+2026-11-04T16:55:08+07:00 A250 systemd[1]: Stopped tictactoe.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u tictactoe.py.
+2026-11-04T16:55:08+07:00 A250 systemd[1]: tictactoe.service: Consumed 5min 38.923s CPU time.
+===== outline
+2026-11-04T16:57:18+07:00 A250 systemd[1]: Started outline.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u outline.py.
+2026-11-04T16:57:18+07:00 A250 python[2938]: 1 object(s), areas [13902]
+2026-11-04T16:57:25+07:00 A250 python[2938]: 1 object(s), areas [13982]
+2026-11-04T16:57:32+07:00 A250 python[2938]: 1 object(s), areas [12983]
+2026-11-04T16:57:39+07:00 A250 python[2938]: 2 object(s), areas [943, 9188]
+2026-11-04T16:57:47+07:00 A250 python[2938]: 1 object(s), areas [12947]
+2026-11-04T16:57:54+07:00 A250 python[2938]: 1 object(s), areas [13426]
+2026-11-04T16:58:01+07:00 A250 python[2938]: 1 object(s), areas [14524]
+2026-11-04T16:58:08+07:00 A250 python[2938]: 1 object(s), areas [14597]
+2026-11-04T16:58:15+07:00 A250 python[2938]: 1 object(s), areas [14570]
+2026-11-04T16:58:22+07:00 A250 python[2938]: 1 object(s), areas [14740]
+2026-11-04T16:58:29+07:00 A250 python[2938]: 1 object(s), areas [14143]
+2026-11-04T16:58:36+07:00 A250 python[2938]: 1 object(s), areas [14730]
+2026-11-04T16:58:42+07:00 A250 systemd[1]: Stopping outline.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u outline.py...
+2026-11-04T16:58:43+07:00 A250 systemd[1]: outline.service: Deactivated successfully.
+2026-11-04T16:58:43+07:00 A250 systemd[1]: Stopped outline.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u outline.py.
+2026-11-04T16:58:43+07:00 A250 systemd[1]: outline.service: Consumed 6.308s CPU time.
+===== paint-display
+===== paint-server
+2026-11-04T16:06:53+07:00 A250 systemd[1]: Started paint-server.service - A250 paint projector - websocket/http server.
+2026-11-04T16:06:54+07:00 A250 node[1196]: A250 paint prototype listening on http://0.0.0.0:8765
+2026-11-04T16:06:54+07:00 A250 node[1196]:   Control: http://<host>:8765/draw.html
+2026-11-04T16:06:54+07:00 A250 node[1196]:   Display: http://<host>:8765/display.html
+===== webcam
+2026-11-04T16:06:53+07:00 A250 systemd[1]: Started webcam.service - uStreamer webcam MJPEG stream.
+2026-11-04T16:06:53+07:00 A250 ustreamer[1201]: -- INFO  [7.423      main] -- Using internal blank placeholder
+2026-11-04T16:06:53+07:00 A250 ustreamer[1201]: -- INFO  [7.423      main] -- Listening HTTP on [0.0.0.0]:8080
+2026-11-04T16:06:53+07:00 A250 ustreamer[1201]: -- INFO  [7.423    stream] -- Using V4L2 device: /dev/video0
+2026-11-04T16:06:53+07:00 A250 ustreamer[1201]: -- INFO  [7.423    stream] -- Using desired FPS: 30
+2026-11-04T16:06:53+07:00 A250 ustreamer[1201]: ================================================================================
+2026-11-04T16:06:53+07:00 A250 ustreamer[1201]: -- INFO  [7.424      http] -- Starting HTTP eventloop ...
+2026-11-04T16:06:53+07:00 A250 ustreamer[1201]: -- INFO  [7.424    stream] -- Device fd=8 opened
+2026-11-04T16:06:53+07:00 A250 ustreamer[1201]: -- INFO  [7.424    stream] -- Using input channel: 0
+2026-11-04T16:06:53+07:00 A250 ustreamer[1201]: -- INFO  [7.539    stream] -- Using resolution: 2560x720
+2026-11-04T16:06:53+07:00 A250 ustreamer[1201]: -- INFO  [7.539    stream] -- Using format: MJPEG
+2026-11-04T16:06:53+07:00 A250 ustreamer[1201]: -- INFO  [7.553    stream] -- Using HW FPS: 30
+2026-11-04T16:06:53+07:00 A250 ustreamer[1201]: -- ERROR [7.553    stream] -- Device doesn't support setting of HW encoding quality parameters
+2026-11-04T16:06:53+07:00 A250 ustreamer[1201]: -- INFO  [7.553    stream] -- Using IO method: MMAP
+2026-11-04T16:06:53+07:00 A250 ustreamer[1201]: -- INFO  [7.556    stream] -- Requested 5 device buffers, got 5
+2026-11-04T16:06:53+07:00 A250 ustreamer[1201]: -- INFO  [7.567    stream] -- Capturing started
+2026-11-04T16:06:53+07:00 A250 ustreamer[1201]: -- INFO  [7.567    stream] -- Switching to HW encoder: the input is (M)JPEG ...
+2026-11-04T16:06:53+07:00 A250 ustreamer[1201]: -- INFO  [7.567    stream] -- Using JPEG quality: encoder default
+2026-11-04T16:06:53+07:00 A250 ustreamer[1201]: -- INFO  [7.567    stream] -- Creating pool JPEG with 1 workers ...
+2026-11-04T16:06:53+07:00 A250 ustreamer[1201]: -- INFO  [7.567    stream] -- Capturing ...
+2026-11-04T16:12:25+07:00 A250 ustreamer[1201]: -- INFO  [340.521      http] -- HTTP: Registered client: [192.168.31.204]:53327, id=f2a5ae8c23f06697; clients now: 1
+2026-11-04T16:12:27+07:00 A250 ustreamer[1201]: -- INFO  [342.448      http] -- HTTP: Disconnected client: [192.168.31.204]:53327, id=f2a5ae8c23f06697, Connection reset by peer (reading,error); clients now: 0
+2026-11-04T16:12:28+07:00 A250 ustreamer[1201]: -- INFO  [342.682      http] -- HTTP: Registered client: [127.0.0.1]:33396, id=709891ef06475b8b; clients now: 1
+2026-11-04T16:12:30+07:00 A250 ustreamer[1201]: -- INFO  [344.802      http] -- HTTP: Disconnected client: [127.0.0.1]:33396, id=709891ef06475b8b, Bad file descriptor (reading,eof); clients now: 0
+2026-11-04T16:12:35+07:00 A250 ustreamer[1201]: -- INFO  [349.680      http] -- HTTP: Registered client: [192.168.31.204]:55235, id=e468652b97e7ad3; clients now: 1
+===== klipper
+2026-11-04T16:06:59+07:00 A250 systemd[1]: Started klipper.service - Klipper 3D Printer Firmware.
+===== moonraker
+2026-11-04T16:06:59+07:00 A250 systemd[1]: Started moonraker.service - API Server for Klipper SV1.
+2026-11-04T16:07:00+07:00 A250 python[1294]: Application Info:
+2026-11-04T16:07:00+07:00 A250 python[1294]: platform: Linux-6.18.34+rpt-rpi-2712-aarch64-with-glibc2.41
+2026-11-04T16:07:00+07:00 A250 python[1294]: data_path: /home/cps/printer_data
+2026-11-04T16:07:00+07:00 A250 python[1294]: is_default_data_path: False
+2026-11-04T16:07:00+07:00 A250 python[1294]: config_file: /home/cps/printer_data/config/moonraker.conf
+2026-11-04T16:07:00+07:00 A250 python[1294]: backup_config: /home/cps/printer_data/config/.moonraker.conf.bkp
+2026-11-04T16:07:00+07:00 A250 python[1294]: startup_warnings: []
+2026-11-04T16:07:00+07:00 A250 python[1294]: verbose: False
+2026-11-04T16:07:00+07:00 A250 python[1294]: debug: False
+2026-11-04T16:07:00+07:00 A250 python[1294]: asyncio_debug: False
+2026-11-04T16:07:00+07:00 A250 python[1294]: is_backup_config: False
+2026-11-04T16:07:00+07:00 A250 python[1294]: is_python_package: True
+2026-11-04T16:07:00+07:00 A250 python[1294]: instance_uuid: 9a0043f5414c4d5f83181087c4bed546
+2026-11-04T16:07:00+07:00 A250 python[1294]: unix_socket_path: /home/cps/printer_data/comms/moonraker.sock
+2026-11-04T16:07:00+07:00 A250 python[1294]: structured_logging: False
+2026-11-04T16:07:00+07:00 A250 python[1294]: software_version: v0.10.0-31-gd5ee171
+2026-11-04T16:07:00+07:00 A250 python[1294]: git_branch: master
+2026-11-04T16:07:00+07:00 A250 python[1294]: git_remote: origin
+2026-11-04T16:07:00+07:00 A250 python[1294]: git_repo_url: https://github.com/Arksine/moonraker.git
+2026-11-04T16:07:00+07:00 A250 python[1294]: modified_files: []
+2026-11-04T16:07:00+07:00 A250 python[1294]: unofficial_components: []
+2026-11-04T16:07:00+07:00 A250 python[1294]: log_file: /home/cps/printer_data/logs/moonraker.log
+2026-11-04T16:07:00+07:00 A250 python[1294]: python_version: 3.13.5 (main, May  5 2026, 21:05:52) [GCC 14.2.0]
+2026-11-04T16:07:00+07:00 A250 python[1294]: launch_args: /home/cps/moonraker-env/bin/python /home/cps/moonraker/moonraker/__main__.py
+2026-11-04T16:07:00+07:00 A250 python[1294]: msgspec_enabled: True
+2026-11-04T16:07:00+07:00 A250 python[1294]: uvloop_enabled: True
+2026-11-04T16:07:00+07:00 A250 python[1294]: [confighelper.py:read_file()] - Configuration File '/home/cps/printer_data/config/moonraker.conf' parsed, total size: 740 B
+2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:add_log_rollover_item()] -
+2026-11-04T16:07:00+07:00 A250 python[1294]: #################### Moonraker Configuration ####################
+2026-11-04T16:07:00+07:00 A250 python[1294]: [server]
+2026-11-04T16:07:00+07:00 A250 python[1294]: host = 0.0.0.0
+2026-11-04T16:07:00+07:00 A250 python[1294]: port = 7125
+2026-11-04T16:07:00+07:00 A250 python[1294]: klippy_uds_address = /home/cps/printer_data/comms/klippy.sock
+2026-11-04T16:07:00+07:00 A250 python[1294]: [authorization]
+2026-11-04T16:07:00+07:00 A250 python[1294]: trusted_clients =
+2026-11-04T16:07:00+07:00 A250 python[1294]:         10.0.0.0/8
+2026-11-04T16:07:00+07:00 A250 python[1294]:         127.0.0.0/8
+2026-11-04T16:07:00+07:00 A250 python[1294]:         169.254.0.0/16
+2026-11-04T16:07:00+07:00 A250 python[1294]:         172.16.0.0/12
+2026-11-04T16:07:00+07:00 A250 python[1294]:         192.168.0.0/16
+2026-11-04T16:07:00+07:00 A250 python[1294]:         FE80::/10
+2026-11-04T16:07:00+07:00 A250 python[1294]:         ::1/128
+2026-11-04T16:07:00+07:00 A250 python[1294]: cors_domains =
+2026-11-04T16:07:00+07:00 A250 python[1294]:         *.local
+2026-11-04T16:07:00+07:00 A250 python[1294]:         *.lan
+2026-11-04T16:07:00+07:00 A250 python[1294]:         http://*.local
+2026-11-04T16:07:00+07:00 A250 python[1294]:         http://A250.local
+2026-11-04T16:07:00+07:00 A250 python[1294]:         http://161.200.84.240:5001
+2026-11-04T16:07:00+07:00 A250 python[1294]: [octoprint_compat]
+2026-11-04T16:07:00+07:00 A250 python[1294]: [history]
+2026-11-04T16:07:00+07:00 A250 python[1294]: [update_manager]
+2026-11-04T16:07:00+07:00 A250 python[1294]: enable_auto_refresh = True
+2026-11-04T16:07:00+07:00 A250 python[1294]: [update_manager mainsail]
+2026-11-04T16:07:00+07:00 A250 python[1294]: type = web
+2026-11-04T16:07:00+07:00 A250 python[1294]: channel = stable
+2026-11-04T16:07:00+07:00 A250 python[1294]: repo = mainsail-crew/mainsail
+2026-11-04T16:07:00+07:00 A250 python[1294]: path = /home/cps/mainsail
+2026-11-04T16:07:00+07:00 A250 python[1294]: [power webcam]
+2026-11-04T16:07:00+07:00 A250 python[1294]: type = http
+2026-11-04T16:07:00+07:00 A250 python[1294]: on_url = http://127.0.0.1:8081/on
+2026-11-04T16:07:00+07:00 A250 python[1294]: off_url = http://127.0.0.1:8081/off
+2026-11-04T16:07:00+07:00 A250 python[1294]: status_url = http://127.0.0.1:8081/status
+2026-11-04T16:07:00+07:00 A250 python[1294]: response_template = { http_request.last_response().text.strip().lower() }
+2026-11-04T16:07:00+07:00 A250 python[1294]: #################################################################
+2026-11-04T16:07:00+07:00 A250 python[1294]: All Configuration Files:
+2026-11-04T16:07:00+07:00 A250 python[1294]: /home/cps/printer_data/config/moonraker.conf
+2026-11-04T16:07:00+07:00 A250 python[1294]: #################################################################
+2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:load_component()] - Component (secrets) loaded
+2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:load_component()] - Component (template) loaded
+2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:load_component()] - Component (klippy_connection) loaded
+2026-11-04T16:07:00+07:00 A250 python[1294]: [application.py:__init__()] - Detected Tornado Version 6.5.6
+2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:load_component()] - Component (application) loaded
+2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:load_component()] - Component (websockets) loaded
+2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:add_log_rollover_item()] - Loading Sqlite database provider. Sqlite Version: 3.46.1
+2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:add_log_rollover_item()] - Unsafe Shutdown Count: 13
+2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:load_component()] - Component (database) loaded
+2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:load_component()] - Component (dbus_manager) loaded
+2026-11-04T16:07:00+07:00 A250 python[1294]: [file_manager.py:__init__()] - Using File System Observer: inotify
+2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:load_component()] - Component (file_manager) loaded
+2026-11-04T16:07:00+07:00 A250 python[1294]: [database.py:register_table()] - Found registered table authorized_users
+2026-11-04T16:07:00+07:00 A250 python[1294]: [authorization.py:__init__()] - Authorization Configuration Loaded
+2026-11-04T16:07:00+07:00 A250 python[1294]: Trusted Clients:
+2026-11-04T16:07:00+07:00 A250 python[1294]: 10.0.0.0/8
+2026-11-04T16:07:00+07:00 A250 python[1294]: 127.0.0.0/8
+2026-11-04T16:07:00+07:00 A250 python[1294]: 169.254.0.0/16
+2026-11-04T16:07:00+07:00 A250 python[1294]: 172.16.0.0/12
+2026-11-04T16:07:00+07:00 A250 python[1294]: 192.168.0.0/16
+2026-11-04T16:07:00+07:00 A250 python[1294]: fe80::/10
+2026-11-04T16:07:00+07:00 A250 python[1294]: ::1/128
+2026-11-04T16:07:00+07:00 A250 python[1294]: CORS Domains:
+2026-11-04T16:07:00+07:00 A250 python[1294]: .*\.local
+2026-11-04T16:07:00+07:00 A250 python[1294]: .*\.lan
+2026-11-04T16:07:00+07:00 A250 python[1294]: http://.*\.local
+2026-11-04T16:07:00+07:00 A250 python[1294]: http://A250\.local
+2026-11-04T16:07:00+07:00 A250 python[1294]: http://161\.200\.84\.240:5001
+2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:load_component()] - Component (authorization) loaded
+2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:load_component()] - Component (klippy_apis) loaded
+2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:add_log_rollover_item()] -
+2026-11-04T16:07:00+07:00 A250 python[1294]: System Info:
+2026-11-04T16:07:00+07:00 A250 python[1294]: ***python***
+2026-11-04T16:07:00+07:00 A250 python[1294]:   version: (3, 13, 5, 'final', 0)
+2026-11-04T16:07:00+07:00 A250 python[1294]:   version_string: 3.13.5 (main, May  5 2026, 21:05:52) [GCC 14.2.0]
+2026-11-04T16:07:00+07:00 A250 python[1294]: ***cpu_info***
+2026-11-04T16:07:00+07:00 A250 python[1294]:   cpu_count: 4
+2026-11-04T16:07:00+07:00 A250 python[1294]:   bits: 64bit
+2026-11-04T16:07:00+07:00 A250 python[1294]:   processor: aarch64
+2026-11-04T16:07:00+07:00 A250 python[1294]:   cpu_desc:
+2026-11-04T16:07:00+07:00 A250 python[1294]:   serial_number: 75a0c57ff244eac4
+2026-11-04T16:07:00+07:00 A250 python[1294]:   hardware_desc:
+2026-11-04T16:07:00+07:00 A250 python[1294]:   model: Raspberry Pi 5 Model B Rev 1.1
+2026-11-04T16:07:00+07:00 A250 python[1294]:   total_memory: 16607600
+2026-11-04T16:07:00+07:00 A250 python[1294]:   memory_units: kB
+2026-11-04T16:07:00+07:00 A250 python[1294]: ***sd_info***
+2026-11-04T16:07:00+07:00 A250 python[1294]:   manufacturer_id: 03
+2026-11-04T16:07:00+07:00 A250 python[1294]:   manufacturer: Sandisk
+2026-11-04T16:07:00+07:00 A250 python[1294]:   oem_id: 5344
+2026-11-04T16:07:00+07:00 A250 python[1294]:   product_name: SE32G
+2026-11-04T16:07:00+07:00 A250 python[1294]:   product_revision: 8.0
+2026-11-04T16:07:00+07:00 A250 python[1294]:   serial_number: 81c202c2
+2026-11-04T16:07:00+07:00 A250 python[1294]:   manufacturer_date: 7/2023
+2026-11-04T16:07:00+07:00 A250 python[1294]:   capacity: 29.7 GiB
+2026-11-04T16:07:00+07:00 A250 python[1294]:   total_bytes: 31914983424
+2026-11-04T16:07:00+07:00 A250 python[1294]: ***distribution***
+2026-11-04T16:07:00+07:00 A250 python[1294]:   name: Debian GNU/Linux 13 (trixie)
+2026-11-04T16:07:00+07:00 A250 python[1294]:   id: debian
+2026-11-04T16:07:00+07:00 A250 python[1294]:   version: 13
+2026-11-04T16:07:00+07:00 A250 python[1294]:   version_parts: {'major': '13', 'minor': '', 'build_number': ''}
+2026-11-04T16:07:00+07:00 A250 python[1294]:   like:
+2026-11-04T16:07:00+07:00 A250 python[1294]:   codename: trixie
+2026-11-04T16:07:00+07:00 A250 python[1294]:   release_info: {}
+2026-11-04T16:07:00+07:00 A250 python[1294]:   kernel_version: 6.18.34+rpt-rpi-2712
+2026-11-04T16:07:00+07:00 A250 python[1294]: ***virtualization***
+2026-11-04T16:07:00+07:00 A250 python[1294]:   virt_type: none
+2026-11-04T16:07:00+07:00 A250 python[1294]:   virt_identifier: none
+2026-11-04T16:07:00+07:00 A250 python[1294]: ***network***
+2026-11-04T16:07:00+07:00 A250 python[1294]: ***canbus***
+2026-11-04T16:07:00+07:00 A250 python[1294]: ***Allowed Services***
+2026-11-04T16:07:00+07:00 A250 python[1294]:   klipper_mcu
+2026-11-04T16:07:00+07:00 A250 python[1294]:   webcamd
+2026-11-04T16:07:00+07:00 A250 python[1294]:   MoonCord
+2026-11-04T16:07:00+07:00 A250 python[1294]:   KlipperScreen
+2026-11-04T16:07:00+07:00 A250 python[1294]:   moonraker-telegram-bot
+2026-11-04T16:07:00+07:00 A250 python[1294]:   moonraker-obico
+2026-11-04T16:07:00+07:00 A250 python[1294]:   sonar
+2026-11-04T16:07:00+07:00 A250 python[1294]:   crowsnest
+2026-11-04T16:07:00+07:00 A250 python[1294]:   octoeverywhere
+2026-11-04T16:07:00+07:00 A250 python[1294]:   ratos-configurator
+2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:load_component()] - Component (shell_command) loaded
+2026-11-04T16:07:00+07:00 A250 python[1294]: [machine.py:__init__()] - Using System Provider: systemd_dbus
+2026-11-04T16:07:00+07:00 A250 python[1294]: [0:00:14.759887250] [1294]  INFO Camera camera_manager.cpp:340 libcamera v0.7.1+rpt20260609
+2026-11-04T16:07:00+07:00 A250 python[1294]: [0:00:14.766773713] [1393]  INFO Camera camera_manager.cpp:223 Adding camera '/base/axi/pcie@1000120000/rp1/usb@300000-1:1.0-0bda:9732' for pipeline handler uvcvideo
+2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:add_log_rollover_item()] - Found libcamera Python module, version: v0.7.1+rpt20260609
+2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:load_component()] - Component (machine) loaded
+2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:load_component()] - Component (data_store) loaded
+2026-11-04T16:07:00+07:00 A250 python[1294]: [proc_stats.py:__init__()] - Detected 'vcgencmd', throttle checking enabled
+2026-11-04T16:07:00+07:00 A250 python[1294]: [proc_stats.py:_get_cpu_thermal_file()] - Monitoring temperature for Raspberry Pi CPU
+2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:load_component()] - Component (proc_stats) loaded
+2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:load_component()] - Component (job_state) loaded
+2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:load_component()] - Component (job_queue) loaded
+2026-11-04T16:07:00+07:00 A250 python[1294]: [database.py:register_table()] - Found registered table job_history
+2026-11-04T16:07:00+07:00 A250 python[1294]: [database.py:register_table()] - Found registered table job_totals
+2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:load_component()] - Component (history) loaded
+2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:load_component()] - Component (http_client) loaded
+2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:load_component()] - Component (announcements) loaded
+2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:load_component()] - Component (webcam) loaded
+2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:load_component()] - Component (extensions) loaded
+2026-11-04T16:07:00+07:00 A250 python[1294]: [power.py:__init__()] - Power component loading devices: ['power webcam']
+2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:load_component()] - Component (power) loaded
+2026-11-04T16:07:00+07:00 A250 python[1294]: [base_deploy.py:log_info()] - Git Repo moonraker: Detected virtualenv: /home/cps/moonraker-env
+2026-11-04T16:07:00+07:00 A250 python[1294]: [base_deploy.py:log_info()] - Git Repo klipper: Detected virtualenv: /home/cps/klippy-env
+2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:load_component()] - Component (update_manager) loaded
+2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:load_component()] - Component (octoprint_compat) loaded
+2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:_initialize_component()] - Performing Component Post Init: [database]
+2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:_initialize_component()] - Performing Component Post Init: [dbus_manager]
+2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:_initialize_component()] - Performing Component Post Init: [authorization]
+2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:_initialize_component()] - Performing Component Post Init: [machine]
+2026-11-04T16:07:00+07:00 A250 python[1294]: [machine.py:validation_init()] - Installation version in database up to date
+2026-11-04T16:07:01+07:00 A250 python[1294]: [machine.py:check_virt_status()] - No Virtualization Detected
+2026-11-04T16:07:01+07:00 A250 python[1294]: [machine.py:_find_public_ip()] - Detected Local IP: 192.168.31.187
+2026-11-04T16:07:01+07:00 A250 python[1294]: [webcam.py:_set_default_host_ip()] - Default public webcam address set: http://192.168.31.187
+2026-11-04T16:07:01+07:00 A250 python[1294]: [server.py:add_log_rollover_item()] -
+2026-11-04T16:07:01+07:00 A250 python[1294]: Systemd unit moonraker.service:
+2026-11-04T16:07:01+07:00 A250 python[1294]: unit_name: moonraker.service
+2026-11-04T16:07:01+07:00 A250 python[1294]: is_default: True
+2026-11-04T16:07:01+07:00 A250 python[1294]: manager: systemd
+2026-11-04T16:07:01+07:00 A250 python[1294]: Properties:
+2026-11-04T16:07:01+07:00 A250 python[1294]: **Requires=['network-online.target', 'system.slice', 'sysinit.target']
+2026-11-04T16:07:01+07:00 A250 python[1294]: **After=['basic.target', 'systemd-journald.socket', 'sysinit.target', 'system.slice', 'network-online.target']
+2026-11-04T16:07:01+07:00 A250 python[1294]: **SupplementaryGroups=['moonraker-admin']
+2026-11-04T16:07:01+07:00 A250 python[1294]: **EnvironmentFiles=/home/cps/printer_data/systemd/moonraker.env
+2026-11-04T16:07:01+07:00 A250 python[1294]: **ExecStart=/home/cps/moonraker-env/bin/python $MOONRAKER_ARGS
+2026-11-04T16:07:01+07:00 A250 python[1294]: **WorkingDirectory=
+2026-11-04T16:07:01+07:00 A250 python[1294]: **FragmentPath=/etc/systemd/system/moonraker.service
+2026-11-04T16:07:01+07:00 A250 python[1294]: **Description=API Server for Klipper SV1
+2026-11-04T16:07:01+07:00 A250 python[1294]: **User=cps
+2026-11-04T16:07:01+07:00 A250 python[1294]: [server.py:_initialize_component()] - Performing Component Post Init: [proc_stats]
+2026-11-04T16:07:01+07:00 A250 python[1294]: [server.py:_initialize_component()] - Performing Component Post Init: [history]
+2026-11-04T16:07:01+07:00 A250 python[1294]: [server.py:_initialize_component()] - Performing Component Post Init: [announcements]
+2026-11-04T16:07:01+07:00 A250 python[1294]: [server.py:_initialize_component()] - Performing Component Post Init: [webcam]
+2026-11-04T16:07:01+07:00 A250 python[1294]: [webcam.py:_set_default_host_ip()] - Default public webcam address set: http://192.168.31.187
+2026-11-04T16:07:01+07:00 A250 python[1294]: [server.py:_initialize_component()] - Performing Component Post Init: [klippy_connection]
+2026-11-04T16:07:01+07:00 A250 python[1294]: [server.py:add_log_rollover_item()] -
+2026-11-04T16:07:01+07:00 A250 python[1294]: Systemd unit klipper.service:
+2026-11-04T16:07:01+07:00 A250 python[1294]: unit_name: klipper.service
+2026-11-04T16:07:01+07:00 A250 python[1294]: is_default: True
+2026-11-04T16:07:01+07:00 A250 python[1294]: manager: systemd
+2026-11-04T16:07:01+07:00 A250 python[1294]: Properties:
+2026-11-04T16:07:01+07:00 A250 python[1294]: **Requires=['sysinit.target', 'system.slice', '-.mount']
+2026-11-04T16:07:01+07:00 A250 python[1294]: **After=['network-online.target', 'basic.target', '-.mount', 'systemd-journald.socket', 'sysinit.target', 'system.slice']
+2026-11-04T16:07:01+07:00 A250 python[1294]: **SupplementaryGroups=[]
+2026-11-04T16:07:01+07:00 A250 python[1294]: **EnvironmentFiles=[]
+2026-11-04T16:07:01+07:00 A250 python[1294]: **ExecStart=/home/cps/klippy-env/bin/python /home/cps/klipper/klippy/klippy.py /home/cps/printer_data/config/printer.cfg -l /home/cps/printer_data/logs/klippy.log -a /home/cps/printer_data/comms/klippy.sock
+2026-11-04T16:07:01+07:00 A250 python[1294]: **WorkingDirectory=/home/cps/klipper
+2026-11-04T16:07:01+07:00 A250 python[1294]: **FragmentPath=/etc/systemd/system/klipper.service
+2026-11-04T16:07:01+07:00 A250 python[1294]: **Description=Klipper 3D Printer Firmware
+2026-11-04T16:07:01+07:00 A250 python[1294]: **User=cps
+2026-11-04T16:07:01+07:00 A250 python[1294]: [server.py:_initialize_component()] - Performing Component Post Init: [power]
+2026-11-04T16:07:01+07:00 A250 python[1294]: [server.py:_initialize_component()] - Performing Component Post Init: [update_manager]
+2026-11-04T16:07:01+07:00 A250 python[1294]: [proc_stats.py:run()] - VCIO vcgencmd failed
+2026-11-04T16:07:01+07:00 A250 python[1294]: Traceback (most recent call last):
+2026-11-04T16:07:01+07:00 A250 python[1294]:   File "/home/cps/moonraker/moonraker/components/proc_stats.py", line 387, in run
+2026-11-04T16:07:01+07:00 A250 python[1294]:     fd = os.open(VCIO_PATH, os.O_RDWR)
+2026-11-04T16:07:01+07:00 A250 python[1294]: PermissionError: [Errno 13] Permission denied: '/dev/vcio'
+2026-11-04T16:07:01+07:00 A250 python[1294]: [base_deploy.py:log_info()] - PackageDeploy: PackageKit Provider Configured
+2026-11-04T16:07:01+07:00 A250 python[1294]: [git_deploy.py:log_repo_info()] - Git Repo moonraker Detected:
+2026-11-04T16:07:01+07:00 A250 python[1294]: Owner: Arksine
+2026-11-04T16:07:01+07:00 A250 python[1294]: Repository Name: moonraker
+2026-11-04T16:07:01+07:00 A250 python[1294]: Path: /home/cps/moonraker
+2026-11-04T16:07:01+07:00 A250 python[1294]: Remote: origin
+2026-11-04T16:07:01+07:00 A250 python[1294]: Branch: master
+2026-11-04T16:07:01+07:00 A250 python[1294]: Remote URL: https://github.com/Arksine/moonraker.git
+2026-11-04T16:07:01+07:00 A250 python[1294]: Recovery URL: https://github.com/Arksine/moonraker.git
+2026-11-04T16:07:01+07:00 A250 python[1294]: Current Commit SHA: d5ee17128bb88434aacdab90c2e9e990e2b64e4a
+2026-11-04T16:07:01+07:00 A250 python[1294]: Upstream Commit SHA: b559b9a81161f958a43c2f527b6ad96f73310d5d
+2026-11-04T16:07:01+07:00 A250 python[1294]: Current Version: v0.10.0-31-gd5ee1712
+2026-11-04T16:07:01+07:00 A250 python[1294]: Upstream Version: v0.11.0-4-gb559b9a8
+2026-11-04T16:07:01+07:00 A250 python[1294]: Rollback Commit: d5ee17128bb88434aacdab90c2e9e990e2b64e4a
+2026-11-04T16:07:01+07:00 A250 python[1294]: Rollback Branch: master
+2026-11-04T16:07:01+07:00 A250 python[1294]: Rollback Version: v0.10.0-31-gd5ee1712
+2026-11-04T16:07:01+07:00 A250 python[1294]: Is Dirty: False
+2026-11-04T16:07:01+07:00 A250 python[1294]: Is Detached: False
+2026-11-04T16:07:01+07:00 A250 python[1294]: Is Shallow: False
+2026-11-04T16:07:01+07:00 A250 python[1294]: Commits Behind Count: 11
+2026-11-04T16:07:01+07:00 A250 python[1294]: Diverged: False
+2026-11-04T16:07:01+07:00 A250 python[1294]: Pinned Commit: None
+2026-11-04T16:07:01+07:00 A250 python[1294]: [git_deploy.py:log_repo_info()] - Git Repo klipper Detected:
+2026-11-04T16:07:01+07:00 A250 python[1294]: Owner: Klipper3d
+2026-11-04T16:07:01+07:00 A250 python[1294]: Repository Name: klipper
+2026-11-04T16:07:01+07:00 A250 python[1294]: Path: /home/cps/klipper
+2026-11-04T16:07:01+07:00 A250 python[1294]: Remote: origin
+2026-11-04T16:07:01+07:00 A250 python[1294]: Branch: master
+2026-11-04T16:07:01+07:00 A250 python[1294]: Remote URL: https://github.com/Klipper3d/klipper.git
+2026-11-04T16:07:01+07:00 A250 python[1294]: Recovery URL: https://github.com/Klipper3d/klipper.git
+2026-11-04T16:07:01+07:00 A250 python[1294]: Current Commit SHA: 7e64fc84219b7bafd180c4db74db5253af641608
+2026-11-04T16:07:01+07:00 A250 python[1294]: Upstream Commit SHA: 0cee841e31d701595b3e509a0b502f6e320f52a8
+2026-11-04T16:07:01+07:00 A250 python[1294]: Current Version: v0.13.0-701-g7e64fc84
+2026-11-04T16:07:01+07:00 A250 python[1294]: Upstream Version: v0.13.0-820-g0cee841e
+2026-11-04T16:07:01+07:00 A250 python[1294]: Rollback Commit: 7e64fc84219b7bafd180c4db74db5253af641608
+2026-11-04T16:07:01+07:00 A250 python[1294]: Rollback Branch: master
+2026-11-04T16:07:01+07:00 A250 python[1294]: Rollback Version: v0.13.0-701-g7e64fc84
+2026-11-04T16:07:01+07:00 A250 python[1294]: Is Dirty: False
+2026-11-04T16:07:01+07:00 A250 python[1294]: Is Detached: False
+2026-11-04T16:07:01+07:00 A250 python[1294]: Is Shallow: False
+2026-11-04T16:07:01+07:00 A250 python[1294]: Commits Behind Count: 119
+2026-11-04T16:07:01+07:00 A250 python[1294]: Diverged: False
+2026-11-04T16:07:01+07:00 A250 python[1294]: Pinned Commit: None
+2026-11-04T16:07:01+07:00 A250 python[1294]: Repo Warnings:
+2026-11-04T16:07:01+07:00 A250 python[1294]:   Repo has untracked source files: ['klippy/extras/gp2y0e02b.py', 'klippy/extras/host_fan.py', 'klippy/extras/snapmaker_endstop.py', 'klippy/extras/snapmaker_endstops.py', 'klippy/extras/solenoid_board.py']
+2026-11-04T16:07:01+07:00 A250 python[1294]: [base_deploy.py:log_info()] - Web Client mainsail: Detected
+2026-11-04T16:07:01+07:00 A250 python[1294]: Repo: mainsail-crew/mainsail
+2026-11-04T16:07:01+07:00 A250 python[1294]: Channel: stable
+2026-11-04T16:07:01+07:00 A250 python[1294]: Path: /home/cps/mainsail
+2026-11-04T16:07:01+07:00 A250 python[1294]: Local Version: v2.18.0
+2026-11-04T16:07:01+07:00 A250 python[1294]: Remote Version: v2.19.0
+2026-11-04T16:07:01+07:00 A250 python[1294]: Valid: True
+2026-11-04T16:07:01+07:00 A250 python[1294]: Fallback Detected: False
+2026-11-04T16:07:01+07:00 A250 python[1294]: Pre-release: False
+2026-11-04T16:07:01+07:00 A250 python[1294]: Download Url: https://github.com/mainsail-crew/mainsail/releases/download/v2.19.0/mainsail.zip
+2026-11-04T16:07:01+07:00 A250 python[1294]: Download Size: 3137812
+2026-11-04T16:07:01+07:00 A250 python[1294]: Content Type: application/zip
+2026-11-04T16:07:01+07:00 A250 python[1294]: Rollback Version: ?
+2026-11-04T16:07:01+07:00 A250 python[1294]: Rollback Repo: ?
+2026-11-04T16:07:01+07:00 A250 python[1294]: [base_deploy.py:log_info()] - PackageKit: Next refresh in: 4 Days, 11 Hours, 14 Minutes, 53 Seconds
+2026-11-04T16:07:01+07:00 A250 python[1294]: [base_deploy.py:log_info()] - Git Repo moonraker: Next refresh in: 4 Days, 11 Hours, 14 Minutes, 54 Seconds
+2026-11-04T16:07:01+07:00 A250 python[1294]: [base_deploy.py:log_info()] - Git Repo klipper: Next refresh in: 4 Days, 11 Hours, 14 Minutes, 58 Seconds
+2026-11-04T16:07:01+07:00 A250 python[1294]: [base_deploy.py:log_info()] - Web Client mainsail: Next refresh in: 4 Days, 11 Hours, 14 Minutes, 58 Seconds
+2026-11-04T16:07:01+07:00 A250 python[1294]: [extensions.py:start_unix_server()] - Creating Unix Domain Socket at '/home/cps/printer_data/comms/moonraker.sock'
+2026-11-04T16:07:01+07:00 A250 python[1294]: [server.py:start_server()] - Starting Moonraker on (0.0.0.0, 7125), Hostname: A250
+2026-11-04T16:07:01+07:00 A250 python[1294]: [application.py:listen()] - SSL Certificate/Key not configured, aborting HTTPS Server startup
+2026-11-04T16:07:01+07:00 A250 python[1294]: [klippy_connection.py:_do_connect()] - Klippy Connection Established
+2026-11-04T16:07:01+07:00 A250 python[1294]: [server.py:add_log_rollover_item()] -
+2026-11-04T16:07:01+07:00 A250 python[1294]: Systemd unit klipper.service:
+2026-11-04T16:07:01+07:00 A250 python[1294]: unit_name: klipper.service
+2026-11-04T16:07:01+07:00 A250 python[1294]: is_default: True
+2026-11-04T16:07:01+07:00 A250 python[1294]: manager: systemd
+2026-11-04T16:07:01+07:00 A250 python[1294]: Properties:
+2026-11-04T16:07:01+07:00 A250 python[1294]: **Requires=['-.mount', 'system.slice', 'sysinit.target']
+2026-11-04T16:07:01+07:00 A250 python[1294]: **After=['-.mount', 'sysinit.target', 'network-online.target', 'systemd-journald.socket', 'basic.target', 'system.slice']
+2026-11-04T16:07:01+07:00 A250 python[1294]: **SupplementaryGroups=[]
+2026-11-04T16:07:01+07:00 A250 python[1294]: **EnvironmentFiles=[]
+2026-11-04T16:07:01+07:00 A250 python[1294]: **ExecStart=/home/cps/klippy-env/bin/python /home/cps/klipper/klippy/klippy.py /home/cps/printer_data/config/printer.cfg -l /home/cps/printer_data/logs/klippy.log -a /home/cps/printer_data/comms/klippy.sock
+2026-11-04T16:07:01+07:00 A250 python[1294]: **WorkingDirectory=/home/cps/klipper
+2026-11-04T16:07:01+07:00 A250 python[1294]: **FragmentPath=/etc/systemd/system/klipper.service
+2026-11-04T16:07:01+07:00 A250 python[1294]: **Description=Klipper 3D Printer Firmware
+2026-11-04T16:07:01+07:00 A250 python[1294]: **User=cps
+2026-11-04T16:07:01+07:00 A250 python[1294]: [server.py:add_log_rollover_item()] - Klipper Version: v0.13.0-701-g7e64fc842-dirty
+2026-11-04T16:07:01+07:00 A250 python[1294]: [klippy_connection.py:_request_initial_subscriptions()] - Webhooks Subscribed
+2026-11-04T16:07:01+07:00 A250 python[1294]: [klippy_connection.py:_request_initial_subscriptions()] - GCode Output Subscribed
+2026-11-04T16:07:01+07:00 A250 python[1294]: [job_state.py:_handle_started()] - Job state initialized: standby
+2026-11-04T16:07:02+07:00 A250 python[1294]: [klippy_connection.py:_check_ready()] - Klippy ready
+2026-11-04T16:07:02+07:00 A250 python[1294]: [data_store.py:_init_sensors()] - Configuring available sensors: ['temperature_sensor pi_cpu', 'extruder']
+2026-11-04T16:17:52+07:00 A250 python[1294]: [authorization.py:_check_trusted_connection()] - Trusted Connection Detected, IP: 192.168.31.204
+===== kernel
+2026-11-04T16:06:48+07:00 A250 kernel:   node   0: [mem 0x0000000000080000-0x000000003fbfffff]
+2026-11-04T16:06:48+07:00 A250 kernel: Kernel command line: reboot=w coherent_pool=1M 8250.nr_uarts=1 pci=pcie_bus_safe cgroup_disable=memory numa_policy=interleave nvme.max_host_mem_size_mb=32  numa=fake=8 system_heap.max_order=0 smsc95xx.macaddr=88:A2:9E:25:80:CD vc_mem.mem_base=0x3fc00000 vc_mem.mem_size=0x40000000  console=ttyAMA10,115200 console=tty1 root=PARTUUID=a39e7264-02 rootfstype=ext4 fsck.repair=yes rootwait quiet splash plymouth.ignore-serial-consoles ds=nocloud;i=rpi-imager-1783078545960 cfg80211.ieee80211_regdom=TH video=HDMI-A-1:1280x720@60
+2026-11-04T16:06:48+07:00 A250 kernel: software IO TLB: mapped [mem 0x00000000fbffc000-0x00000000ffffc000] (64MB)
+2026-11-04T16:06:48+07:00 A250 kernel: brcm-pcie 1000120000.pcie:      MEM 0x1f00000000..0x1ffffffffb -> 0x0000000000
+2026-11-04T16:06:48+07:00 A250 kernel: pci_bus 0002:00: root bus resource [mem 0x1f00000000-0x1ffffffffb] (bus address [0x00000000-0xfffffffb])
+2026-11-04T16:06:48+07:00 A250 kernel: pci 0002:00:00.0:   bridge window [mem 0x1f80000000-0x1fbfffffff]
+2026-11-04T16:06:48+07:00 A250 kernel: pci_bus 0002:00: resource 4 [mem 0x1f00000000-0x1ffffffffb]
+2026-11-04T16:06:48+07:00 A250 kernel: bcm2712-iommu 1000005100.iommu: bcm2712_iommu_init: DEBUG_INFO = 0x20804774
+2026-11-04T16:06:48+07:00 A250 kernel: bcm2712-iommu 1000005200.iommu: bcm2712_iommu_init: DEBUG_INFO = 0x20804774
+2026-11-04T16:06:48+07:00 A250 kernel: bcm2712-iommu 1000005280.iommu: bcm2712_iommu_init: DEBUG_INFO = 0x20804774
+2026-11-04T16:06:48+07:00 A250 kernel: v3d 1002000000.v3d: [drm] Transparent Hugepage support is recommended for optimal performance on this platform!
+2026-11-04T16:06:48+07:00 A250 kernel: [drm] Initialized v3d 1.0.0 for 1002000000.v3d on minor 0
+2026-11-04T16:06:48+07:00 A250 kernel: vc4-drm axi:gpu: bound 107c580000.hvs (ops vc4_hvs_ops [vc4])
+2026-11-04T16:06:48+07:00 A250 kernel: rc rc0: vc4-hdmi-0 as /devices/platform/soc@107c000000/107c701400.hdmi/rc/rc0
+2026-11-04T16:06:48+07:00 A250 kernel: input: vc4-hdmi-0 as /devices/platform/soc@107c000000/107c701400.hdmi/rc/rc0/input1
+2026-11-04T16:06:48+07:00 A250 kernel: input: vc4-hdmi-0 HDMI Jack as /devices/platform/soc@107c000000/107c701400.hdmi/sound/card0/input2
+2026-11-04T16:06:48+07:00 A250 kernel: vc4-drm axi:gpu: bound 107c701400.hdmi (ops vc4_hdmi_ops [vc4])
+2026-11-04T16:06:48+07:00 A250 kernel: rc rc1: vc4-hdmi-1 as /devices/platform/soc@107c000000/107c706400.hdmi/rc/rc1
+2026-11-04T16:06:48+07:00 A250 kernel: input: vc4-hdmi-1 as /devices/platform/soc@107c000000/107c706400.hdmi/rc/rc1/input3
+2026-11-04T16:06:48+07:00 A250 kernel: input: vc4-hdmi-1 HDMI Jack as /devices/platform/soc@107c000000/107c706400.hdmi/sound/card1/input4
+2026-11-04T16:06:48+07:00 A250 kernel: vc4-drm axi:gpu: bound 107c706400.hdmi (ops vc4_hdmi_ops [vc4])
+2026-11-04T16:06:48+07:00 A250 kernel: vc4-drm axi:gpu: bound 107c500000.mop (ops vc4_txp_ops [vc4])
+2026-11-04T16:06:48+07:00 A250 kernel: vc4-drm axi:gpu: bound 107c501000.moplet (ops vc4_txp_ops [vc4])
+2026-11-04T16:06:48+07:00 A250 kernel: vc4-drm axi:gpu: bound 107c410000.pixelvalve (ops vc4_crtc_ops [vc4])
+2026-11-04T16:06:48+07:00 A250 kernel: vc4-drm axi:gpu: bound 107c411000.pixelvalve (ops vc4_crtc_ops [vc4])
+2026-11-04T16:06:48+07:00 A250 kernel: [drm] Initialized vc4 0.0.0 for axi:gpu on minor 1
+2026-11-04T16:06:48+07:00 A250 kernel: EDID block 0 is all zeroes
+2026-11-04T16:06:48+07:00 A250 kernel: hdmi-audio-codec hdmi-audio-codec.2.auto: HDMI: Unknown ELD version 0
+2026-11-04T16:06:48+07:00 A250 kernel: EDID block 0 is all zeroes
+2026-11-04T16:06:48+07:00 A250 kernel: hdmi-audio-codec hdmi-audio-codec.2.auto: HDMI: Unknown ELD version 0
+2026-11-04T16:06:48+07:00 A250 kernel: vc4-drm axi:gpu: [drm] fb0: vc4drmfb frame buffer device
+2026-11-04T16:06:48+07:00 A250 kernel: EDID block 0 is all zeroes
+2026-11-04T16:06:48+07:00 A250 kernel: hdmi-audio-codec hdmi-audio-codec.2.auto: HDMI: Unknown ELD version 0
+2026-11-04T16:06:48+07:00 A250 kernel: EDID block 0 is all zeroes
+2026-11-04T16:06:48+07:00 A250 kernel: hdmi-audio-codec hdmi-audio-codec.2.auto: HDMI: Unknown ELD version 0
+2026-11-04T16:06:48+07:00 A250 kernel: EDID block 0 is all zeroes
+2026-11-04T16:06:48+07:00 A250 kernel: hdmi-audio-codec hdmi-audio-codec.2.auto: HDMI: Unknown ELD version 0
+2026-11-04T16:06:48+07:00 A250 kernel: EDID block 0 is all zeroes
+2026-11-04T16:06:48+07:00 A250 kernel: hdmi-audio-codec hdmi-audio-codec.2.auto: HDMI: Unknown ELD version 0
+2026-11-04T16:06:48+07:00 A250 systemd[1]: Mounting sys-kernel-debug.mount - Kernel Debug File System...
+2026-11-04T16:06:48+07:00 A250 systemd[1]: Starting modprobe@drm.service - Load Kernel Module drm...
+2026-11-04T16:06:48+07:00 A250 systemd[1]: Mounted sys-kernel-debug.mount - Kernel Debug File System.
+2026-11-04T16:06:48+07:00 A250 systemd[1]: modprobe@drm.service: Deactivated successfully.
+2026-11-04T16:06:48+07:00 A250 systemd[1]: Finished modprobe@drm.service - Load Kernel Module drm.
+2026-11-04T16:07:00+07:00 A250 kernel: EDID block 0 is all zeroes
+2026-11-04T16:07:00+07:00 A250 kernel: hdmi-audio-codec hdmi-audio-codec.2.auto: HDMI: Unknown ELD version 0
+2026-11-04T16:07:00+07:00 A250 kernel: EDID block 0 is all zeroes
+2026-11-04T16:07:00+07:00 A250 kernel: hdmi-audio-codec hdmi-audio-codec.2.auto: HDMI: Unknown ELD version 0
