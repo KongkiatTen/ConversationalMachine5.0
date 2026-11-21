@@ -65,6 +65,14 @@ The camera tracks a fingertip over a projected grid, allowing a player to select
 
 The calibration and tracking figures are historical experiment records; they do not certify that machine motion is currently safe.
 
+## Web console example
+
+The local Flask console brings together the stereo camera preview, LAN endpoint, XYZ position and homing state, Klipper status, and guarded jog controls. Jogging is limited to XYZ and remains disabled until the server safety checks pass and a session token is supplied.
+
+![A250 web console offline preview showing camera, position, and locked jog controls](experiment/A250_session_2026-11-04/machine_web/web_console_preview.svg)
+
+*Offline preview: the Pi and machine endpoint were unavailable when this view was reviewed, so live camera and machine data are not shown.* See the [console setup notes](experiment/A250_session_2026-11-04/machine_web/README.md) and [Flask server](experiment/A250_session_2026-11-04/machine_web/server.py).
+
 ## System wiring overview
 
 ![A250 wiring diagram](experiment/A250_session_2026-11-04/wiring/A250_wiring_diagram.svg)
