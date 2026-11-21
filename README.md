@@ -42,10 +42,10 @@ The brief asks for four technical requirements selected from its list. We will c
 
 1. **3D printing:** the Snapmaker A250 supplies the motion platform.
 2. **Codex/ChatGPT or Claude:** both were used during project development.
-3. **MQTT/REST API/IoT:** the local web console exposes HTTP endpoints for machine status, camera availability, and guarded jog requests.
-4. **Scientific result:** experiments recorded camera-projector calibration and bracket-tracking error measurements.
+3. **Python packages (select two):** the vision and calibration scripts use OpenCV (`cv2`) and NumPy (`numpy`). OpenCV is named in the brief; NumPy is used by the project but is not explicitly named in the brief's package menu, so confirm that it is accepted as the second package choice.
+4. **MQTT/REST API/IoT:** the local web console exposes HTTP endpoints for machine status, camera availability, and guarded jog requests.
 
-The Python-package criterion is not included in these four claims. The project uses OpenCV, but the brief asks for two listed package choices; the web console uses Python's standard library rather than Flask/SocketIO, and no second listed package was verified in the project code. The assignment mentions a Raspberry Pi Pico, while this project uses a Raspberry Pi 5; we will state that platform difference in the report.
+The assignment mentions a Raspberry Pi Pico, while this project uses a Raspberry Pi 5; we will state that platform difference in the report.
 
 ## Repository contents
 
