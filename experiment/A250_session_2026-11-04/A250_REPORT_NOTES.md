@@ -65,7 +65,7 @@ Third-party or target-runtime modules referenced:
 - `CAN` — MicroPython CAN module used by the archived RP2040 firmware; not a normal Pi pip dependency.
 - `machine`, `rp2` — MicroPython built-ins for RP2040.
 - `mcu`, `pins` — Klipper internal modules; `fb`, `finger`, `calibration`, `DCMotorDriver`, and `GP2Y0E02B` are project-local modules.
-- New `machine_web/server.py` uses only the Python standard library; no Flask dependency.
+- `machine_web/server.py` uses Flask for the web routes and Python standard-library modules for Moonraker requests and safety checks. Flask is declared in `machine_web/requirements.txt`.
 
 Newest pre-existing experiment script inspected: `/home/cps/A250/projector_track/parts.py`. It labels an archived board photo with components and estimated dimensions, and by default can project the labels. Use `noproject` to avoid touching projector output.
 
