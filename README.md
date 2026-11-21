@@ -38,7 +38,14 @@ The source assignment brief is included at [`docs/Term Project - 2570.pdf`](docs
 - Commented Python program(s).
 - A clip demonstrating the technical features.
 
-The brief also asks for four technical requirements selected from its list. Evidence in this project maps to 3D-printing hardware, the OpenCV and NumPy Python packages, quantitative calibration/tracking results, and Raspberry Pi computing. The final report should identify these four choices explicitly and support each with project evidence. The local web console uses Python's standard library; it does not use Flask/SocketIO. The assignment mentions a Pico, while the project platform is a Pi 5.
+The brief asks for four technical requirements selected from its list. We will claim these four:
+
+1. **3D printing:** the Snapmaker A250 supplies the motion platform.
+2. **Codex/ChatGPT or Claude:** both were used during project development.
+3. **MQTT/REST API/IoT:** the local web console exposes HTTP endpoints for machine status, camera availability, and guarded jog requests.
+4. **Scientific result:** experiments recorded camera-projector calibration and bracket-tracking error measurements.
+
+The Python-package criterion is not included in these four claims. The project uses OpenCV, but the brief asks for two listed package choices; the web console uses Python's standard library rather than Flask/SocketIO, and no second listed package was verified in the project code. The assignment mentions a Raspberry Pi Pico, while this project uses a Raspberry Pi 5; we will state that platform difference in the report.
 
 ## Repository contents
 
