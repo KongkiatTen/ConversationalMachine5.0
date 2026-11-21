@@ -1,4 +1,4 @@
-# Conveyor5.0 — A250 Mechatronics Project
+# A250 — Mechatronics Project
 
 This project uses a Snapmaker A250 as a programmable mechatronics platform. A Raspberry Pi 5 runs the Python vision and experiment software, a stereo USB camera observes the work area, and an HDMI projector displays feedback on the bed. Klipper/Moonraker and a custom STM32H723/STM32G431 controller connect the software to the machine electronics.
 
