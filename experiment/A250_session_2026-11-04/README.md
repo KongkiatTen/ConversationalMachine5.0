@@ -4,7 +4,7 @@ The Snapmaker A250 is the project’s motion platform. A Raspberry Pi 5 runs the
 
 ## Connect to the Raspberry Pi over SSH
 
-From a terminal on the same network as the Pi, connect with the recorded account and address:
+Connect your computer to the **Mechatronics** Wi-Fi network, then open a terminal and connect to the Pi with the recorded account and address:
 
 ```sh
 ssh cps@192.168.31.187
@@ -12,7 +12,7 @@ ssh cps@192.168.31.187
 
 At the password prompt, type the Pi account password and press Enter. The password is not shown as you type. On the first connection, SSH may ask you to verify the host key; compare its fingerprint with a trusted record for the Pi before accepting. When connected, the shell prompt will be on the Pi. Type `exit` to disconnect.
 
-If the connection times out, confirm the Pi is powered on and that your computer is on the same LAN; its address may have changed. Do not put the password in the command, a script, or this repository.
+If the connection times out, confirm the Pi is powered on and both devices are on the **Mechatronics** network; the Pi address may have changed. Do not put the password in the command, a script, or this repository.
 
 ## Wiring overview
 
