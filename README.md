@@ -4,6 +4,15 @@ This project uses a Snapmaker A250 as a programmable mechatronics platform. A Ra
 
 The course brief calls for a small system combining mechanics, interface electronics, a Raspberry Pi Pico, and Python. This implementation uses a Raspberry Pi 5 rather than a Pico; that platform difference should be addressed in the final report.
 
+## Main components
+
+- **Snapmaker A250:** provides the XYZ motion platform and work area.
+- **Raspberry Pi 5:** runs the Python experiments, vision processing, and local web console.
+- **Stereo USB camera:** captures the work area for calibration, object detection, and tracking.
+- **HDMI projector:** displays calibration patterns, markers, outlines, and interactive graphics on the bed.
+- **Custom dual-MCU controller:** STM32H723 handles motion signals while STM32G431 provides the gateway path to the machine interface.
+- **Klipper and Moonraker:** provide the machine-control software interface used by the Pi.
+
 ## Project work
 
 - Calibrate camera-to-projector alignment and map image coordinates to the work area.
@@ -27,7 +36,6 @@ The source assignment brief is included at [`docs/Term Project - 2570.pdf`](docs
 - Project rationale and background/related work.
 - An overall diagram showing the mechanical system, processor, and interface circuits.
 - Commented Python program(s).
-- A parts list with specifications and prices.
 - A clip demonstrating the technical features.
 
 The brief also asks for four technical requirements selected from its list. Evidence in this project maps to 3D-printing hardware, the OpenCV and NumPy Python packages, quantitative calibration/tracking results, and Raspberry Pi computing. The final report should identify these four choices explicitly and support each with project evidence. The local web console uses Python's standard library; it does not use Flask/SocketIO. The assignment mentions a Pico, while the project platform is a Pi 5.
