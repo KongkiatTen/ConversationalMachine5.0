@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1320" viewBox="0 0 1800 1320" role="img" aria-labelledby="title desc">
+  <title id="title">A250 machine wiring diagram</title>
+  <desc id="desc">System-level wiring diagram showing Raspberry Pi, camera, projector, custom STM32 controller, signal buffers, Snapmaker linear modules, and documented safety gaps.</desc>
+  <defs>
+    <style>
+      text{font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#17283a}
+      .title{font-size:34px;font-weight:750;letter-spacing:-.5px}.subtitle{font-size:15px;fill:#587084}
+      .panel{fill:#fff;stroke:#cad6df;stroke-width:2}.head{fill:#eaf1f5}.card{fill:#f8fafb;stroke:#cbd7e0;stroke-width:1.5}
+      .h1{font-size:20px;font-weight:700}.h2{font-size:15px;font-weight:700}.body{font-size:14px}.small{font-size:12px;fill:#4e6578}.tiny{font-size:11px;fill:#536b7d}.mono{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:13px;font-weight:650}
+      .usb{fill:none;stroke:#2574c7;stroke-width:4}.hdmi{fill:none;stroke:#7b55b5;stroke-width:4}.can{fill:none;stroke:#b37a13;stroke-width:4}.step{fill:none;stroke:#148f9d;stroke-width:4}.dir{fill:none;stroke:#36844a;stroke-width:4}.en{fill:none;stroke:#bd7131;stroke-width:4}.limit{fill:none;stroke:#cf4e45;stroke-width:3;stroke-dasharray:9 7}.uncertain{fill:none;stroke:#8293a1;stroke-width:3;stroke-dasharray:7 7}
+      .tag{font-size:11px;font-weight:700;letter-spacing:.4px}.warn{fill:#fff4df;stroke:#e1af4c;stroke-width:1.5}.warntext{fill:#744b08;font-size:14px;font-weight:700}.foot{font-size:12px;fill:#596f80}
+    </style>
+    <marker id="arrow-blue" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#2574c7"/></marker>
+    <marker id="arrow-purple" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#7b55b5"/></marker>
+    <marker id="arrow-can" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#b37a13"/></marker>
+    <marker id="arrow-gray" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#8293a1"/></marker>
+  </defs>
+
+  <rect width="1800" height="1320" fill="#f1f5f7"/>
+  <text x="52" y="55" class="title">A250 Mechatronics Machine · Wiring Overview</text>
+  <text x="54" y="83" class="subtitle">Based on the Pi machine notes, active Klipper configuration, and Nov 2026 inspection · system-level, not a connector-by-connector harness drawing</text>
+  <rect x="50" y="103" width="1700" height="62" rx="12" class="warn"/>
+  <text x="72" y="129" class="warntext">MOTION SAFETY NOT VERIFIED</text>
+  <text x="72" y="150" class="body" fill="#744b08">Endstop reporting and motor direction remain unverified; axes were unhomed and the extruder sensor read about 260 °C at target 0 °C. Do not home or jog until checked.</text>
+
+  <!-- Host panel -->
+  <rect x="50" y="190" width="420" height="760" rx="18" class="panel"/>
+  <path d="M68 190h384a18 18 0 0 1 18 18v42H50v-42a18 18 0 0 1 18-18" class="head"/>
+  <text x="75" y="225" class="h1">Host &amp; I/O</text>
+  <rect x="78" y="270" width="364" height="140" rx="12" class="card"/>
+  <text x="98" y="301" class="h2">Seeed reComputer AI R2140-12</text>
+  <text x="98" y="326" class="body">Raspberry Pi 5 · 16 GB (machine notes)</text>
+  <text x="98" y="351" class="body">Klipper + Moonraker · Python vision</text>
+  <text x="98" y="376" class="small">Wi-Fi / LAN · camera stream :8080 · console :8766</text>
+
+  <rect x="78" y="438" width="364" height="112" rx="12" class="card"/>
+  <text x="98" y="468" class="h2">USB-CAN adapter → can0</text>
+  <text x="98" y="493" class="body">Klipper transport to H723 bridge</text>
+  <text x="98" y="520" class="small">Adapter model not identified in the available notes</text>
+
+  <rect x="78" y="582" width="364" height="110" rx="12" class="card"/>
+  <text x="98" y="612" class="h2">Stereo USB camera</text>
+  <text x="98" y="637" class="body">USB Camera · VID:PID 0bda:9732</text>
+  <text x="98" y="664" class="small">uStreamer · 2560×720 @ 30 fps · left view used</text>
+
+  <rect x="78" y="724" width="364" height="92" rx="12" class="card"/>
+  <text x="98" y="755" class="h2">HDMI-A-1 → projector</text>
+  <text x="98" y="782" class="body">1280×720 detected · projector model unknown</text>
+
+  <rect x="78" y="848" width="364" height="72" rx="12" fill="#edf5fb" stroke="#b9d2e5" stroke-width="1.5"/>
+  <text x="98" y="878" class="h2">Web / preview</text>
+  <text x="98" y="901" class="small">Browser → A250 LAN page + camera stream</text>
+
+  <!-- Controller panel -->
+  <rect x="520" y="190" width="1230" height="760" rx="18" class="panel"/>
+  <path d="M538 190h1194a18 18 0 0 1 18 18v42H520v-42a18 18 0 0 1 18-18" class="head"/>
+  <text x="548" y="225" class="h1">CrossTechControllerV1 · custom dual-MCU board</text>
+
+  <rect x="560" y="278" width="340" height="210" rx="12" class="card"/>
+  <text x="584" y="312" class="h1">STM32H723</text>
+  <text x="584" y="339" class="body">Klipper motion MCU</text>
+  <text x="584" y="370" class="small">Receives motion commands over CAN</text>
+  <text x="584" y="401" class="small">Provides STEP / DIR / EN signals</text>
+  <text x="584" y="445" class="mono">Limit inputs: PC1 · PC3 · PC0</text>
+
+  <rect x="950" y="278" width="340" height="210" rx="12" class="card"/>
+  <text x="974" y="312" class="h1">STM32G431</text>
+  <text x="974" y="339" class="body">Gateway MCU · USB serial to Pi</text>
+  <text x="974" y="376" class="small">Machine notes assign Snapmaker module</text>
+  <text x="974" y="400" class="small">limit reporting to the gateway/CAN path</text>
+  <text x="974" y="447" class="tag" fill="#bd453c">PATH NOT VERIFIED</text>
+
+  <rect x="560" y="535" width="340" height="172" rx="12" class="card"/>
+  <text x="584" y="569" class="h2">74LVC245 buffers · U12 / U13</text>
+  <text x="584" y="599" class="body">H723 motion outputs → module signals</text>
+  <text x="584" y="630" class="small">Buffer family noted; exact make/suffix unknown</text>
+  <text x="584" y="674" class="small">Signal groups: X · paired Y · paired Z</text>
+
+  <rect x="950" y="535" width="340" height="172" rx="12" class="card"/>
+  <text x="974" y="569" class="h2">MCP2542FD CAN transceiver</text>
+  <text x="974" y="599" class="body">H723 CAN pins PB8 / PB9 → CAN_H / CAN_L</text>
+  <text x="974" y="630" class="small">Shared bus configured at 500 kbps</text>
+  <text x="974" y="674" class="small">Bus endpoints / termination not fully documented</text>
+
+  <rect x="1340" y="278" width="370" height="429" rx="12" fill="#f8fafb" stroke="#d1dce3" stroke-width="1.5"/>
+  <text x="1364" y="312" class="h2">Endstop / status path</text>
+  <text x="1364" y="346" class="body">X limit → PC1</text>
+  <text x="1364" y="374" class="body">Y limit → PC3</text>
+  <text x="1364" y="402" class="body">Z limit → PC0</text>
+  <path d="M1365 424h320" stroke="#d8e1e7" stroke-width="1.5"/>
+  <text x="1364" y="454" class="small">Configuration expects G431-emulated</text>
+  <text x="1364" y="477" class="small">Snapmaker CAN limit reporting.</text>
+  <text x="1364" y="515" class="small">Active config says this path may not</text>
+  <text x="1364" y="538" class="small">be working. Treat the dashed route as</text>
+  <text x="1364" y="561" class="small">unverified; no homing was attempted.</text>
+  <rect x="1364" y="590" width="322" height="76" rx="9" fill="#fff0ef" stroke="#e2a7a1"/>
+  <text x="1380" y="619" class="tag" fill="#a63e37">NO VERIFIED ENDSTOP SIGNAL</text>
+  <text x="1380" y="645" class="small">Do not home or jog the axes.</text>
+
+  <!-- Documented and caveated signal paths -->
+  <path d="M730 488V535" class="uncertain" marker-end="url(#arrow-gray)"/>
+  <path d="M900 620H950" class="can" marker-end="url(#arrow-can)"/>
+  <!-- STEP / DIR / active-low ENABLE fan out from buffers to each module group -->
+  <path d="M610 707V1010" class="step"/>
+  <path d="M630 707V1010" class="dir"/>
+  <path d="M650 707V1010" class="en"/>
+  <path d="M730 707V870H980V1010" class="step"/>
+  <path d="M750 707V890H1010V1010" class="dir"/>
+  <path d="M770 707V910H1040V1010" class="en"/>
+  <path d="M830 707V815H1410V1010" class="step"/>
+  <path d="M850 707V835H1440V1010" class="dir"/>
+  <path d="M870 707V855H1470V1010" class="en"/>
+  <!-- Host links: route around cards so labels remain unobstructed -->
+  <path d="M442 322H486V260H1120V278" class="usb" marker-end="url(#arrow-blue)"/>
+  <path d="M442 493H494V740H1080V707" class="can" marker-end="url(#arrow-can)"/>
+  <path d="M442 385H454V637H442" class="usb" marker-end="url(#arrow-blue)"/>
+  <path d="M442 400H462V770H442" class="hdmi" marker-end="url(#arrow-purple)"/>
+  <path d="M1290 375H1322V454H1340" class="limit" marker-end="url(#arrow-gray)"/>
+  <path d="M900 445H915V455H950" class="limit" marker-end="url(#arrow-gray)"/>
+
+  <!-- module row -->
+  <rect x="520" y="1010" width="350" height="205" rx="16" class="panel"/>
+  <text x="545" y="1045" class="h1">X linear module</text>
+  <text x="545" y="1077" class="body">TMC2209 · one module</text>
+  <text x="545" y="1110" class="mono">STEP PD3 · DIR PD4 · EN !PD6</text>
+  <text x="545" y="1154" class="small">Signals pass through 74LVC245 buffer</text>
+
+  <rect x="920" y="1010" width="390" height="205" rx="16" class="panel"/>
+  <text x="945" y="1045" class="h1">Y linear modules × 2</text>
+  <text x="945" y="1077" class="body">TMC2209 · shared drive signals</text>
+  <text x="945" y="1110" class="mono">STEP PA8 · DIR PA15 · EN !PD1</text>
+  <text x="945" y="1154" class="small">Both Y modules move from one signal group</text>
+
+  <rect x="1360" y="1010" width="390" height="205" rx="16" class="panel"/>
+  <text x="1385" y="1045" class="h1">Z linear modules × 2</text>
+  <text x="1385" y="1077" class="body">TMC2209 · shared drive signals</text>
+  <text x="1385" y="1110" class="mono">STEP PE3 · DIR PE2 · EN !PE0</text>
+  <text x="1385" y="1154" class="small">Both Z modules move from one signal group</text>
+
+  <!-- Peripheral links and legend -->
+  <rect x="50" y="1235" width="1700" height="1" fill="#ced9e1"/>
+  <text x="55" y="1265" class="foot">Legend: blue USB · purple HDMI · gold CAN · teal STEP · green DIR · orange active-low ENABLE · dashed red/gray = unverified status path</text>
+  <text x="55" y="1291" class="foot">Not shown: power distribution, connector numbers, exact wire colors/gauges, and exact camera/projector models; these were not confirmed in the available records.</text>
+</svg>

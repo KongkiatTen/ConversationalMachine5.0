@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <title>A250 · Machine Console</title>
+  <style>
+    :root{font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:#e9eef4;background:#0d1218;font-synthesis:none;font-weight:450;--panel:#151d26;--line:#263341;--muted:#8da0b2;--cyan:#65d6df;--green:#73d6a0;--amber:#f0bd63;--red:#fb8176}
+    *{box-sizing:border-box}body{margin:0;min-height:100vh;background:radial-gradient(ellipse at 20% -10%,#18313a 0,transparent 40%),#0d1218}button,input{font:inherit}button{cursor:pointer}button:disabled{cursor:not-allowed;opacity:.38}
+    .shell{max-width:1440px;margin:auto;padding:24px clamp(16px,3vw,42px) 42px}.top{display:flex;align-items:center;justify-content:space-between;gap:20px;margin-bottom:22px}.brand{display:flex;align-items:center;gap:14px}.mark{width:40px;height:40px;border:1px solid #41626a;border-radius:12px;display:grid;place-items:center;color:var(--cyan);font-size:21px;background:#13252b}.eyebrow,.label{font-size:11px;text-transform:uppercase;letter-spacing:.14em;color:var(--muted)}h1{font-size:21px;letter-spacing:-.03em;margin:2px 0 0}.top-right{display:flex;align-items:center;gap:10px;flex-wrap:wrap}.pill{display:flex;gap:8px;align-items:center;border:1px solid var(--line);background:#111922;padding:8px 11px;border-radius:999px;color:#b7c5d1;font-size:12px}.dot{width:7px;height:7px;border-radius:50%;background:#667685}.dot.ok{background:var(--green);box-shadow:0 0 10px #73d6a077}.dot.warn{background:var(--amber)}
+    .grid{display:grid;grid-template-columns:minmax(0,1.5fr) minmax(330px,.85fr);gap:16px}.card{background:linear-gradient(145deg,#17212b,#121922);border:1px solid var(--line);border-radius:17px;overflow:hidden;box-shadow:0 16px 45px #0002}.card-head{padding:17px 19px;border-bottom:1px solid var(--line);display:flex;align-items:center;justify-content:space-between;gap:12px}.card-head h2{font-size:14px;letter-spacing:.01em;margin:0;font-weight:620}.sub{color:var(--muted);font-size:12px;margin-top:4px}.video-wrap{position:relative;background:#080c10;min-height:280px;aspect-ratio:16/9;display:grid;place-items:center}.video-wrap img{display:block;width:100%;height:100%;object-fit:contain}.video-tag{position:absolute;left:14px;top:14px;background:#0a111acc;border:1px solid #ffffff22;color:#dce7ec;padding:7px 9px;border-radius:7px;font-size:11px;letter-spacing:.05em}.video-footer{display:flex;justify-content:space-between;gap:12px;align-items:center;padding:13px 18px;color:var(--muted);font-size:12px}.link{color:var(--cyan);text-decoration:none}.link:hover{text-decoration:underline}.side{display:flex;flex-direction:column;gap:16px}.position{display:grid;grid-template-columns:repeat(3,1fr);padding:18px 18px 14px;gap:10px}.axis{border:1px solid var(--line);border-radius:11px;padding:12px;background:#111821}.axis b{display:block;font-size:11px;color:var(--muted);letter-spacing:.1em}.axis span{font-size:22px;font-variant-numeric:tabular-nums;display:block;margin-top:7px}.axis small{font-size:11px;color:#728599}.lock{margin:0 18px 17px;border:1px solid #645033;background:#2b2316;color:#f1d096;padding:12px 13px;border-radius:10px;font-size:12px;line-height:1.5}.lock strong{display:block;margin-bottom:5px;color:#ffcf7c}.lock ul{margin:6px 0 0;padding-left:17px}.lock li+li{margin-top:3px}.jog-panel{padding:16px 18px 18px}.jog-top{display:flex;justify-content:space-between;align-items:center;margin-bottom:14px}.steps{display:flex;gap:5px}.step{border:1px solid var(--line);color:#a9b8c5;background:#101720;border-radius:7px;padding:6px 9px;font-size:11px}.step.active{border-color:#4aaab2;color:#a8f2f2;background:#13282c}.jog-layout{display:grid;grid-template-columns:1fr 108px;gap:14px;align-items:center}.xy{display:grid;grid-template-columns:repeat(3,1fr);gap:7px}.jbtn{height:48px;background:#19242e;color:#dbe5ed;border:1px solid #344454;border-radius:9px;font-size:17px;transition:.15s}.jbtn:not(:disabled):hover{background:#223541;border-color:#65d6df;color:#fff}.jbtn span{font-size:10px;color:#91a5b7;display:block;margin-top:1px}.xy .empty{visibility:hidden}.zcol{display:grid;grid-template-columns:1fr 1fr;gap:7px}.zcol .axis-title{grid-column:1/-1;text-align:center;color:var(--muted);font-size:11px;letter-spacing:.1em}.zcol .jbtn{height:50px}.guard-note{font-size:11px;color:var(--muted);line-height:1.5;margin:13px 0 0}.auth{padding:15px 18px 18px;border-top:1px solid var(--line)}.auth label{display:block;font-size:11px;color:var(--muted);margin-bottom:7px}.auth-row{display:flex;gap:8px}.auth input{min-width:0;flex:1;background:#0d141c;border:1px solid #2b3947;color:#eaf1f5;border-radius:8px;padding:9px 11px;font-size:12px;outline:none}.auth input:focus{border-color:#59c6ce}.btn{border:1px solid #3a7e85;color:#baf7f4;background:#123035;padding:9px 13px;border-radius:8px;font-size:12px}.btn:hover{background:#1a4247}.lower{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:16px}.info{padding:17px 19px}.info h3{font-size:13px;margin:0 0 12px}.rows{display:grid;gap:10px}.row{display:flex;justify-content:space-between;gap:12px;font-size:12px;color:var(--muted)}.row strong{font-weight:520;color:#d8e1e9;text-align:right;font-variant-numeric:tabular-nums}.notice{padding:14px 16px;border:1px solid #553f2b;background:#241c14;border-radius:12px;color:#dbbd91;font-size:12px;line-height:1.55}.notice strong{color:#f0c47f}.toast{position:fixed;bottom:20px;left:50%;transform:translate(-50%,20px);opacity:0;pointer-events:none;background:#1d2b35;border:1px solid #3b5364;border-radius:10px;padding:11px 15px;color:#eaf3f6;font-size:13px;transition:.2s}.toast.show{opacity:1;transform:translate(-50%,0)}
+    @media(max-width:900px){.grid{grid-template-columns:1fr}.side{display:grid;grid-template-columns:1fr 1fr}.side .card:first-child{grid-row:span 2}.lower{grid-template-columns:1fr}}@media(max-width:600px){.shell{padding:16px 12px 28px}.top{align-items:flex-start}.top-right{justify-content:flex-end}.side{display:flex}.video-wrap{min-height:210px}.position{padding:14px}.axis span{font-size:19px}.jog-layout{grid-template-columns:1fr 92px}.jbtn{height:44px}}
+  </style>
+</head>
+<body>
+  <main class="shell">
+    <header class="top">
+      <div class="brand"><div class="mark">⌖</div><div><div class="eyebrow">Machine console</div><h1>A250 <span style="color:#8da0b2;font-weight:450">/ projector track</span></h1></div></div>
+      <div class="top-right"><div class="pill"><i id="stateDot" class="dot"></i><span id="connection">Connecting…</span></div><div class="pill">LAN <span id="ip">—</span></div></div>
+    </header>
+
+    <section class="grid">
+      <article class="card">
+        <div class="card-head"><div><h2>Live camera</h2><div class="sub">Stereo camera · left view stream</div></div><span class="pill"><i class="dot ok"></i> LIVE</span></div>
+        <div class="video-wrap"><img id="camera" alt="A250 live camera preview"><div class="video-tag">CAM 01&nbsp; / &nbsp;UVC</div></div>
+        <div class="video-footer"><span>Camera endpoint <a class="link" id="cameraLink" target="_blank" rel="noreferrer">—</a></span><button class="btn" id="reloadCamera">Reconnect</button></div>
+      </article>
+
+      <div class="side">
+        <article class="card">
+          <div class="card-head"><div><h2>Position</h2><div class="sub">Machine coordinates · mm</div></div><span class="label" id="homedLabel">NOT HOMED</span></div>
+          <div class="position"><div class="axis"><b>X</b><span id="xpos">—</span><small>mm</small></div><div class="axis"><b>Y</b><span id="ypos">—</span><small>mm</small></div><div class="axis"><b>Z</b><span id="zpos">—</span><small>mm</small></div></div>
+          <div class="lock" id="lockBox"><strong>Motion locked</strong><span id="lockReasons">Waiting for machine safety status…</span></div>
+        </article>
+
+        <article class="card">
+          <div class="card-head"><div><h2>Jog controls</h2><div class="sub">Relative step · max 10 mm per press</div></div><span class="label">XYZ only</span></div>
+          <div class="jog-panel">
+            <div class="jog-top"><span class="label">Step size</span><div class="steps"><button class="step" data-step="0.1">0.1</button><button class="step active" data-step="1">1</button><button class="step" data-step="10">10</button></div></div>
+            <div class="jog-layout">
+              <div class="xy">
+                <div class="empty"></div><button class="jbtn" data-axis="y" data-sign="1">↑<span>Y+</span></button><div class="empty"></div>
+                <button class="jbtn" data-axis="x" data-sign="-1">←<span>X−</span></button><button class="jbtn" data-axis="y" data-sign="-1">↓<span>Y−</span></button><button class="jbtn" data-axis="x" data-sign="1">→<span>X+</span></button>
+              </div>
+              <div class="zcol"><div class="axis-title">Z AXIS</div><button class="jbtn" data-axis="z" data-sign="1">＋<span>Z+</span></button><button class="jbtn" data-axis="z" data-sign="-1">−<span>Z−</span></button></div>
+            </div>
+            <p class="guard-note">Jog requests use a fresh position and absolute target. Homing and extrusion are not exposed here.</p>
+          </div>
+          <div class="auth"><label for="token">Motion session token <span style="color:#65788a">(shown in server console)</span></label><div class="auth-row"><input id="token" type="password" autocomplete="off" placeholder="Paste token to authorize a jog"><button class="btn" id="saveToken">Save for this tab</button></div></div>
+        </article>
+      </div>
+    </section>
+
+    <section class="lower">
+      <article class="card info"><h3>Machine status</h3><div class="rows"><div class="row"><span>Klipper</span><strong id="klipper">—</strong></div><div class="row"><span>Job state</span><strong id="job">—</strong></div><div class="row"><span>Extruder sensor</span><strong id="temp">—</strong></div><div class="row"><span>Bed sensor</span><strong id="bed">—</strong></div></div></article>
+      <div class="notice"><strong>Safety interlock</strong><br>Motion remains locked until the local safety marker is verified, the known homing/direction warnings are cleared, XYZ are homed, the printer is idle, and the temperature checks pass. This UI does not home axes or activate the injector.</div>
+    </section>
+  </main>
+  <div id="toast" class="toast" role="status"></div>
+  <script>
+    const $=id=>document.getElementById(id);let step=1,enabled=false;
+    const host=location.hostname||'192.168.31.187';$('ip').textContent=host;$('cameraLink').href=`http://${host}:8080/`;$('cameraLink').textContent=`${host}:8080`;
+    function connectCamera(){const img=$('camera');img.src=`http://${host}:8080/?action=stream&t=${Date.now()}`;}connectCamera();$('reloadCamera').onclick=connectCamera;
+    function toast(s){const el=$('toast');el.textContent=s;el.classList.add('show');setTimeout(()=>el.classList.remove('show'),2600)}
+    document.querySelectorAll('[data-step]').forEach(b=>b.onclick=()=>{step=Number(b.dataset.step);document.querySelectorAll('[data-step]').forEach(x=>x.classList.toggle('active',x===b))});
+    $('token').value=sessionStorage.getItem('a250-motion-token')||'';$('saveToken').onclick=()=>{sessionStorage.setItem('a250-motion-token',$('token').value.trim());toast('Token saved in this tab')};
+    function setJogs(on){enabled=on;document.querySelectorAll('.jbtn[data-axis]').forEach(b=>b.disabled=!on)}setJogs(false);
+    async function refresh(){try{const r=await fetch('/api/status',{cache:'no-store'}),d=await r.json();if(!r.ok||!d.connected)throw Error(d.error||'Klipper unavailable');$('connection').textContent='Connected';$('stateDot').className='dot ok';$('klipper').textContent=d.printer_state;$('job').textContent=d.print_state;$('homedLabel').textContent=d.homed_axes?`HOMED · ${d.homed_axes.toUpperCase()}`:'NOT HOMED';for(const a of ['x','y','z'])$(a+'pos').textContent=d.position[a]==null?'—':Number(d.position[a]).toFixed(2);const t=d.extruder_temperature;$('temp').textContent=t==null?'Unavailable':`${Number(t).toFixed(1)} °C / target ${Number(d.extruder_target||0).toFixed(1)} °C`;$('bed').textContent=d.bed_temperature==null?'Unavailable':`${Number(d.bed_temperature).toFixed(1)} °C`;
+      setJogs(Boolean(d.motion_enabled));const box=$('lockBox');box.style.display=d.motion_enabled?'none':'block';if(!d.motion_enabled)$('lockReasons').innerHTML='<ul>'+d.motion_lock_reasons.map(x=>`<li>${escapeHtml(x)}</li>`).join('')+'</ul>';
+    }catch(e){$('connection').textContent='Offline';$('stateDot').className='dot warn';$('klipper').textContent='Unavailable';$('lockBox').style.display='block';$('lockReasons').textContent=e.message;setJogs(false)}}
+    function escapeHtml(s){return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
+    document.querySelectorAll('.jbtn[data-axis]').forEach(b=>b.onclick=async()=>{if(!enabled)return;const tok=$('token').value.trim();if(!tok){toast('Enter the motion token first');return}b.disabled=true;try{const r=await fetch('/api/jog',{method:'POST',headers:{'Content-Type':'application/json','Authorization':'Bearer '+tok},body:JSON.stringify({axis:b.dataset.axis,delta:Number(b.dataset.sign)*step})});const d=await r.json();if(!r.ok)throw Error(d.error+(d.reasons?' · '+d.reasons.join('; '):''));toast(`${d.axis} target ${d.target.toFixed(2)} mm`);await refresh()}catch(e){toast(e.message)}finally{setJogs(enabled)}});
+    refresh();setInterval(refresh,1000);
+  </script>
+</body>
+</html>
