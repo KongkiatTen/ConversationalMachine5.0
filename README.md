@@ -21,6 +21,18 @@ The course brief calls for a small system combining mechanics, interface electro
 - Label components in images and estimate their dimensions.
 - Provide a local web page for camera preview and machine status, with guarded XYZ jog controls.
 
+## Connect to the Raspberry Pi over SSH
+
+Connect your computer to the **Mechatronics** Wi-Fi network, then open a terminal and connect to the Pi with the recorded account and address:
+
+```sh
+ssh cps@192.168.31.187
+```
+
+At the password prompt, type the Pi account password and press Enter. The password is not shown as you type. On the first connection, SSH may ask you to verify the host key; compare its fingerprint with a trusted record for the Pi before accepting. When connected, the shell prompt will be on the Pi. Type `exit` to disconnect.
+
+If the connection times out, confirm the Pi is powered on and both devices are on the **Mechatronics** network; the Pi address may have changed. Do not put the password in the command, a script, or this repository.
+
 ## Experiment highlights
 
 ### Camera-projector calibration
@@ -64,18 +76,6 @@ The camera tracks a fingertip over a projected grid, allowing a player to select
 [Watch the tic-tac-toe clip (33 seconds)](experiment/A250_session_2026-11-04/video/815478859.952247.mp4)
 
 The calibration and tracking figures are historical experiment records; they do not certify that machine motion is currently safe.
-
-## Connect to the Raspberry Pi over SSH
-
-Connect your computer to the **Mechatronics** Wi-Fi network, then open a terminal and connect to the Pi with the recorded account and address:
-
-```sh
-ssh cps@192.168.31.187
-```
-
-At the password prompt, type the Pi account password and press Enter. The password is not shown as you type. On the first connection, SSH may ask you to verify the host key; compare its fingerprint with a trusted record for the Pi before accepting. When connected, the shell prompt will be on the Pi. Type `exit` to disconnect.
-
-If the connection times out, confirm the Pi is powered on and both devices are on the **Mechatronics** network; the Pi address may have changed. Do not put the password in the command, a script, or this repository.
 
 ## Web console example
 
