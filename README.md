@@ -21,7 +21,27 @@ The course brief calls for a small system combining mechanics, interface electro
 - Label components in images and estimate their dimensions.
 - Provide a local web page for camera preview and machine status, with guarded XYZ jog controls.
 
-Past experiments reported 8 homography inliers and 1.37 px mean calibration error, and about 1 px bracket-tracking alignment error. These are historical measurements, not current motion-safety certification.
+## Experiment highlights
+
+### Camera-projector calibration
+
+The calibration experiment projected targets onto the bed and matched their camera positions to projector coordinates. The saved calibration reported 8 homography inliers and 1.37 px mean error.
+
+![Camera-projector calibration points on the A250 bed](experiment/A250_session_2026-11-04/snapshots/calib_points.jpg)
+
+### Object detection and projected outline
+
+The vision script segments an object against the dark bed and draws its detected contour back into the projected workspace. The saved view shows the outline around a bracket.
+
+![Detected bracket with projected contour](experiment/A250_session_2026-11-04/snapshots/outline_live.jpg)
+
+### Fingertip-controlled tic-tac-toe
+
+The camera tracks a fingertip over a projected grid, allowing a player to select a cell while the projector displays the board and marks.
+
+![Fingertip selecting a cell on the projected tic-tac-toe board](experiment/A250_session_2026-11-04/snapshots/ttt2.jpg)
+
+The calibration and tracking values above are historical experiment results; they do not certify that machine motion is currently safe.
 
 ## System wiring overview
 
