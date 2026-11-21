@@ -65,6 +65,18 @@ The camera tracks a fingertip over a projected grid, allowing a player to select
 
 The calibration and tracking figures are historical experiment records; they do not certify that machine motion is currently safe.
 
+## Connect to the Raspberry Pi over SSH
+
+Connect your computer to the **Mechatronics** Wi-Fi network, then open a terminal and connect to the Pi with the recorded account and address:
+
+```sh
+ssh cps@192.168.31.187
+```
+
+At the password prompt, type the Pi account password and press Enter. The password is not shown as you type. On the first connection, SSH may ask you to verify the host key; compare its fingerprint with a trusted record for the Pi before accepting. When connected, the shell prompt will be on the Pi. Type `exit` to disconnect.
+
+If the connection times out, confirm the Pi is powered on and both devices are on the **Mechatronics** network; the Pi address may have changed. Do not put the password in the command, a script, or this repository.
+
 ## Web console example
 
 The local Flask console brings together the stereo camera preview, LAN endpoint, XYZ position and homing state, Klipper status, and guarded jog controls. Jogging is limited to XYZ and remains disabled until the server safety checks pass and a session token is supplied.
