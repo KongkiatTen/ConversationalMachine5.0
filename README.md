@@ -29,11 +29,31 @@ The calibration experiment projected targets onto the bed and matched their came
 
 ![Camera-projector calibration points on the A250 bed](experiment/A250_session_2026-11-04/snapshots/calib_points.jpg)
 
+### XYZ motion checks
+
+The November 4 session checked axis directions and swept the bed through Y positions while observing the target by camera. These frames show the workpiece at two points in that Y sweep.
+
+| Around Y=140 | Around Y=240 |
+| --- | --- |
+| ![A250 bed view near Y=140](experiment/A250_session_2026-11-04/snapshots/y140.jpg) | ![A250 bed view near Y=240](experiment/A250_session_2026-11-04/snapshots/y240.jpg) |
+
+The session log also records Z-height changes and the X/Y/Z direction observations. These are historical checks, not proof that current motion is safe.
+
+### Object-hole tracking
+
+The vision pipeline detects the two circular holes in the workpiece and projects markers onto their centers. The debug image shows the detected object box and both hole targets. In the linked clip, the workpiece is repositioned by hand while the projected targets update.
+
+![Detected workpiece and tracked hole centers](experiment/A250_session_2026-11-04/snapshots/track_debug.jpg)
+
+[Watch the hole-tracking clip (22 seconds)](experiment/A250_session_2026-11-04/video/815476624.458707.mp4)
+
 ### Object detection and projected outline
 
 The vision script segments an object against the dark bed and draws its detected contour back into the projected workspace. The saved view shows the outline around a bracket.
 
 ![Detected bracket with projected contour](experiment/A250_session_2026-11-04/snapshots/outline_live.jpg)
+
+[Watch the contour-projection clip (18 seconds)](experiment/A250_session_2026-11-04/video/815479158.467749.mp4)
 
 ### Fingertip-controlled tic-tac-toe
 
@@ -41,7 +61,9 @@ The camera tracks a fingertip over a projected grid, allowing a player to select
 
 ![Fingertip selecting a cell on the projected tic-tac-toe board](experiment/A250_session_2026-11-04/snapshots/ttt2.jpg)
 
-The calibration and tracking values above are historical experiment results; they do not certify that machine motion is currently safe.
+[Watch the tic-tac-toe clip (33 seconds)](experiment/A250_session_2026-11-04/video/815478859.952247.mp4)
+
+The calibration and tracking figures are historical experiment records; they do not certify that machine motion is currently safe.
 
 ## System wiring overview
 
