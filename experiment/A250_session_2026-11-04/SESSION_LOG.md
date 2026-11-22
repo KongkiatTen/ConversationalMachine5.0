@@ -50,3 +50,5 @@ Pi 5 `A250` at 192.168.31.187 (user `cps`): Klipper + Moonraker (:7125), uStream
 - `scripts/`: local copies of the scripts.
 - `logs/pi_journal_today.log`: today's journal for bracket-track, tictactoe, outline, paint-display, paint-server, webcam, klipper, moonraker, plus the kernel HDMI/DRM/oops lines.
 - `logs/klippy_tail.log`, `logs/moonraker_tail.log`: the last part of the Klipper and Moonraker logs.
+
+12. **Component labels and dimension estimates**: inspected the existing Pi script `~/A250/projector_track/parts.py`. It labels components in an archived board photo and estimates their dimensions; the script can project the labels, while `noproject` avoids projector output. The script and its annotated output were not copied into this repository, and this session log does not record specific measurements.
