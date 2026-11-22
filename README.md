@@ -54,7 +54,6 @@ The November 4 session checked axis directions and swept the bed through Y posit
 
 The session log also records Z-height changes and the X/Y/Z direction observations. These are historical checks, not proof that current motion is safe.
 
-Additional session clips are available in GitHub's video viewer: [Clip 1](experiment/A250_session_2026-11-04/video/815476326.918849.mp4) · [Clip 2](experiment/A250_session_2026-11-04/video/815476327.695569.mp4). These clips have not been given experiment-specific captions yet.
 
 ### Object-hole tracking
 
@@ -68,7 +67,7 @@ The vision pipeline detects the two circular holes in the workpiece and projects
 
 ![Detected bracket box and hole-center markers](experiment/A250_session_2026-11-04/snapshots/track_debug.jpg)
 
-[▶ Open the hole-tracking video in GitHub](experiment/A250_session_2026-11-04/video/815476624.458707.mp4)
+[Video of hole tracking](experiment/A250_session_2026-11-04/video/815476624.458707.mp4)
 
 ### Object detection and projected outline
 
@@ -76,7 +75,7 @@ The vision script segments an object against the dark bed and draws its detected
 
 ![Projected object outlines during the experiment](experiment/A250_session_2026-11-04/video/S__11952172_0.jpg)
 
-[▶ Open the projected-outline video in GitHub](experiment/A250_session_2026-11-04/video/815479158.467749.mp4)
+[Video of projected object outlines](experiment/A250_session_2026-11-04/video/815479158.467749.mp4)
 
 ### Fingertip-controlled tic-tac-toe
 
@@ -86,7 +85,7 @@ The camera tracks a fingertip over a projected grid, allowing a player to select
 | --- | --- |
 | ![Hand pointing at a tic-tac-toe cell](experiment/A250_session_2026-11-04/video/S__11952166_0.jpg) | ![Projected tic-tac-toe board after play](experiment/A250_session_2026-11-04/video/S__11952167_0.jpg) |
 
-[▶ Open the tic-tac-toe video in GitHub](experiment/A250_session_2026-11-04/video/815478859.952247.mp4)
+[Video of fingertip-controlled tic-tac-toe](experiment/A250_session_2026-11-04/video/815478859.952247.mp4)
 
 The calibration and tracking figures are historical experiment records; they do not certify that machine motion is currently safe.
 
