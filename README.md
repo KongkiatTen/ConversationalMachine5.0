@@ -22,7 +22,6 @@ The course brief calls for a small system combining mechanics, interface electro
 - Calibrate camera-to-projector alignment and map image coordinates to the work area.
 - Detect and track objects, including a machine bracket, and project markers or object outlines.
 - Demonstrate fingertip-controlled projected tic-tac-toe.
-- Label components in images and estimate their dimensions.
 - Provide a local web page for camera preview and machine status, with guarded XYZ jog controls.
 
 ## Connect to the Raspberry Pi over SSH
@@ -55,23 +54,21 @@ The November 4 session checked axis directions and swept the bed through Y posit
 
 The session log also records Z-height changes and the X/Y/Z direction observations. These are historical checks, not proof that current motion is safe.
 
+Additional session clips are available in GitHub's video viewer: [Clip 1](experiment/A250_session_2026-11-04/video/815476326.918849.mp4) · [Clip 2](experiment/A250_session_2026-11-04/video/815476327.695569.mp4). These clips have not been given experiment-specific captions yet.
+
 ### Object-hole tracking
 
 The vision pipeline detects the two circular holes in the workpiece and projects markers onto their centers. The debug image shows the detected object box and both hole targets. In the linked clip, the workpiece is repositioned by hand while the projected targets update.
 
-**Camera input with tracking overlays off**
+**Camera view during hole tracking**
 
-![Unannotated stereo camera view of the bracket on the bed](experiment/A250_session_2026-11-04/snapshots/live2.jpg)
+![A250 bed view with red projected markers centered over the two bracket holes](experiment/A250_session_2026-11-04/video/S__11952163_0.jpg)
 
 **Tracking output**
 
 ![Detected bracket box and hole-center markers](experiment/A250_session_2026-11-04/snapshots/track_debug.jpg)
 
-<video src="https://raw.githubusercontent.com/KongkiatTen/Conveyor5.0/mechatronics/experiment/A250_session_2026-11-04/video/815476624.458707.mp4" controls width="100%">Your browser does not support embedded video. <a href="experiment/A250_session_2026-11-04/video/815476624.458707.mp4">Download the hole-tracking clip</a>.</video>
-
-### Component labels and dimension estimates
-
-An archived Pi script, `parts.py`, labels components in an image and adds estimated dimensions. It can also project the labels; the `noproject` option avoids projector output. The script and its annotated result image are not included in this repository yet, so this section documents the experiment without claiming specific measurements. See the [A250 report notes](experiment/A250_session_2026-11-04/A250_REPORT_NOTES.md) for the recorded script path and details.
+[▶ Open the hole-tracking video in GitHub](experiment/A250_session_2026-11-04/video/815476624.458707.mp4)
 
 ### Object detection and projected outline
 
@@ -79,7 +76,7 @@ The vision script segments an object against the dark bed and draws its detected
 
 ![Projected object outlines during the experiment](experiment/A250_session_2026-11-04/video/S__11952172_0.jpg)
 
-<video src="https://raw.githubusercontent.com/KongkiatTen/Conveyor5.0/mechatronics/experiment/A250_session_2026-11-04/video/815479158.467749.mp4" controls width="100%">Your browser does not support embedded video. <a href="experiment/A250_session_2026-11-04/video/815479158.467749.mp4">Download the outline clip</a>.</video>
+[▶ Open the projected-outline video in GitHub](experiment/A250_session_2026-11-04/video/815479158.467749.mp4)
 
 ### Fingertip-controlled tic-tac-toe
 
@@ -89,7 +86,7 @@ The camera tracks a fingertip over a projected grid, allowing a player to select
 | --- | --- |
 | ![Hand pointing at a tic-tac-toe cell](experiment/A250_session_2026-11-04/video/S__11952166_0.jpg) | ![Projected tic-tac-toe board after play](experiment/A250_session_2026-11-04/video/S__11952167_0.jpg) |
 
-<video src="https://raw.githubusercontent.com/KongkiatTen/Conveyor5.0/mechatronics/experiment/A250_session_2026-11-04/video/815478859.952247.mp4" controls width="100%">Your browser does not support embedded video. <a href="experiment/A250_session_2026-11-04/video/815478859.952247.mp4">Download the tic-tac-toe clip</a>.</video>
+[▶ Open the tic-tac-toe video in GitHub](experiment/A250_session_2026-11-04/video/815478859.952247.mp4)
 
 The calibration and tracking figures are historical experiment records; they do not certify that machine motion is currently safe.
 
