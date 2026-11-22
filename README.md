@@ -67,7 +67,7 @@ The vision pipeline detects the two circular holes in the workpiece and projects
 
 ![Detected bracket box and hole-center markers](experiment/A250_session_2026-11-04/snapshots/track_debug.jpg)
 
-<video src="https://raw.githubusercontent.com/KongkiatTen/Conveyor5.0/refs/heads/mechatronics/experiment/A250_session_2026-11-04/video/815476624.458707.mp4" controls width="100%">Your browser does not support embedded video. <a href="experiment/A250_session_2026-11-04/video/815476624.458707.mp4">Download the hole-tracking clip</a>.</video>
+<video src="https://raw.githubusercontent.com/KongkiatTen/Conveyor5.0/mechatronics/experiment/A250_session_2026-11-04/video/815476624.458707.mp4" controls width="100%">Your browser does not support embedded video. <a href="experiment/A250_session_2026-11-04/video/815476624.458707.mp4">Download the hole-tracking clip</a>.</video>
 
 ### Component labels and dimension estimates
 
@@ -79,7 +79,7 @@ The vision script segments an object against the dark bed and draws its detected
 
 ![Projected object outlines during the experiment](experiment/A250_session_2026-11-04/video/S__11952172_0.jpg)
 
-<video src="https://raw.githubusercontent.com/KongkiatTen/Conveyor5.0/refs/heads/mechatronics/experiment/A250_session_2026-11-04/video/815479158.467749.mp4" controls width="100%">Your browser does not support embedded video. <a href="experiment/A250_session_2026-11-04/video/815479158.467749.mp4">Download the outline clip</a>.</video>
+<video src="https://raw.githubusercontent.com/KongkiatTen/Conveyor5.0/mechatronics/experiment/A250_session_2026-11-04/video/815479158.467749.mp4" controls width="100%">Your browser does not support embedded video. <a href="experiment/A250_session_2026-11-04/video/815479158.467749.mp4">Download the outline clip</a>.</video>
 
 ### Fingertip-controlled tic-tac-toe
 
@@ -89,7 +89,7 @@ The camera tracks a fingertip over a projected grid, allowing a player to select
 | --- | --- |
 | ![Hand pointing at a tic-tac-toe cell](experiment/A250_session_2026-11-04/video/S__11952166_0.jpg) | ![Projected tic-tac-toe board after play](experiment/A250_session_2026-11-04/video/S__11952167_0.jpg) |
 
-<video src="https://raw.githubusercontent.com/KongkiatTen/Conveyor5.0/refs/heads/mechatronics/experiment/A250_session_2026-11-04/video/815478859.952247.mp4" controls width="100%">Your browser does not support embedded video. <a href="experiment/A250_session_2026-11-04/video/815478859.952247.mp4">Download the tic-tac-toe clip</a>.</video>
+<video src="https://raw.githubusercontent.com/KongkiatTen/Conveyor5.0/mechatronics/experiment/A250_session_2026-11-04/video/815478859.952247.mp4" controls width="100%">Your browser does not support embedded video. <a href="experiment/A250_session_2026-11-04/video/815478859.952247.mp4">Download the tic-tac-toe clip</a>.</video>
 
 The calibration and tracking figures are historical experiment records; they do not certify that machine motion is currently safe.
 
