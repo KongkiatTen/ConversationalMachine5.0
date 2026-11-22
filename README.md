@@ -2,6 +2,10 @@
 
 This project uses a Snapmaker A250 as a programmable mechatronics platform. A Raspberry Pi 5 runs the Python vision and experiment software, a stereo USB camera observes the work area, and an HDMI projector displays feedback on the bed. Klipper/Moonraker and a custom STM32H723/STM32G431 controller connect the software to the machine electronics.
 
+<p align="center">
+  <img src="experiment/A250_session_2026-11-04/wiring/assets/image0_a250.jpg" alt="Overall A250 experiment setup" width="560">
+</p>
+
 The course brief calls for a small system combining mechanics, interface electronics, a Raspberry Pi Pico, and Python. This implementation uses a Raspberry Pi 5 rather than a Pico; that platform difference should be addressed in the final report.
 
 ## Main components
@@ -63,7 +67,7 @@ The vision pipeline detects the two circular holes in the workpiece and projects
 
 The vision script segments an object against the dark bed and draws its detected contour back into the projected workspace. The saved view shows the outline around a bracket.
 
-![Detected bracket with projected contour](experiment/A250_session_2026-11-04/snapshots/outline_live.jpg)
+![Projected object outlines during the experiment](experiment/A250_session_2026-11-04/video/S__11952172_0.jpg)
 
 [Watch the contour-projection clip (18 seconds)](experiment/A250_session_2026-11-04/video/815479158.467749.mp4)
 
@@ -71,7 +75,7 @@ The vision script segments an object against the dark bed and draws its detected
 
 The camera tracks a fingertip over a projected grid, allowing a player to select a cell while the projector displays the board and marks.
 
-![Fingertip selecting a cell on the projected tic-tac-toe board](experiment/A250_session_2026-11-04/snapshots/ttt2.jpg)
+![Fingertip selecting a cell on the projected tic-tac-toe board](experiment/A250_session_2026-11-04/video/S__11952167_0.jpg)
 
 [Watch the tic-tac-toe clip (33 seconds)](experiment/A250_session_2026-11-04/video/815478859.952247.mp4)
 
@@ -89,7 +93,7 @@ The local Flask console brings together the stereo camera preview, LAN endpoint,
 
 ![A250 wiring diagram](experiment/A250_session_2026-11-04/wiring/A250_wiring_diagram.svg)
 
-This port-oriented diagram labels the host power, USB, display, CAN, controller, and motion-signal interfaces. Dashed routes need physical confirmation. The host specification calls for 5 V/5 A USB-C power, but the installed supply cable was not identified; controller power, grounds, motor wiring, and connector-level harness details remain untraced. See the [A250 experiment notes](experiment/A250_session_2026-11-04/A250_REPORT_NOTES.md).
+The diagram shows the recorded system connections. Verify the physical wiring before relying on it; controller power, grounds, motor wiring, and connector-level harness details still need an on-machine trace. See the [A250 experiment notes](experiment/A250_session_2026-11-04/A250_REPORT_NOTES.md).
 
 ## Course brief and report checklist
 

@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2200" height="1480" viewBox="0 0 2200 1480" role="img" aria-labelledby="title">
+<title id="title">A250 system connections</title>
+<defs>
+<style>
+text{font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#182839}.name{font-size:27px;font-weight:700}.port{font-size:17px;font-weight:650}.small{font-size:14px;font-weight:600}.mono{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:15px;font-weight:650}.card{fill:#fff;stroke:#c9d4dc;stroke-width:2}.line{fill:none;stroke:#394d60;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}.dashed{stroke-dasharray:12 10}.node{fill:#fff;stroke:#394d60;stroke-width:3}.screen{fill:#111821}.screenText{font-size:23px;font-weight:700;fill:#f5f7fa}.screenA{fill:#a3e4c6}.screenB{fill:#d8c5ff}.terminal{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:14px;font-weight:600;fill:#bdffd0}
+</style>
+<clipPath id="laptopClip"><rect x="80" y="240" width="500" height="340" rx="16"/></clipPath>
+<clipPath id="piClip"><rect x="710" y="240" width="580" height="340" rx="16"/></clipPath>
+<clipPath id="projectorClip"><rect x="1460" y="120" width="460" height="250" rx="16"/></clipPath>
+<clipPath id="cameraClip"><rect x="1460" y="560" width="460" height="250" rx="16"/></clipPath>
+<clipPath id="controllerClip"><rect x="1490" y="1030" width="340" height="280" rx="16"/></clipPath>
+</defs>
+<rect width="2200" height="1480" fill="#f5f7f9"/>
+
+<!-- PC -->
+<text x="330" y="184" text-anchor="middle" class="name">PC</text>
+<rect x="60" y="220" width="540" height="440" rx="22" class="card"/>
+<image x="80" y="240" width="500" height="340" preserveAspectRatio="xMidYMid slice" href="DATA_LAPTOP" clip-path="url(#laptopClip)"/>
+<rect x="164" y="262" width="332" height="184" rx="8" class="screen"/>
+<text x="330" y="305" text-anchor="middle" class="screenText screenA">Codex</text>
+<text x="330" y="343" text-anchor="middle" class="screenText screenB">Claude</text>
+<text x="184" y="383" class="terminal">$ ssh cps@192.168.31.187</text>
+<text x="184" y="409" class="terminal">Connected to Raspberry Pi</text>
+<text x="184" y="435" class="terminal">pi@raspberrypi:~ $</text>
+<rect x="430" y="450" width="130" height="30" rx="7" fill="#fff" fill-opacity=".96"/><text x="548" y="471" text-anchor="end" class="port">Wi-Fi · SSH</text><circle cx="590" cy="480" r="7" class="node"/>
+
+<!-- Raspberry Pi -->
+<text x="1000" y="184" text-anchor="middle" class="name">Raspberry Pi 5</text>
+<rect x="700" y="220" width="600" height="440" rx="22" class="card"/>
+<image x="710" y="240" width="580" height="340" preserveAspectRatio="xMidYMid meet" href="DATA_PI" clip-path="url(#piClip)"/>
+<rect x="710" y="302" width="74" height="30" rx="7" fill="#fff" fill-opacity=".96"/><text x="722" y="323" class="port">Wi-Fi</text><circle cx="700" cy="330" r="7" class="node"/>
+<rect x="1135" y="302" width="154" height="30" rx="7" fill="#fff" fill-opacity=".96"/><text x="1278" y="323" text-anchor="end" class="port">micro-HDMI 0</text><circle cx="1300" cy="330" r="7" class="node"/>
+<rect x="1135" y="412" width="154" height="30" rx="7" fill="#fff" fill-opacity=".96"/><text x="1278" y="433" text-anchor="end" class="port">USB-A · Camera</text><circle cx="1300" cy="440" r="7" class="node"/>
+<rect x="1135" y="482" width="154" height="30" rx="7" fill="#fff" fill-opacity=".96"/><text x="1278" y="503" text-anchor="end" class="port">USB-A · CAN</text><circle cx="1300" cy="510" r="7" class="node"/>
+<rect x="905" y="620" width="150" height="30" rx="7" fill="#fff" fill-opacity=".96"/><text x="920" y="641" class="port">USB-C POWER</text><circle cx="1000" cy="660" r="7" class="node"/>
+
+<!-- Projector -->
+<text x="1690" y="72" text-anchor="middle" class="name">Projector</text>
+<rect x="1450" y="100" width="480" height="320" rx="22" class="card"/>
+<image x="1460" y="120" width="460" height="250" preserveAspectRatio="xMidYMid slice" href="DATA_PROJECTOR" clip-path="url(#projectorClip)"/>
+<rect x="1460" y="278" width="112" height="30" rx="7" fill="#fff" fill-opacity=".96"/><text x="1473" y="299" class="port">HDMI IN</text><circle cx="1450" cy="300" r="7" class="node"/>
+
+<!-- USB camera -->
+<text x="1690" y="512" text-anchor="middle" class="name">USB camera</text>
+<rect x="1450" y="540" width="480" height="320" rx="22" class="card"/>
+<image x="1460" y="560" width="460" height="250" preserveAspectRatio="xMidYMid slice" href="DATA_CAMERA" clip-path="url(#cameraClip)"/>
+<rect x="1460" y="688" width="62" height="28" rx="7" fill="#fff" fill-opacity=".96"/><text x="1471" y="708" class="small">USB</text><circle cx="1450" cy="710" r="7" class="node"/>
+
+<!-- USB-C power supply -->
+<text x="870" y="736" text-anchor="middle" class="name">USB-C PSU</text>
+<rect x="700" y="760" width="340" height="180" rx="18" class="card"/>
+<rect x="750" y="808" width="90" height="70" rx="10" fill="#e4e9ed" stroke="#8294a1" stroke-width="2"/>
+<line x1="750" y1="826" x2="738" y2="826" stroke="#394d60" stroke-width="4"/><line x1="750" y1="859" x2="738" y2="859" stroke="#394d60" stroke-width="4"/>
+<text x="920" y="838" text-anchor="middle" class="port">5V / 5A</text>
+<rect x="912" y="760" width="88" height="28" rx="7" fill="#fff"/><text x="956" y="780" text-anchor="middle" class="small">USB-C</text><circle cx="956" cy="760" r="7" class="node"/>
+
+<!-- USB-CAN adapter -->
+<text x="1205" y="940" text-anchor="middle" class="name">USB-CAN adapter</text>
+<rect x="1040" y="980" width="330" height="200" rx="18" class="card"/>
+<rect x="1100" y="1030" width="90" height="72" rx="10" fill="#dce3e8" stroke="#8294a1" stroke-width="2"/>
+<circle cx="1125" cy="1066" r="6" fill="#56a680"/><circle cx="1158" cy="1066" r="6" fill="#d0a444"/>
+<text x="1275" y="1052" text-anchor="middle" class="small">USB-CAN</text>
+<rect x="1050" y="1006" width="82" height="28" rx="7" fill="#fff"/><text x="1062" y="1026" class="small">USB-A</text><circle cx="1040" cy="1020" r="7" class="node"/>
+<rect x="1275" y="1105" width="86" height="28" rx="7" fill="#fff"/><text x="1355" y="1125" text-anchor="end" class="small">CAN H/L</text><circle cx="1370" cy="1120" r="7" class="node"/>
+
+<!-- Controller -->
+<text x="1660" y="940" text-anchor="middle" class="name">Controller</text>
+<rect x="1480" y="980" width="360" height="380" rx="22" class="card"/>
+<image x="1490" y="1030" width="340" height="280" preserveAspectRatio="xMidYMid meet" href="DATA_CONTROLLER" clip-path="url(#controllerClip)"/>
+<rect x="1495" y="1000" width="100" height="28" rx="7" fill="#fff"/><text x="1507" y="1020" class="small">CAN H/L</text><circle cx="1480" cy="1020" r="7" class="node"/>
+<rect x="1650" y="1054" width="170" height="32" rx="7" fill="#fff" fill-opacity=".96"/><text x="1810" y="1076" text-anchor="end" class="mono">X STEP/DIR/EN</text><circle cx="1840" cy="1070" r="7" class="node"/>
+<rect x="1650" y="1144" width="170" height="32" rx="7" fill="#fff" fill-opacity=".96"/><text x="1810" y="1166" text-anchor="end" class="mono">Y STEP/DIR/EN</text><circle cx="1840" cy="1160" r="7" class="node"/>
+<rect x="1650" y="1234" width="170" height="32" rx="7" fill="#fff" fill-opacity=".96"/><text x="1810" y="1256" text-anchor="end" class="mono">Z STEP/DIR/EN</text><circle cx="1840" cy="1250" r="7" class="node"/>
+
+<!-- A250 -->
+<text x="2020" y="940" text-anchor="middle" class="name">A250 · XYZ movement</text>
+<rect x="1880" y="980" width="280" height="380" rx="22" class="card"/>
+<image x="1970" y="1000" width="180" height="340" preserveAspectRatio="xMidYMid meet" href="DATA_A250"/>
+<rect x="1890" y="1055" width="70" height="30" rx="7" fill="#fff"/><text x="1900" y="1076" class="small">X axis</text><circle cx="1880" cy="1070" r="7" class="node"/>
+<rect x="1890" y="1145" width="70" height="30" rx="7" fill="#fff"/><text x="1900" y="1166" class="small">Y axis</text><circle cx="1880" cy="1160" r="7" class="node"/>
+<rect x="1890" y="1235" width="70" height="30" rx="7" fill="#fff"/><text x="1900" y="1256" class="small">Z axis</text><circle cx="1880" cy="1250" r="7" class="node"/>
+
+<!-- Connections -->
+<path d="M590 480H640V330H700" class="line dashed"/>
+<path d="M1300 330H1380V300H1450" class="line"/>
+<path d="M1300 440H1420V710H1450" class="line"/>
+<path d="M1000 660H956V760" class="line"/>
+<path d="M1040 1020H980V960H1350V510H1300" class="line"/>
+<path d="M1370 1120H1430V1020H1480" class="line"/>
+<path d="M1840 1070H1880" class="line"/>
+<path d="M1840 1160H1880" class="line"/>
+<path d="M1840 1250H1880" class="line"/>
+</svg>
