@@ -17,6 +17,12 @@ The course brief calls for a small system combining mechanics, interface electro
 - **Custom dual-MCU controller:** STM32H723 handles motion signals while STM32G431 provides the gateway path to the machine interface.
 - **Klipper and Moonraker:** provide the machine-control software interface used by the Pi.
 
+## System wiring overview
+
+![A250 wiring diagram](experiment/A250_session_2026-11-04/wiring/A250_wiring_diagram.svg)
+
+The diagram shows the recorded system connections. Verify the physical wiring before relying on it; controller power, grounds, motor wiring, and connector-level harness details still need an on-machine trace. See the [A250 experiment notes](experiment/A250_session_2026-11-04/A250_REPORT_NOTES.md).
+
 ## Project work
 
 - Calibrate camera-to-projector alignment and map image coordinates to the work area.
@@ -96,12 +102,6 @@ The local Flask console brings together the stereo camera preview, LAN endpoint,
 ![A250 web console offline preview showing camera, position, and locked jog controls](experiment/A250_session_2026-11-04/machine_web/web_console_preview.svg)
 
 *Offline preview: the Pi and machine endpoint were unavailable when this view was reviewed, so live camera and machine data are not shown.* See the [console setup notes](experiment/A250_session_2026-11-04/machine_web/README.md) and [Flask server](experiment/A250_session_2026-11-04/machine_web/server.py).
-
-## System wiring overview
-
-![A250 wiring diagram](experiment/A250_session_2026-11-04/wiring/A250_wiring_diagram.svg)
-
-The diagram shows the recorded system connections. Verify the physical wiring before relying on it; controller power, grounds, motor wiring, and connector-level harness details still need an on-machine trace. See the [A250 experiment notes](experiment/A250_session_2026-11-04/A250_REPORT_NOTES.md).
 
 ## Course brief and report checklist
 
