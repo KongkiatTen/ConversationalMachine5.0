@@ -26,7 +26,7 @@ The diagram is a connection overview based on the available notes and images. Ve
 - Track a bracket and place projected markers using camera feedback.
 - Detect objects and project their outlines.
 - Demonstrate fingertip-controlled projected tic-tac-toe.
-- Label components in images and estimate their dimensions.
+- Label components in images and estimate their dimensions with the archived Pi `parts.py` experiment; its source and annotated output are not in this repository yet.
 - Provide a LAN page for camera preview and machine status, with guarded XYZ jog controls.
 
 The recorded calibration had 8 homography inliers and 1.37 px mean error; bracket tracking reported about 1 px alignment error in the experiment. These are historical results, not proof that the current machine is safe to move.

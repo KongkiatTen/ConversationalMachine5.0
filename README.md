@@ -63,6 +63,10 @@ The vision pipeline detects the two circular holes in the workpiece and projects
 
 [Watch the hole-tracking clip (22 seconds)](experiment/A250_session_2026-11-04/video/815476624.458707.mp4)
 
+### Component labels and dimension estimates
+
+An archived Pi script, `parts.py`, labels components in an image and adds estimated dimensions. It can also project the labels; the `noproject` option avoids projector output. The script and its annotated result image are not included in this repository yet, so this section documents the experiment without claiming specific measurements. See the [A250 report notes](experiment/A250_session_2026-11-04/A250_REPORT_NOTES.md) for the recorded script path and details.
+
 ### Object detection and projected outline
 
 The vision script segments an object against the dark bed and draws its detected contour back into the projected workspace. The saved view shows the outline around a bracket.
