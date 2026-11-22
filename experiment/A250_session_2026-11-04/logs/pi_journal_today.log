@@ -1,5 +1,5 @@
 ===== bracket-track
-2026-11-04T16:08:21+07:00 A250 systemd[1]: Started bracket-track.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u track.py.
+2026-11-04T16:08:21+07:00 A250 systemd[1]: Started bracket-track.service - [systemd-run] /home/PI_USER/A250/camera_mapping/.venv/bin/python -u track.py.
 2026-11-04T16:08:22+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (554,447) off (0.0,0.0) 0.0 fps
 2026-11-04T16:08:22+07:00 A250 python[1555]: bracket cam (732,47) dot (739,42) proj (567,433) off (13.3,-14.0) 24.1 fps
 2026-11-04T16:08:22+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 27.0 fps
@@ -109,12 +109,12 @@
 2026-11-04T16:08:57+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.9 fps
 2026-11-04T16:08:57+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.9 fps
 2026-11-04T16:08:58+07:00 A250 python[1555]: bracket cam (732,47) dot none proj (571,431) off (17.0,-15.9) 29.9 fps
-2026-11-04T16:08:58+07:00 A250 systemd[1]: Stopping bracket-track.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u track.py...
+2026-11-04T16:08:58+07:00 A250 systemd[1]: Stopping bracket-track.service - [systemd-run] /home/PI_USER/A250/camera_mapping/.venv/bin/python -u track.py...
 2026-11-04T16:08:58+07:00 A250 python[1555]: stopped
 2026-11-04T16:08:58+07:00 A250 systemd[1]: bracket-track.service: Deactivated successfully.
-2026-11-04T16:08:58+07:00 A250 systemd[1]: Stopped bracket-track.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u track.py.
+2026-11-04T16:08:58+07:00 A250 systemd[1]: Stopped bracket-track.service - [systemd-run] /home/PI_USER/A250/camera_mapping/.venv/bin/python -u track.py.
 2026-11-04T16:08:58+07:00 A250 systemd[1]: bracket-track.service: Consumed 51.972s CPU time.
-2026-11-04T16:08:58+07:00 A250 systemd[1]: Started bracket-track.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u track.py.
+2026-11-04T16:08:58+07:00 A250 systemd[1]: Started bracket-track.service - [systemd-run] /home/PI_USER/A250/camera_mapping/.venv/bin/python -u track.py.
 2026-11-04T16:08:58+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (554,447) off (0.0,0.0) 0.0 fps
 2026-11-04T16:08:58+07:00 A250 python[1617]: bracket cam (732,47) dot (740,41) proj (567,437) off (13.2,-10.4) 25.6 fps
 2026-11-04T16:08:59+07:00 A250 python[1617]: bracket cam (732,47) dot (715,61) proj (554,456) off (-0.6,9.1) 28.0 fps
@@ -254,12 +254,12 @@
 2026-11-04T16:09:43+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
 2026-11-04T16:09:43+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
 2026-11-04T16:09:43+07:00 A250 python[1617]: bracket cam (732,47) dot none proj (434,538) off (-120.0,91.2) 30.5 fps
-2026-11-04T16:09:43+07:00 A250 systemd[1]: Stopping bracket-track.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u track.py...
+2026-11-04T16:09:43+07:00 A250 systemd[1]: Stopping bracket-track.service - [systemd-run] /home/PI_USER/A250/camera_mapping/.venv/bin/python -u track.py...
 2026-11-04T16:09:43+07:00 A250 python[1617]: stopped
 2026-11-04T16:09:43+07:00 A250 systemd[1]: bracket-track.service: Deactivated successfully.
-2026-11-04T16:09:43+07:00 A250 systemd[1]: Stopped bracket-track.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u track.py.
+2026-11-04T16:09:43+07:00 A250 systemd[1]: Stopped bracket-track.service - [systemd-run] /home/PI_USER/A250/camera_mapping/.venv/bin/python -u track.py.
 2026-11-04T16:09:43+07:00 A250 systemd[1]: bracket-track.service: Consumed 1min 5.355s CPU time.
-2026-11-04T16:09:43+07:00 A250 systemd[1]: Started bracket-track.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u track.py.
+2026-11-04T16:09:43+07:00 A250 systemd[1]: Started bracket-track.service - [systemd-run] /home/PI_USER/A250/camera_mapping/.venv/bin/python -u track.py.
 2026-11-04T16:09:44+07:00 A250 python[1671]: bracket cam (732,47) dot (737,39) err 9.3px proj (556,444) off (2.2,-3.3)
 2026-11-04T16:09:47+07:00 A250 python[1671]: bracket cam (732,47) dot (731,48) err 0.8px proj (556,444) off (2.1,-3.0)
 2026-11-04T16:09:50+07:00 A250 python[1671]: bracket cam (731,47) dot (733,41) err 6.3px proj (558,442) off (3.1,-5.5)
@@ -369,12 +369,12 @@
 2026-11-04T16:14:43+07:00 A250 python[1671]: bracket cam (520,274) dot (524,275) err 3.9px proj (770,202) off (-3.5,-2.9)
 2026-11-04T16:14:46+07:00 A250 python[1671]: bracket cam (520,274) dot (513,276) err 7.0px proj (768,203) off (-6.3,-2.3)
 2026-11-04T16:14:49+07:00 A250 python[1671]: bracket cam (520,274) dot (526,276) err 6.4px proj (770,204) off (-3.8,-1.5)
-2026-11-04T16:14:51+07:00 A250 systemd[1]: Stopping bracket-track.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u track.py...
+2026-11-04T16:14:51+07:00 A250 systemd[1]: Stopping bracket-track.service - [systemd-run] /home/PI_USER/A250/camera_mapping/.venv/bin/python -u track.py...
 2026-11-04T16:14:51+07:00 A250 python[1671]: stopped
 2026-11-04T16:14:51+07:00 A250 systemd[1]: bracket-track.service: Deactivated successfully.
-2026-11-04T16:14:51+07:00 A250 systemd[1]: Stopped bracket-track.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u track.py.
+2026-11-04T16:14:51+07:00 A250 systemd[1]: Stopped bracket-track.service - [systemd-run] /home/PI_USER/A250/camera_mapping/.venv/bin/python -u track.py.
 2026-11-04T16:14:51+07:00 A250 systemd[1]: bracket-track.service: Consumed 5min 46.328s CPU time.
-2026-11-04T16:14:51+07:00 A250 systemd[1]: Started bracket-track.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u track.py.
+2026-11-04T16:14:51+07:00 A250 systemd[1]: Started bracket-track.service - [systemd-run] /home/PI_USER/A250/camera_mapping/.venv/bin/python -u track.py.
 2026-11-04T16:14:52+07:00 A250 python[1794]: hole0 (508,277) err 1.1px | hole1 (578,262) err 0.7px
 2026-11-04T16:14:54+07:00 A250 python[1794]: hole0 (508,277) err 0.6px | hole1 (578,262) err 0.5px
 2026-11-04T16:14:56+07:00 A250 python[1794]: hole0 (508,277) err 0.8px | hole1 (579,262) err 0.6px
@@ -605,13 +605,13 @@
 2026-11-04T16:22:30+07:00 A250 python[1794]: hole0 (760,314) dot none | hole1 (851,316) dot none
 2026-11-04T16:22:32+07:00 A250 python[1794]: hole0 (760,314) dot none | hole1 (851,316) dot none
 2026-11-04T16:22:34+07:00 A250 python[1794]: hole0 (760,314) dot none | hole1 (851,316) dot none
-2026-11-04T16:22:36+07:00 A250 systemd[1]: Stopping bracket-track.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u track.py...
+2026-11-04T16:22:36+07:00 A250 systemd[1]: Stopping bracket-track.service - [systemd-run] /home/PI_USER/A250/camera_mapping/.venv/bin/python -u track.py...
 2026-11-04T16:22:36+07:00 A250 python[1794]: hole0 (760,314) dot none | hole1 (851,316) dot none
 2026-11-04T16:22:36+07:00 A250 python[1794]: stopped
 2026-11-04T16:22:36+07:00 A250 systemd[1]: bracket-track.service: Deactivated successfully.
-2026-11-04T16:22:36+07:00 A250 systemd[1]: Stopped bracket-track.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u track.py.
+2026-11-04T16:22:36+07:00 A250 systemd[1]: Stopped bracket-track.service - [systemd-run] /home/PI_USER/A250/camera_mapping/.venv/bin/python -u track.py.
 2026-11-04T16:22:36+07:00 A250 systemd[1]: bracket-track.service: Consumed 6min 44.079s CPU time.
-2026-11-04T16:22:36+07:00 A250 systemd[1]: Started bracket-track.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u track.py.
+2026-11-04T16:22:36+07:00 A250 systemd[1]: Started bracket-track.service - [systemd-run] /home/PI_USER/A250/camera_mapping/.venv/bin/python -u track.py.
 2026-11-04T16:22:37+07:00 A250 python[2028]: hole0 (760,314) err 138.2px | hole1 (851,316) err 66.7px
 2026-11-04T16:22:39+07:00 A250 python[2028]: hole0 (760,314) err 30.0px | hole1 (851,316) err 8.9px
 2026-11-04T16:22:41+07:00 A250 python[2028]: hole0 (760,314) dot none | hole1 (851,316) dot none
@@ -1296,24 +1296,24 @@
 2026-11-04T16:45:29+07:00 A250 python[2028]: hole0 (749,310) err 0.5px | hole1 (821,310) err 0.3px
 2026-11-04T16:45:31+07:00 A250 python[2028]: hole0 (749,310) err 0.9px | hole1 (820,309) err 0.7px
 2026-11-04T16:45:33+07:00 A250 python[2028]: hole0 (749,310) err 0.5px | hole1 (821,310) err 0.5px
-2026-11-04T16:45:34+07:00 A250 systemd[1]: Stopping bracket-track.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u track.py...
+2026-11-04T16:45:34+07:00 A250 systemd[1]: Stopping bracket-track.service - [systemd-run] /home/PI_USER/A250/camera_mapping/.venv/bin/python -u track.py...
 2026-11-04T16:45:34+07:00 A250 python[2028]: stopped
 2026-11-04T16:45:34+07:00 A250 systemd[1]: bracket-track.service: Deactivated successfully.
-2026-11-04T16:45:34+07:00 A250 systemd[1]: Stopped bracket-track.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u track.py.
+2026-11-04T16:45:34+07:00 A250 systemd[1]: Stopped bracket-track.service - [systemd-run] /home/PI_USER/A250/camera_mapping/.venv/bin/python -u track.py.
 2026-11-04T16:45:34+07:00 A250 systemd[1]: bracket-track.service: Consumed 15min 8.830s CPU time.
 ===== tictactoe
-2026-11-04T16:45:34+07:00 A250 systemd[1]: Started tictactoe.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u tictactoe.py.
+2026-11-04T16:45:34+07:00 A250 systemd[1]: Started tictactoe.service - [systemd-run] /home/PI_USER/A250/camera_mapping/.venv/bin/python -u tictactoe.py.
 2026-11-04T16:45:34+07:00 A250 python[2567]: new game: your turn (X) - put the bracket in a cell and hold still
 2026-11-04T16:49:05+07:00 A250 python[2567]: you: X in cell 3
 2026-11-04T16:49:05+07:00 A250 python[2567]: me: O in cell 5 - your turn
 2026-11-04T16:49:12+07:00 A250 python[2567]: you: X in cell 1
 2026-11-04T16:49:13+07:00 A250 python[2567]: me: O in cell 2 - your turn
-2026-11-04T16:50:13+07:00 A250 systemd[1]: Stopping tictactoe.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u tictactoe.py...
+2026-11-04T16:50:13+07:00 A250 systemd[1]: Stopping tictactoe.service - [systemd-run] /home/PI_USER/A250/camera_mapping/.venv/bin/python -u tictactoe.py...
 2026-11-04T16:50:13+07:00 A250 python[2567]: stopped
 2026-11-04T16:50:13+07:00 A250 systemd[1]: tictactoe.service: Deactivated successfully.
-2026-11-04T16:50:13+07:00 A250 systemd[1]: Stopped tictactoe.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u tictactoe.py.
+2026-11-04T16:50:13+07:00 A250 systemd[1]: Stopped tictactoe.service - [systemd-run] /home/PI_USER/A250/camera_mapping/.venv/bin/python -u tictactoe.py.
 2026-11-04T16:50:13+07:00 A250 systemd[1]: tictactoe.service: Consumed 7min 45.356s CPU time.
-2026-11-04T16:50:13+07:00 A250 systemd[1]: Started tictactoe.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u tictactoe.py.
+2026-11-04T16:50:13+07:00 A250 systemd[1]: Started tictactoe.service - [systemd-run] /home/PI_USER/A250/camera_mapping/.venv/bin/python -u tictactoe.py.
 2026-11-04T16:50:13+07:00 A250 python[2749]: new game: X to move - point at a cell and hold ~1 s
 2026-11-04T16:50:19+07:00 A250 python[2749]: X in cell 7 - O to move
 2026-11-04T16:50:28+07:00 A250 python[2749]: O in cell 5 - X to move
@@ -1355,13 +1355,13 @@
 2026-11-04T16:54:04+07:00 A250 python[2749]: O in cell 4
 2026-11-04T16:54:04+07:00 A250 python[2749]: game over: O wins! - new game in 8 s
 2026-11-04T16:54:12+07:00 A250 python[2749]: new game: X to move - point at a cell and hold ~1 s
-2026-11-04T16:55:08+07:00 A250 systemd[1]: Stopping tictactoe.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u tictactoe.py...
+2026-11-04T16:55:08+07:00 A250 systemd[1]: Stopping tictactoe.service - [systemd-run] /home/PI_USER/A250/camera_mapping/.venv/bin/python -u tictactoe.py...
 2026-11-04T16:55:08+07:00 A250 python[2749]: stopped
 2026-11-04T16:55:08+07:00 A250 systemd[1]: tictactoe.service: Deactivated successfully.
-2026-11-04T16:55:08+07:00 A250 systemd[1]: Stopped tictactoe.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u tictactoe.py.
+2026-11-04T16:55:08+07:00 A250 systemd[1]: Stopped tictactoe.service - [systemd-run] /home/PI_USER/A250/camera_mapping/.venv/bin/python -u tictactoe.py.
 2026-11-04T16:55:08+07:00 A250 systemd[1]: tictactoe.service: Consumed 5min 38.923s CPU time.
 ===== outline
-2026-11-04T16:57:18+07:00 A250 systemd[1]: Started outline.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u outline.py.
+2026-11-04T16:57:18+07:00 A250 systemd[1]: Started outline.service - [systemd-run] /home/PI_USER/A250/camera_mapping/.venv/bin/python -u outline.py.
 2026-11-04T16:57:18+07:00 A250 python[2938]: 1 object(s), areas [13902]
 2026-11-04T16:57:25+07:00 A250 python[2938]: 1 object(s), areas [13982]
 2026-11-04T16:57:32+07:00 A250 python[2938]: 1 object(s), areas [12983]
@@ -1374,9 +1374,9 @@
 2026-11-04T16:58:22+07:00 A250 python[2938]: 1 object(s), areas [14740]
 2026-11-04T16:58:29+07:00 A250 python[2938]: 1 object(s), areas [14143]
 2026-11-04T16:58:36+07:00 A250 python[2938]: 1 object(s), areas [14730]
-2026-11-04T16:58:42+07:00 A250 systemd[1]: Stopping outline.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u outline.py...
+2026-11-04T16:58:42+07:00 A250 systemd[1]: Stopping outline.service - [systemd-run] /home/PI_USER/A250/camera_mapping/.venv/bin/python -u outline.py...
 2026-11-04T16:58:43+07:00 A250 systemd[1]: outline.service: Deactivated successfully.
-2026-11-04T16:58:43+07:00 A250 systemd[1]: Stopped outline.service - [systemd-run] /home/cps/A250/camera_mapping/.venv/bin/python -u outline.py.
+2026-11-04T16:58:43+07:00 A250 systemd[1]: Stopped outline.service - [systemd-run] /home/PI_USER/A250/camera_mapping/.venv/bin/python -u outline.py.
 2026-11-04T16:58:43+07:00 A250 systemd[1]: outline.service: Consumed 6.308s CPU time.
 ===== paint-display
 ===== paint-server
@@ -1416,10 +1416,10 @@
 2026-11-04T16:06:59+07:00 A250 systemd[1]: Started moonraker.service - API Server for Klipper SV1.
 2026-11-04T16:07:00+07:00 A250 python[1294]: Application Info:
 2026-11-04T16:07:00+07:00 A250 python[1294]: platform: Linux-6.18.34+rpt-rpi-2712-aarch64-with-glibc2.41
-2026-11-04T16:07:00+07:00 A250 python[1294]: data_path: /home/cps/printer_data
+2026-11-04T16:07:00+07:00 A250 python[1294]: data_path: /home/PI_USER/printer_data
 2026-11-04T16:07:00+07:00 A250 python[1294]: is_default_data_path: False
-2026-11-04T16:07:00+07:00 A250 python[1294]: config_file: /home/cps/printer_data/config/moonraker.conf
-2026-11-04T16:07:00+07:00 A250 python[1294]: backup_config: /home/cps/printer_data/config/.moonraker.conf.bkp
+2026-11-04T16:07:00+07:00 A250 python[1294]: config_file: /home/PI_USER/printer_data/config/moonraker.conf
+2026-11-04T16:07:00+07:00 A250 python[1294]: backup_config: /home/PI_USER/printer_data/config/.moonraker.conf.bkp
 2026-11-04T16:07:00+07:00 A250 python[1294]: startup_warnings: []
 2026-11-04T16:07:00+07:00 A250 python[1294]: verbose: False
 2026-11-04T16:07:00+07:00 A250 python[1294]: debug: False
@@ -1427,7 +1427,7 @@
 2026-11-04T16:07:00+07:00 A250 python[1294]: is_backup_config: False
 2026-11-04T16:07:00+07:00 A250 python[1294]: is_python_package: True
 2026-11-04T16:07:00+07:00 A250 python[1294]: instance_uuid: 9a0043f5414c4d5f83181087c4bed546
-2026-11-04T16:07:00+07:00 A250 python[1294]: unix_socket_path: /home/cps/printer_data/comms/moonraker.sock
+2026-11-04T16:07:00+07:00 A250 python[1294]: unix_socket_path: /home/PI_USER/printer_data/comms/moonraker.sock
 2026-11-04T16:07:00+07:00 A250 python[1294]: structured_logging: False
 2026-11-04T16:07:00+07:00 A250 python[1294]: software_version: v0.10.0-31-gd5ee171
 2026-11-04T16:07:00+07:00 A250 python[1294]: git_branch: master
@@ -1435,18 +1435,18 @@
 2026-11-04T16:07:00+07:00 A250 python[1294]: git_repo_url: https://github.com/Arksine/moonraker.git
 2026-11-04T16:07:00+07:00 A250 python[1294]: modified_files: []
 2026-11-04T16:07:00+07:00 A250 python[1294]: unofficial_components: []
-2026-11-04T16:07:00+07:00 A250 python[1294]: log_file: /home/cps/printer_data/logs/moonraker.log
+2026-11-04T16:07:00+07:00 A250 python[1294]: log_file: /home/PI_USER/printer_data/logs/moonraker.log
 2026-11-04T16:07:00+07:00 A250 python[1294]: python_version: 3.13.5 (main, May  5 2026, 21:05:52) [GCC 14.2.0]
-2026-11-04T16:07:00+07:00 A250 python[1294]: launch_args: /home/cps/moonraker-env/bin/python /home/cps/moonraker/moonraker/__main__.py
+2026-11-04T16:07:00+07:00 A250 python[1294]: launch_args: /home/PI_USER/moonraker-env/bin/python /home/PI_USER/moonraker/moonraker/__main__.py
 2026-11-04T16:07:00+07:00 A250 python[1294]: msgspec_enabled: True
 2026-11-04T16:07:00+07:00 A250 python[1294]: uvloop_enabled: True
-2026-11-04T16:07:00+07:00 A250 python[1294]: [confighelper.py:read_file()] - Configuration File '/home/cps/printer_data/config/moonraker.conf' parsed, total size: 740 B
+2026-11-04T16:07:00+07:00 A250 python[1294]: [confighelper.py:read_file()] - Configuration File '/home/PI_USER/printer_data/config/moonraker.conf' parsed, total size: 740 B
 2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:add_log_rollover_item()] -
 2026-11-04T16:07:00+07:00 A250 python[1294]: #################### Moonraker Configuration ####################
 2026-11-04T16:07:00+07:00 A250 python[1294]: [server]
 2026-11-04T16:07:00+07:00 A250 python[1294]: host = 0.0.0.0
 2026-11-04T16:07:00+07:00 A250 python[1294]: port = 7125
-2026-11-04T16:07:00+07:00 A250 python[1294]: klippy_uds_address = /home/cps/printer_data/comms/klippy.sock
+2026-11-04T16:07:00+07:00 A250 python[1294]: klippy_uds_address = /home/PI_USER/printer_data/comms/klippy.sock
 2026-11-04T16:07:00+07:00 A250 python[1294]: [authorization]
 2026-11-04T16:07:00+07:00 A250 python[1294]: trusted_clients =
 2026-11-04T16:07:00+07:00 A250 python[1294]:         10.0.0.0/8
@@ -1470,7 +1470,7 @@
 2026-11-04T16:07:00+07:00 A250 python[1294]: type = web
 2026-11-04T16:07:00+07:00 A250 python[1294]: channel = stable
 2026-11-04T16:07:00+07:00 A250 python[1294]: repo = mainsail-crew/mainsail
-2026-11-04T16:07:00+07:00 A250 python[1294]: path = /home/cps/mainsail
+2026-11-04T16:07:00+07:00 A250 python[1294]: path = /home/PI_USER/mainsail
 2026-11-04T16:07:00+07:00 A250 python[1294]: [power webcam]
 2026-11-04T16:07:00+07:00 A250 python[1294]: type = http
 2026-11-04T16:07:00+07:00 A250 python[1294]: on_url = http://127.0.0.1:8081/on
@@ -1479,7 +1479,7 @@
 2026-11-04T16:07:00+07:00 A250 python[1294]: response_template = { http_request.last_response().text.strip().lower() }
 2026-11-04T16:07:00+07:00 A250 python[1294]: #################################################################
 2026-11-04T16:07:00+07:00 A250 python[1294]: All Configuration Files:
-2026-11-04T16:07:00+07:00 A250 python[1294]: /home/cps/printer_data/config/moonraker.conf
+2026-11-04T16:07:00+07:00 A250 python[1294]: /home/PI_USER/printer_data/config/moonraker.conf
 2026-11-04T16:07:00+07:00 A250 python[1294]: #################################################################
 2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:load_component()] - Component (secrets) loaded
 2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:load_component()] - Component (template) loaded
@@ -1582,8 +1582,8 @@
 2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:load_component()] - Component (extensions) loaded
 2026-11-04T16:07:00+07:00 A250 python[1294]: [power.py:__init__()] - Power component loading devices: ['power webcam']
 2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:load_component()] - Component (power) loaded
-2026-11-04T16:07:00+07:00 A250 python[1294]: [base_deploy.py:log_info()] - Git Repo moonraker: Detected virtualenv: /home/cps/moonraker-env
-2026-11-04T16:07:00+07:00 A250 python[1294]: [base_deploy.py:log_info()] - Git Repo klipper: Detected virtualenv: /home/cps/klippy-env
+2026-11-04T16:07:00+07:00 A250 python[1294]: [base_deploy.py:log_info()] - Git Repo moonraker: Detected virtualenv: /home/PI_USER/moonraker-env
+2026-11-04T16:07:00+07:00 A250 python[1294]: [base_deploy.py:log_info()] - Git Repo klipper: Detected virtualenv: /home/PI_USER/klippy-env
 2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:load_component()] - Component (update_manager) loaded
 2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:load_component()] - Component (octoprint_compat) loaded
 2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:_initialize_component()] - Performing Component Post Init: [database]
@@ -1592,8 +1592,8 @@
 2026-11-04T16:07:00+07:00 A250 python[1294]: [server.py:_initialize_component()] - Performing Component Post Init: [machine]
 2026-11-04T16:07:00+07:00 A250 python[1294]: [machine.py:validation_init()] - Installation version in database up to date
 2026-11-04T16:07:01+07:00 A250 python[1294]: [machine.py:check_virt_status()] - No Virtualization Detected
-2026-11-04T16:07:01+07:00 A250 python[1294]: [machine.py:_find_public_ip()] - Detected Local IP: 192.168.31.187
-2026-11-04T16:07:01+07:00 A250 python[1294]: [webcam.py:_set_default_host_ip()] - Default public webcam address set: http://192.168.31.187
+2026-11-04T16:07:01+07:00 A250 python[1294]: [machine.py:_find_public_ip()] - Detected Local IP: PI_IP
+2026-11-04T16:07:01+07:00 A250 python[1294]: [webcam.py:_set_default_host_ip()] - Default public webcam address set: http://PI_IP
 2026-11-04T16:07:01+07:00 A250 python[1294]: [server.py:add_log_rollover_item()] -
 2026-11-04T16:07:01+07:00 A250 python[1294]: Systemd unit moonraker.service:
 2026-11-04T16:07:01+07:00 A250 python[1294]: unit_name: moonraker.service
@@ -1603,17 +1603,17 @@
 2026-11-04T16:07:01+07:00 A250 python[1294]: **Requires=['network-online.target', 'system.slice', 'sysinit.target']
 2026-11-04T16:07:01+07:00 A250 python[1294]: **After=['basic.target', 'systemd-journald.socket', 'sysinit.target', 'system.slice', 'network-online.target']
 2026-11-04T16:07:01+07:00 A250 python[1294]: **SupplementaryGroups=['moonraker-admin']
-2026-11-04T16:07:01+07:00 A250 python[1294]: **EnvironmentFiles=/home/cps/printer_data/systemd/moonraker.env
-2026-11-04T16:07:01+07:00 A250 python[1294]: **ExecStart=/home/cps/moonraker-env/bin/python $MOONRAKER_ARGS
+2026-11-04T16:07:01+07:00 A250 python[1294]: **EnvironmentFiles=/home/PI_USER/printer_data/systemd/moonraker.env
+2026-11-04T16:07:01+07:00 A250 python[1294]: **ExecStart=/home/PI_USER/moonraker-env/bin/python $MOONRAKER_ARGS
 2026-11-04T16:07:01+07:00 A250 python[1294]: **WorkingDirectory=
 2026-11-04T16:07:01+07:00 A250 python[1294]: **FragmentPath=/etc/systemd/system/moonraker.service
 2026-11-04T16:07:01+07:00 A250 python[1294]: **Description=API Server for Klipper SV1
-2026-11-04T16:07:01+07:00 A250 python[1294]: **User=cps
+2026-11-04T16:07:01+07:00 A250 python[1294]: **User=PI_USER
 2026-11-04T16:07:01+07:00 A250 python[1294]: [server.py:_initialize_component()] - Performing Component Post Init: [proc_stats]
 2026-11-04T16:07:01+07:00 A250 python[1294]: [server.py:_initialize_component()] - Performing Component Post Init: [history]
 2026-11-04T16:07:01+07:00 A250 python[1294]: [server.py:_initialize_component()] - Performing Component Post Init: [announcements]
 2026-11-04T16:07:01+07:00 A250 python[1294]: [server.py:_initialize_component()] - Performing Component Post Init: [webcam]
-2026-11-04T16:07:01+07:00 A250 python[1294]: [webcam.py:_set_default_host_ip()] - Default public webcam address set: http://192.168.31.187
+2026-11-04T16:07:01+07:00 A250 python[1294]: [webcam.py:_set_default_host_ip()] - Default public webcam address set: http://PI_IP
 2026-11-04T16:07:01+07:00 A250 python[1294]: [server.py:_initialize_component()] - Performing Component Post Init: [klippy_connection]
 2026-11-04T16:07:01+07:00 A250 python[1294]: [server.py:add_log_rollover_item()] -
 2026-11-04T16:07:01+07:00 A250 python[1294]: Systemd unit klipper.service:
@@ -1625,23 +1625,23 @@
 2026-11-04T16:07:01+07:00 A250 python[1294]: **After=['network-online.target', 'basic.target', '-.mount', 'systemd-journald.socket', 'sysinit.target', 'system.slice']
 2026-11-04T16:07:01+07:00 A250 python[1294]: **SupplementaryGroups=[]
 2026-11-04T16:07:01+07:00 A250 python[1294]: **EnvironmentFiles=[]
-2026-11-04T16:07:01+07:00 A250 python[1294]: **ExecStart=/home/cps/klippy-env/bin/python /home/cps/klipper/klippy/klippy.py /home/cps/printer_data/config/printer.cfg -l /home/cps/printer_data/logs/klippy.log -a /home/cps/printer_data/comms/klippy.sock
-2026-11-04T16:07:01+07:00 A250 python[1294]: **WorkingDirectory=/home/cps/klipper
+2026-11-04T16:07:01+07:00 A250 python[1294]: **ExecStart=/home/PI_USER/klippy-env/bin/python /home/PI_USER/klipper/klippy/klippy.py /home/PI_USER/printer_data/config/printer.cfg -l /home/PI_USER/printer_data/logs/klippy.log -a /home/PI_USER/printer_data/comms/klippy.sock
+2026-11-04T16:07:01+07:00 A250 python[1294]: **WorkingDirectory=/home/PI_USER/klipper
 2026-11-04T16:07:01+07:00 A250 python[1294]: **FragmentPath=/etc/systemd/system/klipper.service
 2026-11-04T16:07:01+07:00 A250 python[1294]: **Description=Klipper 3D Printer Firmware
-2026-11-04T16:07:01+07:00 A250 python[1294]: **User=cps
+2026-11-04T16:07:01+07:00 A250 python[1294]: **User=PI_USER
 2026-11-04T16:07:01+07:00 A250 python[1294]: [server.py:_initialize_component()] - Performing Component Post Init: [power]
 2026-11-04T16:07:01+07:00 A250 python[1294]: [server.py:_initialize_component()] - Performing Component Post Init: [update_manager]
 2026-11-04T16:07:01+07:00 A250 python[1294]: [proc_stats.py:run()] - VCIO vcgencmd failed
 2026-11-04T16:07:01+07:00 A250 python[1294]: Traceback (most recent call last):
-2026-11-04T16:07:01+07:00 A250 python[1294]:   File "/home/cps/moonraker/moonraker/components/proc_stats.py", line 387, in run
+2026-11-04T16:07:01+07:00 A250 python[1294]:   File "/home/PI_USER/moonraker/moonraker/components/proc_stats.py", line 387, in run
 2026-11-04T16:07:01+07:00 A250 python[1294]:     fd = os.open(VCIO_PATH, os.O_RDWR)
 2026-11-04T16:07:01+07:00 A250 python[1294]: PermissionError: [Errno 13] Permission denied: '/dev/vcio'
 2026-11-04T16:07:01+07:00 A250 python[1294]: [base_deploy.py:log_info()] - PackageDeploy: PackageKit Provider Configured
 2026-11-04T16:07:01+07:00 A250 python[1294]: [git_deploy.py:log_repo_info()] - Git Repo moonraker Detected:
 2026-11-04T16:07:01+07:00 A250 python[1294]: Owner: Arksine
 2026-11-04T16:07:01+07:00 A250 python[1294]: Repository Name: moonraker
-2026-11-04T16:07:01+07:00 A250 python[1294]: Path: /home/cps/moonraker
+2026-11-04T16:07:01+07:00 A250 python[1294]: Path: /home/PI_USER/moonraker
 2026-11-04T16:07:01+07:00 A250 python[1294]: Remote: origin
 2026-11-04T16:07:01+07:00 A250 python[1294]: Branch: master
 2026-11-04T16:07:01+07:00 A250 python[1294]: Remote URL: https://github.com/Arksine/moonraker.git
@@ -1662,7 +1662,7 @@
 2026-11-04T16:07:01+07:00 A250 python[1294]: [git_deploy.py:log_repo_info()] - Git Repo klipper Detected:
 2026-11-04T16:07:01+07:00 A250 python[1294]: Owner: Klipper3d
 2026-11-04T16:07:01+07:00 A250 python[1294]: Repository Name: klipper
-2026-11-04T16:07:01+07:00 A250 python[1294]: Path: /home/cps/klipper
+2026-11-04T16:07:01+07:00 A250 python[1294]: Path: /home/PI_USER/klipper
 2026-11-04T16:07:01+07:00 A250 python[1294]: Remote: origin
 2026-11-04T16:07:01+07:00 A250 python[1294]: Branch: master
 2026-11-04T16:07:01+07:00 A250 python[1294]: Remote URL: https://github.com/Klipper3d/klipper.git
@@ -1685,7 +1685,7 @@
 2026-11-04T16:07:01+07:00 A250 python[1294]: [base_deploy.py:log_info()] - Web Client mainsail: Detected
 2026-11-04T16:07:01+07:00 A250 python[1294]: Repo: mainsail-crew/mainsail
 2026-11-04T16:07:01+07:00 A250 python[1294]: Channel: stable
-2026-11-04T16:07:01+07:00 A250 python[1294]: Path: /home/cps/mainsail
+2026-11-04T16:07:01+07:00 A250 python[1294]: Path: /home/PI_USER/mainsail
 2026-11-04T16:07:01+07:00 A250 python[1294]: Local Version: v2.18.0
 2026-11-04T16:07:01+07:00 A250 python[1294]: Remote Version: v2.19.0
 2026-11-04T16:07:01+07:00 A250 python[1294]: Valid: True
@@ -1700,7 +1700,7 @@
 2026-11-04T16:07:01+07:00 A250 python[1294]: [base_deploy.py:log_info()] - Git Repo moonraker: Next refresh in: 4 Days, 11 Hours, 14 Minutes, 54 Seconds
 2026-11-04T16:07:01+07:00 A250 python[1294]: [base_deploy.py:log_info()] - Git Repo klipper: Next refresh in: 4 Days, 11 Hours, 14 Minutes, 58 Seconds
 2026-11-04T16:07:01+07:00 A250 python[1294]: [base_deploy.py:log_info()] - Web Client mainsail: Next refresh in: 4 Days, 11 Hours, 14 Minutes, 58 Seconds
-2026-11-04T16:07:01+07:00 A250 python[1294]: [extensions.py:start_unix_server()] - Creating Unix Domain Socket at '/home/cps/printer_data/comms/moonraker.sock'
+2026-11-04T16:07:01+07:00 A250 python[1294]: [extensions.py:start_unix_server()] - Creating Unix Domain Socket at '/home/PI_USER/printer_data/comms/moonraker.sock'
 2026-11-04T16:07:01+07:00 A250 python[1294]: [server.py:start_server()] - Starting Moonraker on (0.0.0.0, 7125), Hostname: A250
 2026-11-04T16:07:01+07:00 A250 python[1294]: [application.py:listen()] - SSL Certificate/Key not configured, aborting HTTPS Server startup
 2026-11-04T16:07:01+07:00 A250 python[1294]: [klippy_connection.py:_do_connect()] - Klippy Connection Established
@@ -1714,11 +1714,11 @@
 2026-11-04T16:07:01+07:00 A250 python[1294]: **After=['-.mount', 'sysinit.target', 'network-online.target', 'systemd-journald.socket', 'basic.target', 'system.slice']
 2026-11-04T16:07:01+07:00 A250 python[1294]: **SupplementaryGroups=[]
 2026-11-04T16:07:01+07:00 A250 python[1294]: **EnvironmentFiles=[]
-2026-11-04T16:07:01+07:00 A250 python[1294]: **ExecStart=/home/cps/klippy-env/bin/python /home/cps/klipper/klippy/klippy.py /home/cps/printer_data/config/printer.cfg -l /home/cps/printer_data/logs/klippy.log -a /home/cps/printer_data/comms/klippy.sock
-2026-11-04T16:07:01+07:00 A250 python[1294]: **WorkingDirectory=/home/cps/klipper
+2026-11-04T16:07:01+07:00 A250 python[1294]: **ExecStart=/home/PI_USER/klippy-env/bin/python /home/PI_USER/klipper/klippy/klippy.py /home/PI_USER/printer_data/config/printer.cfg -l /home/PI_USER/printer_data/logs/klippy.log -a /home/PI_USER/printer_data/comms/klippy.sock
+2026-11-04T16:07:01+07:00 A250 python[1294]: **WorkingDirectory=/home/PI_USER/klipper
 2026-11-04T16:07:01+07:00 A250 python[1294]: **FragmentPath=/etc/systemd/system/klipper.service
 2026-11-04T16:07:01+07:00 A250 python[1294]: **Description=Klipper 3D Printer Firmware
-2026-11-04T16:07:01+07:00 A250 python[1294]: **User=cps
+2026-11-04T16:07:01+07:00 A250 python[1294]: **User=PI_USER
 2026-11-04T16:07:01+07:00 A250 python[1294]: [server.py:add_log_rollover_item()] - Klipper Version: v0.13.0-701-g7e64fc842-dirty
 2026-11-04T16:07:01+07:00 A250 python[1294]: [klippy_connection.py:_request_initial_subscriptions()] - Webhooks Subscribed
 2026-11-04T16:07:01+07:00 A250 python[1294]: [klippy_connection.py:_request_initial_subscriptions()] - GCode Output Subscribed

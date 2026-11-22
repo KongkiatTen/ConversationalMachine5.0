@@ -60,7 +60,7 @@
   <div id="toast" class="toast" role="status"></div>
   <script>
     const $=id=>document.getElementById(id);let step=1,enabled=false;
-    const host=location.hostname||'192.168.31.187';$('ip').textContent=host;$('cameraLink').href=`http://${host}:8080/`;$('cameraLink').textContent=`${host}:8080`;
+    const host=location.hostname||'PI_IP';$('ip').textContent=host;$('cameraLink').href=`http://${host}:8080/`;$('cameraLink').textContent=`${host}:8080`;
     function connectCamera(){const img=$('camera');img.src=`http://${host}:8080/?action=stream&t=${Date.now()}`;}connectCamera();$('reloadCamera').onclick=connectCamera;
     function toast(s){const el=$('toast');el.textContent=s;el.classList.add('show');setTimeout(()=>el.classList.remove('show'),2600)}
     document.querySelectorAll('[data-step]').forEach(b=>b.onclick=()=>{step=Number(b.dataset.step);document.querySelectorAll('[data-step]').forEach(x=>x.classList.toggle('active',x===b))});

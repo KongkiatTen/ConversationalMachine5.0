@@ -1,6 +1,6 @@
 # A250 session log — 2026-11-04
 
-Pi 5 `A250` at 192.168.31.187 (user `cps`): Klipper + Moonraker (:7125), uStreamer stereo webcam (:8080, 2560x720, left eye = x 0-1279), projector on HDMI, paint-server (:8765).
+Pi 5 `A250` at PI_IP (user `PI_USER`): Klipper + Moonraker (:7125), uStreamer stereo webcam (:8080, 2560x720, left eye = x 0-1279), projector on HDMI, paint-server (:8765).
 
 ## What was done (in order)
 

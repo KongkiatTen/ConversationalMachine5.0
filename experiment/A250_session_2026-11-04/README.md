@@ -4,13 +4,13 @@ The Snapmaker A250 is the project’s motion platform. A Raspberry Pi 5 runs the
 
 ## Connect to the Raspberry Pi over SSH
 
-Connect your computer to the **Mechatronics** Wi-Fi network, then open a terminal and connect to the Pi with the recorded account and address:
+Connect your computer to the **Mechatronics** Wi-Fi network, then open a terminal and connect to the Pi using your Pi account name and current LAN address:
 
 ```sh
-ssh cps@192.168.31.187
+ssh username@PI_IP
 ```
 
-At the password prompt, type the Pi account password and press Enter. The password is not shown as you type. On the first connection, SSH may ask you to verify the host key; compare its fingerprint with a trusted record for the Pi before accepting. When connected, the shell prompt will be on the Pi. Type `exit` to disconnect.
+Replace `username` and `PI_IP` with the account and address for your Pi. At the password prompt, type the Pi account password and press Enter. The password is not shown as you type. On the first connection, SSH may ask you to verify the host key; compare its fingerprint with a trusted record for the Pi before accepting. When connected, the shell prompt will be on the Pi. Type `exit` to disconnect.
 
 If the connection times out, confirm the Pi is powered on and both devices are on the **Mechatronics** network; the Pi address may have changed. Do not put the password in the command, a script, or this repository.
 
@@ -33,7 +33,7 @@ The recorded calibration had 8 homography inliers and 1.37 px mean error; bracke
 
 ## Files
 
-- `pi_projector_track/` and `scripts/`: experiment programs
+- `pi_projector_track/`: experiment programs copied from the Pi, with calibration data and outputs
 - `snapshots/`, `video/`, and `logs/`: experiment evidence
 - `machine_web/`: camera/status page and interlocked jog interface
 - `A250_REPORT_NOTES.md`: wiring, components, references, and machine status

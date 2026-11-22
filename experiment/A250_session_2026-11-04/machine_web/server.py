@@ -30,8 +30,8 @@ AXES = {"x": (0.0, 262.0), "y": (0.0, 262.0), "z": (0.0, 262.0)}
 app = Flask(__name__, static_folder=None)
 app.config.update(
     MAX_CONTENT_LENGTH=4096,
-    CONFIG_PATH=Path("/home/cps/printer_data/config/printer.cfg"),
-    SAFETY_MARKER=Path("/home/cps/printer_data/config/machine_ui_safety.json"),
+    CONFIG_PATH=Path.home() / "printer_data" / "config" / "printer.cfg",
+    SAFETY_MARKER=Path.home() / "printer_data" / "config" / "machine_ui_safety.json",
     MOTION_TOKEN="",
 )
 

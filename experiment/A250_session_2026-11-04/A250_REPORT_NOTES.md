@@ -4,21 +4,21 @@ Prepared 2026-11-16 (Asia/Bangkok) from the A250 experiment folder, Pi inspectio
 
 ## Machine identity and current state
 
-- Hostname: `A250`; private LAN address observed: `192.168.31.187` (`wlan0`). SSH account used: `cps`. **Credentials are intentionally not stored here.**
+- Hostname: `A250`; private LAN address observed: `PI_IP` (`wlan0`). SSH account used: `PI_USER`. **Credentials are intentionally not stored here.**
 - Host platform in machine notes: Seeed reComputer AI R2140-12 with Raspberry Pi 5 16 GB and Hailo-8 accelerator.
 - Klipper and Moonraker services were active; printer info reported Klipper `ready`, print state `standby`.
-- Webcam/uStreamer active on port 8080, 2560×720 at 30 fps; snapshot endpoint returned HTTP 200. Browser preview: `http://192.168.31.187:8080/`.
+- Webcam/uStreamer active on port 8080, 2560×720 at 30 fps; snapshot endpoint returned HTTP 200. Browser preview: `http://PI_IP:8080/`.
 - Projector was initially disconnected, then later detected on HDMI-A-1 at 1280×720 around 59.97 Hz. HDMI-A-2 remained disconnected. `/dev/fb0` was present when it was detected.
 - Tic-tac-toe was started briefly, then stopped at user request. Its status file read `stopped`; its stop handler clears the framebuffer.
 - `paint-display` remains disabled/inactive; `paint-server` remains active.
-- A LAN machine console was installed at `/home/cps/A250/machine_web`, port 8766. URL: `http://192.168.31.187:8766/`. It serves live camera, status, and guarded jog UI. Server process was started with `nohup` (PID 2097 at last check). GET `/` returned HTTP 200; `/api/camera-check` reported available; API status returned connected.
+- A LAN machine console was installed at `~/A250/machine_web`, port 8766. URL: `http://PI_IP:8766/`. It serves live camera, status, and guarded jog UI. Server process was started with `nohup` (PID 2097 at last check). GET `/` returned HTTP 200; `/api/camera-check` reported available; API status returned connected.
 - The web UI reports motion locked. It requires a local safety marker, cleared configuration warnings, all axes homed, idle state, valid cool temperature, and positions within travel limits before enabling jog. No token or credentials were saved in this note.
 - No XYZ movement was made during this session. Fresh Klipper query reported `homed_axes` empty, coordinate values all zero (untrusted while unhomed), print `standby`, and extruder reading about 260 °C with target 0 °C. Bed sensor returned null.
 - Current active `printer.cfg` comments say homing endstop signals may not work until the G431 emulates Snapmaker CAN limits, motor direction/endstop polarity are unverified, and the machine is not safe to move. Sensor configuration is also marked TODO/unverified. Do not home, jog, set a false kinematic position, or use extrusion/solenoids until these issues are resolved and verified at the machine.
 
 ## Controller and wiring notes
 
-Machine docs: `/home/cps/A250/klipper/A250_MACHINE.md`, `/home/cps/A250/PINMAP_H723.md`, `/home/cps/printer_data/config/printer.cfg`, `/home/cps/A250/SNAPMAKER_CAN.md`.
+Machine docs: `~/A250/klipper/A250_MACHINE.md`, `~/A250/PINMAP_H723.md`, `~/printer_data/config/printer.cfg`, `~/A250/SNAPMAKER_CAN.md`.
 
 - CrossTechControllerV1 custom dual-MCU board: STM32H723 motion MCU and STM32G431 gateway MCU.
 - X step/dir/enable: `PD3` / `PD4` / `PD6`.
@@ -52,7 +52,7 @@ Local session record: `SESSION_LOG.md`.
 
 ## Python package inventory
 
-Read/parsed 28 Python source files under `/home/cps/A250`, excluding virtual environments. This does not include Python sources in separate vendor trees such as `/home/cps/klipper` or `/home/cps/moonraker`.
+Read/parsed 28 Python source files under `~/A250`, excluding virtual environments. This does not include Python sources in separate vendor trees such as `~/klipper` or `~/moonraker`.
 
 Third-party or target-runtime modules referenced:
 
