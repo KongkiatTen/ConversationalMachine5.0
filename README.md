@@ -59,7 +59,13 @@ The session log also records Z-height changes and the X/Y/Z direction observatio
 
 The vision pipeline detects the two circular holes in the workpiece and projects markers onto their centers. The debug image shows the detected object box and both hole targets. In the linked clip, the workpiece is repositioned by hand while the projected targets update.
 
-![Detected workpiece and tracked hole centers](experiment/A250_session_2026-11-04/snapshots/track_debug.jpg)
+**Camera input with tracking overlays off**
+
+![Unannotated stereo camera view of the bracket on the bed](experiment/A250_session_2026-11-04/snapshots/live2.jpg)
+
+**Tracking output**
+
+![Detected bracket box and hole-center markers](experiment/A250_session_2026-11-04/snapshots/track_debug.jpg)
 
 [Watch the hole-tracking clip (22 seconds)](experiment/A250_session_2026-11-04/video/815476624.458707.mp4)
 
@@ -79,7 +85,9 @@ The vision script segments an object against the dark bed and draws its detected
 
 The camera tracks a fingertip over a projected grid, allowing a player to select a cell while the projector displays the board and marks.
 
-![Fingertip selecting a cell on the projected tic-tac-toe board](experiment/A250_session_2026-11-04/video/S__11952167_0.jpg)
+| Fingertip selecting a cell | Projected game board |
+| --- | --- |
+| ![Hand pointing at a tic-tac-toe cell](experiment/A250_session_2026-11-04/video/S__11952166_0.jpg) | ![Projected tic-tac-toe board after play](experiment/A250_session_2026-11-04/video/S__11952167_0.jpg) |
 
 [Watch the tic-tac-toe clip (33 seconds)](experiment/A250_session_2026-11-04/video/815478859.952247.mp4)
 
