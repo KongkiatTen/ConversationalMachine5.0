@@ -18,7 +18,7 @@ If the connection times out, confirm the Pi is powered on and both devices are o
 
 ![A250 wiring diagram](wiring/A250_wiring_diagram.svg)
 
-Solid paths show documented connections; dashed paths mark unverified endstop/status wiring. This is a system-level diagram. Power distribution and connector-level harness details remain undocumented.
+Solid paths show observed or documented signal connections; dashed paths mark expected or unverified wiring. The Pi power input is labeled USB-C 5 V/5 A, but the installed supply cable was not identified. Controller power, grounds, motor wiring, and connector-level harness details still need an on-machine trace.
 
 ## What we do
 

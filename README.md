@@ -89,7 +89,7 @@ The local Flask console brings together the stereo camera preview, LAN endpoint,
 
 ![A250 wiring diagram](experiment/A250_session_2026-11-04/wiring/A250_wiring_diagram.svg)
 
-This is a system-level diagram based on available notes. Dashed connections are unverified; power distribution, connector-level harness details, and some component models remain undocumented. See the [A250 experiment notes](experiment/A250_session_2026-11-04/A250_REPORT_NOTES.md).
+This port-oriented diagram labels the host power, USB, display, CAN, controller, and motion-signal interfaces. Dashed routes need physical confirmation. The host specification calls for 5 V/5 A USB-C power, but the installed supply cable was not identified; controller power, grounds, motor wiring, and connector-level harness details remain untraced. See the [A250 experiment notes](experiment/A250_session_2026-11-04/A250_REPORT_NOTES.md).
 
 ## Course brief and report checklist
 
