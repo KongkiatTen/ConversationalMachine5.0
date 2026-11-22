@@ -61,7 +61,7 @@ The vision pipeline detects the two circular holes in the workpiece and projects
 
 **Camera view during hole tracking**
 
-![A250 bed view with red projected markers centered over the two bracket holes](experiment/A250_session_2026-11-04/video/S__11952163_0.jpg)
+<img src="experiment/A250_session_2026-11-04/video/S__11952163_0.jpg" alt="A250 bed view with red projected markers centered over the two bracket holes" width="480">
 
 **Tracking output**
 
@@ -73,7 +73,7 @@ The vision pipeline detects the two circular holes in the workpiece and projects
 
 The vision script segments an object against the dark bed and draws its detected contour back into the projected workspace. The saved view shows the outline around a bracket.
 
-![Projected object outlines during the experiment](experiment/A250_session_2026-11-04/video/S__11952172_0.jpg)
+<img src="experiment/A250_session_2026-11-04/video/S__11952172_0.jpg" alt="Projected object outlines during the experiment" width="480">
 
 [Video of projected object outlines](experiment/A250_session_2026-11-04/video/815479158.467749.mp4)
 
